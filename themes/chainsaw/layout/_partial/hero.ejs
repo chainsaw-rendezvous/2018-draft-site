@@ -3,7 +3,7 @@
     <div class="uk-position-relative uk-visible-toggle" uk-slideshow="{animation: 'swipe', autoplay: true}">
         <ul class="uk-slideshow-items" uk-height-viewport>
             <li>
-                <img src="<%- url_for(config.root + "assets/2018/hero-slides/deer-running.jpg") %>" uk-cover alt="Buck, Doe, and Fawn running">
+                <img src="<%- url_for("/assets/2018/hero-slides/deer-running.jpg") %>" uk-cover alt="Buck, Doe, and Fawn running">
                 <div class="uk-inline-clip uk-transition-fade uk-position-cover uk-overlay-primary transition-delay-750">
                     <div class="uk-position-center uk-text-center uk-text-middle">
                         <h3 class="sldr-title-large bold-font">Chainsaw Carvers Rendezvous</h3>
@@ -13,18 +13,18 @@
                 </div>
             </li>
             <li>
-                <img src="<%- url_for(config.root + "assets/2018/hero-slides/turkey.jpg") %>" uk-cover alt="Carved wild turkey">
+                <img src="<%- url_for("/assets/2018/hero-slides/turkey.jpg") %>" uk-cover alt="Carved wild turkey">
                 <div class="uk-inline-clip uk-transition-fade uk-position-cover uk-overlay-primary transition-delay-500">
                     <div class="uk-position-center uk-text-center uk-text-middle">
                         <h3 class="sldr-title-large bold-font">Choose Best of Show</h3>
                         <p class="sldr-para25 white-color">Your vote counts for the People's Choice and Social Media awards!</p>
                         <div class="spacer2"></div>
-                        <a href="#" class="readon uk-margin-right success">Visit to vote for People's Choice</a> <a href="#" class="readon warning">Vote for Social Media Choice</a>  
+                        <a href="<%- url_for("/2018/awards/")%>" class="readon uk-margin-right success">How to vote for People's Choice</a> <a href="<%- url_for("/2018/awards/")%>" class="readon warning">How for Social Media Choice</a>  
                     </div>
                 </div>
             </li>
             <li>
-                <img src="<%- url_for(config.root + "assets/2018/hero-slides/2017-carving-casino.jpg") %>" uk-cover alt="2017 Carving at the Casino Carvers">
+                <img src="<%- url_for("/assets/2018/hero-slides/2017-carving-casino.jpg") %>" uk-cover alt="2017 Carving at the Casino Carvers">
                 <div class="uk-inline-clip uk-transition-fade uk-position-cover uk-overlay-primary transition-delay-1500">
                         <div class="uk-position-center uk-text-center uk-text-middle">
                         <h3 class="sldr-title-large bold-font">Carving at the Casino</h3>
