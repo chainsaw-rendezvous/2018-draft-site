@@ -1,0 +1,37 @@
+<!-- Content Start -->
+<section class="tc-content uk-section sec-color" id="tc-content">
+    <div class="uk-container">
+        <div class="uk-grid" uk-grid>
+            <div class="uk-width-3-4@m">
+
+            <% if(page.preheader) { %>
+                <h3 class="uk-margin-remove-bottom"><%- page.preheader %></h3>
+            <% } %>
+
+            <%
+                var titleClasses = "";
+            
+                if(page.subheader) { 
+                    titleClasses = " uk-margin-remove-bottom";
+                } else {
+                    titleClasses = " title1";
+                }
+            %>
+
+            <h1 class="uk-margin-remove-top<%- titleClasses %>"><%- page.title %></h1>
+
+            <% if(page.subheader) { %>
+                <h3 class="uk-margin-remove-top title1"><%- page.subheader %></h3>
+            <% } %>
+
+            <% if(page.lead) { %>
+                <p class="uk-text-lead uk-padding-large uk-padding-remove-horizontal"><%- page.lead %></p>
+            <% } %>
+            
+            <%- page.content %>
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Content End -->

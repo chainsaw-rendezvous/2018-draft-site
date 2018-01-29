@@ -1,0 +1,9 @@
+# Promoted Social Networks
+-
+  network: Facebook
+  icon: fab fa-facebook-f
+  link: https://www.facebook.com/chainsawrendezvous
+-
+  network: Email
+  icon: fas fa-at
+  link: mailto:info@chainsawrendezvous.org

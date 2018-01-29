@@ -1,0 +1,75 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!--Description-->
+    <% if (page.description){ %>
+        <meta name="description" content="<%= page.description %>">
+    <% } else if (config.description){ %>
+        <meta name="description" content="<%= config.description %>">
+    <% } else if (page.excerpt){ %>
+        <meta name="description" content="<%= strip_html(page.excerpt).replace(/^\s*/, '').replace(/\s*$/, '') %>">
+    <% } %>
+    
+    <!--Author-->
+    <% if (page.author){ %>
+        <meta name="author" content="<%= page.author %>">
+    <% } else if (config.author){ %>
+        <meta name="author" content="<%= config.author %>">
+    <% } %>
+    
+    <!--Open Graph Site Name-->
+    <meta property="og:site_name" content="<%= config.title %>"/>
+    
+    <!--Type page-->
+    <% if(page.title) { %>
+        <meta property="og:type" content="article" />
+    <% } else { %>
+        <meta property="og:type" content="website" />
+    <% } %>
+    
+    <!--Page Cover-->
+    <% if (page.share_cover) { %>
+        <meta property="og:image" content="<%= config.url %><%= page.share_cover %>" />
+    <% } else if (config.cover) { %>
+        <meta property="og:image" content="<%= config.url %><%= config.cover %>"/>
+    <% } %>
+    
+    <meta name="twitter:card" content="summary" />
+    <% if(theme.twitter_handle) { %>
+        <meta name="twitter:site" content="<%= theme.twitter_handle %>" />
+    <% } %>
+    
+    <!-- Title -->
+    <%
+        var title = [];
+        if (page.current > 1) title.push(__('page', page.current));
+        if (page.title) title.push(page.title);
+        if (page.category) title.push(page.category);
+        if (page.tag) title.push(page.tag);
+        if (page.archive) {
+            if (page.year) title.push(__('archive_b', page.year + (page.month ? '/' + page.month : '')));
+            else title.push(__('archive_a'));
+        }
+        title.push(config.title);
+    %>
+    <title><%= title.join(' - ') %></title>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/IanLunn/Hover/master/css/hover-min.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.38/css/uikit.min.css" />
+    <%- css(['css/style.css', 'css/shortcodes.css', 'css/mystyle.css']) %>
+    <link rel="stylesheet" href="/css/style.css" />
+    
+    <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+    
+    <!-- Google Analytics -->
+    <%- partial('_partial/google-analytics') %>
+</head>

@@ -1,0 +1,14 @@
+<%
+if(page.widgets) {
+    for(var i in page.widgets) { 
+        if(_.isObject(page.widgets[i])) { %>
+            <% _.forEach(page.widgets[i], function(value,key) { %>
+                <%- partial('_partial/' + key,value) %>
+            <% }) %>
+        <% } else { %>
+            <%- partial('_partial/' + page.widgets[i]) %>
+    <% }
+    } 
+} else { %>
+    <%- partial('_partial/content') %>
+<% } %>
