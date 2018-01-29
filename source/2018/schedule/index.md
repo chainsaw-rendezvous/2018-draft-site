@@ -8,29 +8,89 @@ widgets:
     - event-highlights
 ---
 
-A full schedule of the 2018 festival will be available closer to the event. Show hours will be:
+### Thursday, April 26
 
 {% raw %}
 <table class="uk-table uk-table-divider">
     <caption></caption>
     <thead>
         <tr>
-            <th>Date</th>
             <th>Times</th>
+            <th>Event</th>
+            <th>Location</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Thursday, April 26</td>
             <td>9am - 7pm</td>
+            <td>Carver spaces open</td>
+            <td>Around the courthouse</td>
         </tr>
         <tr>
-            <td>Friday, April 27</td>
             <td>9am - 7pm</td>
+            <td>Vote for People's Choice Award</td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+
+{% endraw %}
+
+### Friday, April 27
+
+{% raw %}
+<table class="uk-table uk-table-divider">
+    <caption></caption>
+    <thead>
+        <tr>
+            <th>Times</th>
+            <th>Event</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>9am - 7pm</td>
+            <td>Carver spaces open</td>
+            <td>Around the courthouse</td>
         </tr>
         <tr>
-            <td>Saturday, April 28</td>
-            <td>9am - 5pm</td>
+            <td>9am - 7pm</td>
+            <td>Vote for People's Choice Award</td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+
+{% endraw %}
+
+### Saturday, April 28
+
+{% raw %}
+<table class="uk-table uk-table-divider">
+    <caption></caption>
+    <thead>
+        <tr>
+            <th>Times</th>
+            <th>Event</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>9am - 7pm</td>
+            <td>Carver spaces open</td>
+            <td>Around the courthouse</td>
+        </tr>
+        <tr>
+            <td>9am - 7pm</td>
+            <td>Vote for People's Choice Award</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Quick Carves with live auction of pieces</td>
+            <td>&nbsp;</td>
         </tr>
     </tbody>
 </table>
