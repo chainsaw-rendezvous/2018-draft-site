@@ -3,11 +3,11 @@
     <div class="uk-offcanvas-bar">
         <a href="" class="uk-modal-close-default" uk-close></a>
         <ul class="uk-nav uk-nav-default">
-            <li><a href="#tc-slider" uk-scroll="">Home</a></li>
-            <li><a href="#tc-about" uk-scroll="{offset: 80}">Carvers Attending</a></li>
-            <li><a href="#tc-work" uk-scroll="{offset: 80}">Schedule</a></li>
-            <li><a href="#tc-team" uk-scroll="{offset: 80}">Map</a></li>
-            <li><a href="#tc-pricing" uk-scroll="{offset: 80}">History</a></li>
+            <li class="uk-active"><a href="<%- url_for('/') %>">Home</a></li>
+            <li><a href="<%- url_for('/2018/carvers') %>">Carvers Attending</a></li>
+            <li><a href="<%- url_for('/2018/schedule') %>">Schedule</a></li>
+            <li><a href="<%- url_for('/2018/map') %>">Map</a></li>
+            <li><a href="<%- url_for('/history') %>">History</a></li>
         </ul>
         <ul class="uk-iconnav">
             <li><a href="https://fb.com/chainsawrendezvous"><i class="fab fa-facebook-f"></i></a></li>

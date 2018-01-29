@@ -3,16 +3,16 @@
     <div class="uk-container uk-container-expand">
         <nav class="uk-navbar" uk-navbar>
             <div class="uk-navbar-left">
-                <a class="uk-navbar-item uk-logo" href="#">
-                    <img uk-svg src="<%- url_for(config.root + "assets/2018-logo.svg") %>" width="300" class="uk-margin-small-right uk-height-1-1">
+                <a class="uk-navbar-item uk-logo" href="<%- url_for('/') %>">
+                    <img uk-svg src="<%- url_for("/assets/2018-logo.svg") %>" width="300" class="uk-margin-small-right uk-height-1-1">
                 </a>
             </div>
             <div class="uk-navbar-right">
                 <ul class="uk-navbar-nav uk-visible@m">
                     <li class="uk-active"><a href="<%- url_for('/') %>">Home</a></li>
-                    <li><a href="<%- url_for('/2018/carvers')%>">Carvers Attending</a></li>
-                    <li><a href="<%- url_for('/2018/schedule')%>">Schedule</a></li>
-                    <li><a href="<%- url_for('/2018/map')%>">Map</a></li>
+                    <li><a href="<%- url_for('/2018/carvers') %>">Carvers Attending</a></li>
+                    <li><a href="<%- url_for('/2018/schedule') %>">Schedule</a></li>
+                    <li><a href="<%- url_for('/2018/map') %>">Map</a></li>
                     <li><a href="<%- url_for('/history') %>">History</a></li>
                     <li><a href="https://fb.com/chainsawrendezvous"><i class="fab fa-facebook-f"></i></a></li>
                     <li><a href="https://www.youtube.com/user/ridgwayrendezvous"><i class="fab fa-youtube"></i></a></li>
