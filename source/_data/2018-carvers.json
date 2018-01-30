@@ -39,7 +39,7 @@
       "city": "State College",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "crow-ed.jpg",
       "links": {
         "Facebook": {
           "link": "https://www.facebook.com/CrowsCarvings",
@@ -69,10 +69,10 @@
       "city": "Farmington",
       "state": "Kentucky",
       "country": "US",
-      "image": false,
+      "image": "driver-justin.jpg",
       "links": {
         "Facebook": {
-          "link": "https://m.facebook.com/justindriverwoodcarving/",
+          "link": "https://facebook.com/justindriverwoodcarving/",
           "icon": "fab fa-facebook-f"
         },
         "Website": {
@@ -88,7 +88,7 @@
       "city": "Punxsutawney",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "howard-nathan.jpg",
       "links": {
         "Website": {
           "link": "http://www.natesawart.com",
@@ -146,10 +146,10 @@
       "city": "Mount Vernon",
       "state": "Iowa",
       "country": "US",
-      "image": false,
+      "image": "henik-clint.jpg",
       "links": {
         "Facebook": {
-          "link": "https://m.facebook.com/carver.way",
+          "link": "https://facebook.com/carver.way",
           "icon": "fab fa-facebook-f"
         },
         "Website": {
@@ -165,7 +165,7 @@
       "city": "Gatineau",
       "state": "Quebec",
       "country": "CA",
-      "image": false,
+      "image": "dagg-josh.jpg",
       "links": {
         "Facebook": {
           "link": "https://www.facebook.com/Joshswood-154319804618808/",
@@ -214,14 +214,14 @@
       "city": "Sussex",
       "state": "Wisconsin",
       "country": "US",
-      "image": false,
+      "image": "thomas-kyle.jpg",
       "links": {
         "Facebook": {
-          "link": "https://m.facebook.com/redrabbitwoodcarving/?ref=bookmarks",
+          "link": "https://facebook.com/redrabbitwoodcarving/",
           "icon": "fab fa-facebook-f"
         },
         "Website": {
-          "link": "Http://Redrabbitwoodcarving.com",
+          "link": "http://redrabbitwoodcarving.com",
           "icon": "fas fa-globe"
         }
       }
@@ -233,7 +233,7 @@
       "city": "Falls Church",
       "state": "Virginia",
       "country": "US",
-      "image": false,
+      "image": "mallon-andrew.jpg",
       "links": {
         "Facebook": {
           "link": "https://www.facebook.com/AMSculptures/",
@@ -256,10 +256,10 @@
       "city": "New Kensington",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "sassani-luke.jpg",
       "links": {
         "Website": {
-          "link": "http://luke.sassani@blogspot.com",
+          "link": "http://lukesassani.blogspot.com",
           "icon": "fas fa-globe"
         }
       }
@@ -267,11 +267,11 @@
     {
       "name-last": "DeStefano",
       "name-first": "Chris",
-      "name-nickname": false,
+      "name-nickname": "Snuffy",
       "city": "Ridgway",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "destefano-chris.jpg",
       "links": {
         "Facebook": {
           "link": "https://www.facebook.com/snuffy.destefano",
@@ -297,7 +297,7 @@
       "image": false,
       "links": {
         "Facebook": {
-          "link": "http://conottoncreekwoodworks",
+          "link": "http://fb.com/conottoncreekwoodworks",
           "icon": "fab fa-facebook-f"
         }
       }
@@ -324,7 +324,7 @@
       "city": "Cranberry Township",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "schaudt-william.jpg",
       "links": {
         "Facebook": {
           "link": "https://www.facebook.com/BillSchuadtWoodCreations/",
@@ -347,19 +347,15 @@
       "city": "Lisbon Falls",
       "state": "Maine",
       "country": "US",
-      "image": false,
+      "image": "waters-greg.jpg",
       "links": {
-        "Facebook": {
-          "link": "http://www.facebook.com/greg.waters82",
-          "icon": "fab fa-facebook-f"
-        },
         "YouTube": {
           "link": "http://www.youtube.com/UCKRcN6EfR2R7QBX1UaIb1hw",
           "icon": "fab fa-youtube"
         },
         "Other": {
           "link": "http://www.facebook.com/riversidewoodcarving",
-          "icon": "fab fa-star"
+          "icon": "fab fa-facebook-f"
         },
         "Website": {
           "link": "http://www.riversidewoodcarving.com",
@@ -404,7 +400,7 @@
       "city": "Columbia",
       "state": "Maryland",
       "country": "US",
-      "image": false,
+      "image": "mogren-evelyn.jpg",
       "links": {
         "Facebook": {
           "link": "https://www.facebook.com/evelyn.mogren?hc_ref=ARR45LXPqkVa4EsfVTidCkCjIEHGquH0o-GGH7zRH15S7D-CXuUEZau1ErqDwQM1GJg&fref=nf",
@@ -423,7 +419,7 @@
       "city": "ALTOONA",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "mcguire-michael.jpg",
       "links": {
         "Facebook": {
           "link": "Http://www.Facebook.com/mcguireconceptsart",
