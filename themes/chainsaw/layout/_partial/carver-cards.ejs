@@ -86,11 +86,12 @@
                         </div>
                         <div class="member-info">
                             <h3 class="member-name"><%- sortedCarverData[i]['name-first'] %> <%- sortedCarverData[i]['name-last'] %></h3>
-                            <% if(sortedCarverData[i]['name-nickname']) {
-                            %>
+                            <% if(sortedCarverData[i]['name-nickname']) { %>
                             <h3 class="member-name"><span class="member-role"><%- sortedCarverData[i]['name-nickname'] %></span></h3>
                             <% } %>
-                            <span class="member-role"><%- sortedCarverData[i]['state'] %></span>
+                            <% if(sortedCarverData[i]['state']) { %>
+                                <span class="member-role"><%- sortedCarverData[i]['state'] %></span>
+                            <% } %>
                         </div>
                     </div>
                 </div>
