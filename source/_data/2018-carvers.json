@@ -598,5 +598,55 @@
       "country": "US",
       "image": false,
       "links": false
+    },
+    {
+      "name-last": "Klock",
+      "name-first": "Tim",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Boni Dussia",
+      "name-first": "Zoe",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Dussia",
+      "name-first": "Joey",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Boni",
+      "name-first": "Randy",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Boni",
+      "name-first": "Robin",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": false,
+      "links": false
     }
   ]

@@ -25,29 +25,28 @@
                 <div class="uk-child-width-1-2@m uk-grid-medium" uk-grid>
                     <div class="event-highlight">
                         <div class="uk-inline uk-transition-toggle">
-                            <img src="http://via.placeholder.com/800x530" alt="Work Image">
+                            <img src="<%- url_for("assets/2018/ridgway-courthouse.jpg") %>" alt="Elk County Courthouse">
                             <div class="uk-transition-fade uk-overlay uk-overlay-primary uk-dark uk-position-cover">
                                 <h3>Food, Arts & Crafts</h3>
                                 <p>Feed your appetite or support local artists</p>
-                                <a href="" class="readon warning"><i class="fas fa-utensils fa-lg"></i></a>
                             </div>
                         </div>
                         <h3 class="uk-margin-medium-bottom uk-margin-small-top">Vendors</h3>
                     </div>
                     <div class="event-highlight">
                         <div class="uk-inline uk-transition-toggle">
-                            <img src="http://via.placeholder.com/800x530" alt="Work Image">
+                            <img src="<%- url_for("assets/2018/temp-awards-highlight.jpg") %>" alt="Carver Awards">
                             <div class="uk-transition-fade uk-overlay uk-overlay-primary uk-dark uk-position-cover">
                                 <h3>Carver Awards</h3>
                                 <p>Learn how you can help decide two of the three awards we are presenting at this year's Rendezvous</p>
-                                <a href="" class="readon success"><i class="fas fa-star fa-lg"></i> Find where to vote</a>
+                                <a href="<%- url_for("2018/awards/") %>" class="readon success"><i class="fas fa-star fa-lg"></i> Find where to vote</a>
                             </div>
                         </div>
                         <h3 class="uk-margin-medium-bottom uk-margin-small-top">Vote for 'Best of Show' awards</h3>
                     </div>
                     <div class="event-highlight">
                         <div class="uk-inline uk-transition-toggle">
-                            <img src="<%- url_for(config.root + "assets/2018/ymca-triathalon.jpg") %>" alt="Ridgway YMCA Triathalon Participants">
+                            <img src="<%- url_for("assets/2018/ymca-triathalon.jpg") %>" alt="Ridgway YMCA Triathalon Participants">
                             <div class="uk-transition-fade uk-overlay uk-overlay-primary uk-dark uk-position-cover">
                                 <h3>Run. Bike. Paddle.</h3>
                                 <p>Happening the same weekend as the Rendezvous is the 37th Annual Ridgway YMCA Triathlon and Challenge</p>
@@ -58,7 +57,7 @@
                     </div>
                     <div class="event-highlight">
                         <div class="uk-inline uk-transition-toggle">
-                            <img src="<%- url_for(config.root + "assets/2018/playing-cards-carved.jpg") %>" alt="Carved Ace of Hearts card">
+                            <img src="<%- url_for("assets/2018/playing-cards-carved.jpg") %>" alt="Carved Ace of Hearts card">
                             <div class="uk-transition-fade uk-overlay uk-overlay-primary uk-dark uk-position-cover">
                                 <h3>Feeling Lucky?</h3>
                                 <p>Top carvers rip through logs at the Seneca Allegany Casino to create sculptures for you to place the winning bid on.</p>
