@@ -136,7 +136,7 @@
       "city": "Antioch",
       "state": "Tennessee",
       "country": "US",
-      "image": false,
+      "image": "hartley-dan.jpg",
       "links": false
     },
     {
@@ -390,7 +390,7 @@
       "city": "Webster",
       "state": "Kentucky",
       "country": "US",
-      "image": false,
+      "image": "peterson-abby.jpg",
       "links": false
     },
     {
@@ -444,7 +444,7 @@
       "city": "Bigler",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "good-raymond.jpg",
       "links": false
     },
     {
@@ -454,7 +454,7 @@
       "city": "Glasgow",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "rannels-benjamin.jpg",
       "links": {
         "Facebook": {
           "link": "http://Rannelsrustics.com",
@@ -533,10 +533,10 @@
       "name-last": "Ryan",
       "name-first": "Doug",
       "name-nickname": false,
-      "city": false,
-      "state": false,
+      "city": "Altoona",
+      "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "ryan-doug.jpg",
       "links": false
     },
     {
@@ -546,8 +546,13 @@
       "city": false,
       "state": false,
       "country": "US",
-      "image": false,
-      "links": false
+      "image": "doeren-jamie.jpg",
+      "links": {
+        "Website": {
+          "link": "https://www.jamiedoeren.com/",
+          "icon": "fas fa-globe"
+        }
+      }
     },
     {
       "name-last": "Higgins",
@@ -556,7 +561,7 @@
       "city": false,
       "state": false,
       "country": "US",
-      "image": false,
+      "image": "higgins-steven.jpg",
       "links": false
     },
     {
@@ -606,7 +611,7 @@
       "city": false,
       "state": false,
       "country": "US",
-      "image": false,
+      "image": "klock-tim.jpg",
       "links": false
     },
     {
@@ -616,7 +621,7 @@
       "city": "Ridgway",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "dussia-zoe.jpg",
       "links": false
     },
     {
@@ -626,7 +631,7 @@
       "city": "Ridgway",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "dussia-joey.jpg",
       "links": false
     },
     {
@@ -636,8 +641,27 @@
       "city": "Ridgway",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "boni-randy.jpg",
       "links": false
+    },
+    {
+      "name-last": "Ramsey",
+      "name-first": "Griffon",
+      "name-nickname": false,
+      "city": "Austin",
+      "state": "Texas",
+      "country": "US",
+      "image": "ramsey-griffon.jpg",
+      "links": {
+        "Website": {
+          "link": "https://griffonramsey.com/",
+          "icon": "fas fa-globe"
+        },
+        "Facebook": {
+          "link": "https://www.facebook.com/griffonramseyrt",
+          "icon": "fab fa-facebook-f"
+        }
+      }
     },
     {
       "name-last": "Boni",
@@ -648,5 +672,43 @@
       "country": "US",
       "image": false,
       "links": false
+    },
+    {
+      "name-last": "Ceriani",
+      "name-first": "Tom",
+      "name-nickname": false,
+      "city": "Brockport",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": false,
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/T-D-Carvings-524239980955154",
+          "icon": "fab fa-facebook-f"
+        },
+        "Website": {
+          "link": "http://www.tanddcarvings.net/",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Ceriani",
+      "name-first": "Dawna",
+      "name-nickname": false,
+      "city": "Brockport",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "ceriani-dawna.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/T-D-Carvings-524239980955154",
+          "icon": "fab fa-facebook-f"
+        },
+        "Website": {
+          "link": "http://www.tanddcarvings.net/",
+          "icon": "fas fa-globe"
+        }
+      }
     }
   ]
