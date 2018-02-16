@@ -521,7 +521,7 @@
       "city": "Ridgway",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "boni-rick.jpg",
       "links": {
         "Website": {
           "link": "https://www.appalachian-arts.com",
@@ -571,7 +571,7 @@
       "city": false,
       "state": false,
       "country": "US",
-      "image": false,
+      "image": "mcclain-brett.jpg",
       "links": false
     },
     {
@@ -670,7 +670,7 @@
       "city": "Ridgway",
       "state": "Pennsylvania",
       "country": "US",
-      "image": false,
+      "image": "boni-robin.jpg",
       "links": false
     },
     {
@@ -708,6 +708,33 @@
         "Website": {
           "link": "http://www.tanddcarvings.net/",
           "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Parsons",
+      "name-first": "Barbie",
+      "name-nickname": false,
+      "city": false,
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "parsons-barbie.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/BarbieTheWelder/",
+          "icon": "fab fa-facebook-f"
+        },
+        "Website": {
+          "link": "http://barbiethewelder.com",
+          "icon": "fas fa-globe"
+        },
+        "Instagram": {
+          "link": "https://www.instagram.com/Barbiethewelder/",
+          "icon": "fab fa-instagram"
+        },
+        "YouTube": {
+          "link": "https://www.youtube.com/channel/UCLWMMWUO-0cHgQakksJNwKQ/featured",
+          "icon": "fab fa-youtube"
         }
       }
     }
