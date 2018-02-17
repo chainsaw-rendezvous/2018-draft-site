@@ -737,5 +737,25 @@
           "icon": "fab fa-youtube"
         }
       }
+    },
+    {
+      "name-last": "Harmon",
+      "name-first": "Tom",
+      "name-nickname": false,
+      "city": "Greenwood",
+      "state": "Indiana",
+      "country": "US",
+      "image": "harmon-tom.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Vanderpyle",
+      "name-first": "Michele",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "US",
+      "image": "vanderpyle-michele.jpg",
+      "links": false
     }
   ]
