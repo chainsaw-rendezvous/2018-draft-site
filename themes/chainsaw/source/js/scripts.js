@@ -1,23 +1,7 @@
-/**
-*
-* -------------------------------------------------
-*
-* Template : Asap - A Onepage Corporate Template
-* Author : thecodrops
-* Author URI : http://thecodrops.com
-*
-* --------------------------------------------------
-*
-**/
+/* Opens modal for carver bio */
+var modal = UIkit.modal('#bio-2018');
+modal.show();
 
-/*
-(function ($) {
-    'use strict';
-    jQuery(document).ready(function () {
-
-    });
-})(jQuery);
-*/
 
 
 /* Attach events after the button has been loaded */
