@@ -88,7 +88,17 @@ widgets:
             <td>&nbsp;</td>
         </tr>
         <tr>
+            <td>9am - 7pm</td>
+            <td>Collaborative Carving - Nature Pole Tribute to Dave Love</td>
             <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>11am - 4pm</td>
+            <td>Live Music</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>1:30pm - 3pm</td>
             <td>Quick Carves with live auction of pieces</td>
             <td>&nbsp;</td>
         </tr>
