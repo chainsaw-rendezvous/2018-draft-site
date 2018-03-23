@@ -1,0 +1,52 @@
+<%
+    var isCarverDataAvailable = false; // This flag will change if specified carver data is available
+
+    /*
+     * Checks to see if year is specified for carver data pull. Sets year for
+     * carver data pull to current year is none is specified by the user. Finally
+     * verifies that the data source is available before proceeding
+     */
+    if(!year) {
+        var year = new Date().getFullYear()
+    }
+
+    dataSource = year+"-carvers";
+
+    if( site.data[dataSource]) {
+        isCarverDataAvailable = true;
+        var carverData = site.data[dataSource];
+    }
+
+    if(isCarverDataAvailable) {
+
+        var sortedCarverData = carverData; // Copy of the carver data that will be iterated over
+
+        // Sorts carver data by last name then first name
+        sortedCarverData = _.sortBy(carverData, ['name-last','name-first']);
+    }
+%>
+
+<table>
+    <thead>
+        <tr>
+            <th>Last</th>
+            <th>First</th>
+            <th>Nickname</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Country</th>
+        </tr>
+    </thead>
+    <tbody>
+        <% for( var i = 0; i < carverData.length; i++) { %>
+            <tr>
+                <td><%- sortedCarverData[i]['name-last'] %></td>
+                <td><%- sortedCarverData[i]['name-first'] %></td>
+                <td><%- sortedCarverData[i]['name-nickname'] %></td>
+                <td><%- sortedCarverData[i]['city'] %></td>
+                <td><%- sortedCarverData[i]['state'] %></td>
+                <td><%- sortedCarverData[i]['country'] %></td>
+            </tr>
+        <% } %>
+    </tbody>
+</table>
