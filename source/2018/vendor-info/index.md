@@ -12,4 +12,4 @@ widgets:
 
 We are accepting a limited number of craft and food vendors to participate in the 2018 Rendezvous. There will be a fee associated with a booth space and must be reserved prior to the event. Details on setup will be provided to each vendor.
 
-Contact Liz Boni at info@chainsawrendevous.org to secure a spot.
+Contact Liz Boni at info@chainsawrendezvous.org to secure a spot.
