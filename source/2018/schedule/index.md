@@ -22,14 +22,24 @@ widgets:
     </thead>
     <tbody>
         <tr>
-            <td>9am - 7pm</td>
+            <td>10am - 7pm</td>
             <td>Carver spaces open</td>
-            <td>Around the courthouse</td>
+            <td>South Broad Street, Center Street, and Court Street</td>
         </tr>
         <tr>
-            <td>9am - 7pm</td>
+            <td>10am - 7pm</td>
+            <td>Collaborative Carve honoring Ridgway resident Dave Love</td>
+            <td>Court Street</td>
+        </tr>
+        <tr>
+            <td>10am - 7pm</td>
             <td>Vote for People's Choice Award</td>
-            <td>&nbsp;</td>
+            <td>Appalachian Arts Studio Information Booth</td>
+        </tr>
+        <tr>
+            <td>10am - 7pm</td>
+            <td>Craft & Food Vendors open</td>
+            <td>Various locations throughout town</td>
         </tr>
     </tbody>
 </table>
@@ -50,14 +60,39 @@ widgets:
     </thead>
     <tbody>
         <tr>
-            <td>9am - 7pm</td>
+            <td>10am - 7pm</td>
             <td>Carver spaces open</td>
-            <td>Around the courthouse</td>
+            <td>South Broad Street, Center Street, and Court Street</td>
         </tr>
         <tr>
-            <td>9am - 7pm</td>
+            <td>10am - 7pm</td>
+            <td>Collaborative Carve honoring Ridgway resident Dave Love</td>
+            <td>Court Street</td>
+        </tr>
+        <tr>
+            <td>10am - 7pm</td>
             <td>Vote for People's Choice Award</td>
-            <td>&nbsp;</td>
+            <td>Appalachian Arts Studio Information Booth</td>
+        </tr>
+        <tr>
+            <td>10am - 7pm</td>
+            <td>Craft & Food Vendors open</td>
+            <td>Various locations throughout town</td>
+        </tr>
+        <tr>
+            <td>12pm - 1pm</td>
+            <td>Quick Carve Demonstration</td>
+            <td>Court Street</td>
+        </tr>
+        <tr>
+            <td>2:30pm - 3:30pm</td>
+            <td>Quick Carve Demonstration</td>
+            <td>Court Street</td>
+        </tr>
+        <tr>
+            <td>4pm - 6pm</td>
+            <td>Live Music featuing the "Guitar Club"</td>
+            <td>Courtyard</td>
         </tr>
     </tbody>
 </table>
@@ -78,29 +113,39 @@ widgets:
     </thead>
     <tbody>
         <tr>
-            <td>9am - 7pm</td>
+            <td>10am - 7pm</td>
             <td>Carver spaces open</td>
-            <td>Around the courthouse</td>
+            <td>South Broad Street, Center Street, and Court Street</td>
         </tr>
         <tr>
-            <td>9am - 7pm</td>
+            <td>10am - 7pm</td>
+            <td>Collaborative Carve honoring Ridgway resident Dave Love</td>
+            <td>Court Street</td>
+        </tr>
+        <tr>
+            <td>10am - 7pm</td>
             <td>Vote for People's Choice Award</td>
-            <td>&nbsp;</td>
+            <td>Appalachian Arts Studio Information Booth</td>
         </tr>
         <tr>
-            <td>9am - 7pm</td>
-            <td>Collaborative Carving - Nature Pole Tribute to Dave Love</td>
-            <td>&nbsp;</td>
+            <td>10am - 7pm</td>
+            <td>Craft & Food Vendors open</td>
+            <td>Various locations throughout town</td>
         </tr>
         <tr>
-            <td>11am - 4pm</td>
-            <td>Live Music</td>
-            <td>&nbsp;</td>
+            <td>12pm - 1pm</td>
+            <td>Quick Carve Demonstration</td>
+            <td>Court Street</td>
         </tr>
         <tr>
-            <td>1:30pm - 3pm</td>
-            <td>Quick Carves with live auction of pieces</td>
-            <td>&nbsp;</td>
+            <td>1:30pm - 2:30pm</td>
+            <td>Live Music with Nick Forsythe</td>
+            <td>Courtyard</td>
+        </tr>
+        <tr>
+            <td>2:30pm - 3:30pm</td>
+            <td>Quick Carve Demonstration</td>
+            <td>Court Street</td>
         </tr>
     </tbody>
 </table>

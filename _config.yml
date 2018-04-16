@@ -78,3 +78,8 @@ theme: chainsaw
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Aliases
+## Docs: https://github.com/hexojs/hexo-generator-alias
+alias:
+  "wordpress/wp-content/uploads/2017/09/2018-Letter-to-Carvers-and-Rules-2017-09-25.pdf": "2018/carver-info/2018-carver-letter.pdf"
