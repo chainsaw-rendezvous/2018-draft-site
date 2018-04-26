@@ -81,12 +81,36 @@ widgets:
         </tr>
         <tr>
             <td>12pm - 1pm</td>
-            <td>Quick Carve Demonstration</td>
+            <td>
+                <p>Quick Carve Demonstration<p>
+                <ul>
+                    <li>Abbey Peterson</li>
+                    <li>Dennis Beach</li>
+                    <li>Jamie Doeren</li>
+                    <li>Justin Driver</li>
+                    <li>Bill Schaudt</li>
+                    <li>Jenny Tanner</li>
+                    <li>Josh Dagg</li>
+                    <li>Tom Harmon</li>
+                </ul>
+            </td>
             <td>Court Street</td>
         </tr>
         <tr>
             <td>2:30pm - 3:30pm</td>
-            <td>Quick Carve Demonstration</td>
+            <td>
+                <p>Quick Carve Demonstration<p>
+                <ul>
+                    <li>Justin Driver</li>
+                    <li>David Learn</li>
+                    <li>Abbey Petersen</li>
+                    <li>Dennis Beach</li>
+                    <li>Brooks Abeln</li>
+                    <li>Josh Dagg</li>
+                    <li>Ryan Hill</li>
+                    <li>Tim Klock</li>
+                </ul>
+            </td>
             <td>Court Street</td>
         </tr>
         <tr>

@@ -36,7 +36,7 @@ There will be four Quick Carve Demonstrations; two on Friday and two on Saturday
 The Rendezvous will be honoring Dave Love, a longtime resident of Ridgway who also started the Tri-athalon (also happening the same weekend), with a collaborative totem pole carving. After the Rendezvous, the pole will be installed near the Clarion-Little Toby Rail Trail trailhead, which Dave was instrumental in helping in its conversion from a rail line to recreational trail.
 
 ### What awards are being presented during the event?
-There are three award categories in which carvers will be participating: Husqvarna People's Choice, Stihl Carver's Choice, and Appalachian Arts Social Media Choice. After walking around the Rendezvous, the public is encouraged to visiting the Appalachian Arts Information Booth as cast their vote for their favorite carver. They should also visit the Rendezvous' Facebook page to like their favorite carver there as well. Carvers will vote for the other award. Awards will be presented at the conclusion of the last Saturday Quick Carve Demonstration.
+There are three award categories in which carvers will be participating: **Husqvarna People's Choice**, **Stihl Carver's Choice**, and **Appalachian Arts Social Media Choice**. After walking around the Rendezvous, the public is encouraged to visiting the Appalachian Arts Information Booth as cast their vote for their favorite carver. They should also visit the Rendezvous' Facebook page to like their favorite carver there as well. Carvers will vote for the other award. Awards will be presented at the conclusion of the last Saturday Quick Carve Demonstration.
 
 ### Are there other activities happening during the event?
 The [Ridgway YMCA](http://www.ymcaridgway.com/ "Ridgway YMCA")'s Tri-athalon is also happening the same weekend as the Rendezvous. We hope the public will enjoy both events.
@@ -46,7 +46,7 @@ We'll have musical acts throughout the weekend. Check the [schedule](../schedule
 ### What happens if it rains?
 The event is rain or shine. Of course we're hoping for shine!
 {% raw %}
-<a class="weatherwidget-io" href="https://forecast7.com/en/41d42n78d73/ridgway/?unit=us" data-label_1="RIDGWAY" data-label_2="WEATHER" data-theme="original" >RIDGWAY WEATHER</a>
+<a class="weatherwidget-io" href="https://forecast7.com/en/41d42n78d73/ridgway/?unit=us" data-label**1="RIDGWAY" data-label**2="WEATHER" data-theme="original" >RIDGWAY WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
