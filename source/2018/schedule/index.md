@@ -8,9 +8,11 @@ widgets:
     - event-highlights
 ---
 
-### Thursday, April 26
 
 {% raw %}
+<!--
+### Thursday, April 26
+
 <table class="uk-table uk-table-divider">
     <caption></caption>
     <thead>
@@ -43,7 +45,7 @@ widgets:
         </tr>
     </tbody>
 </table>
-
+-->
 {% endraw %}
 
 ### Friday, April 27
@@ -158,7 +160,20 @@ widgets:
         </tr>
         <tr>
             <td>12pm - 1pm</td>
-            <td>Quick Carve Demonstration</td>
+            <td>
+            <td>
+                <p>Quick Carve Demonstration<p>
+                <ul>
+                    <li>Abby Peterson</li>
+                    <li>Dennis Beach</li>
+                    <li>Brooks Abeln</li>
+                    <li>Justin Driver</li>
+                    <li>Bill Schaudt</li>
+                    <li>Josh Dagg</li>
+                    <li>Tom Harmon</li>
+                    <li>Steve Nelson</li>
+                </ul>
+            </td>
             <td>Court Street</td>
         </tr>
         <tr>
@@ -168,7 +183,18 @@ widgets:
         </tr>
         <tr>
             <td>2:30pm - 3:30pm</td>
-            <td>Quick Carve Demonstration</td>
+            <td>
+                <p>Quick Carve Demonstration<p>
+                <ul>
+                    <li>Abby Peterson</li>
+                    <li>Dennis Beach</li>
+                    <li>Justin Driver</li>
+                    <li>Jamie Doeren</li>
+                    <li>Jenny Tanner</li>
+                    <li>Josh Dagg</li>
+                    <li>Jason Link</li>
+                </ul>
+            </td>
             <td>Court Street</td>
         </tr>
     </tbody>
