@@ -164,7 +164,6 @@ widgets:
         <tr>
             <td>12pm - 1pm</td>
             <td>
-            <td>
                 <p>Quick Carve Demonstration<p>
                 <ul>
                     <li>Abby Peterson</li>
