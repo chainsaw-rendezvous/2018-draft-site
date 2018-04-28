@@ -250,7 +250,7 @@
       }
     },
     {
-      "name-last": "Sassani",
+      "name-last": "Schaudt",
       "name-first": "Luke",
       "name-nickname": false,
       "city": "New Kensington",
@@ -729,16 +729,6 @@
       "state": "New York",
       "country": "US",
       "image": "vanderpyle-michele.jpg",
-      "links": false
-    },
-    {
-      "name-last": "Schaudt",
-      "name-first": "Bill",
-      "name-nickname": false,
-      "city": "Butler",
-      "state": "Pennsylvania",
-      "country": "US",
-      "image": false,
       "links": false
     },
     {
