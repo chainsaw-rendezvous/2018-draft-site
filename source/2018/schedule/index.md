@@ -48,9 +48,12 @@ widgets:
 -->
 {% endraw %}
 
-### Friday, April 27
+
 
 {% raw %}
+<!--
+### Friday, April 27
+
 <table class="uk-table uk-table-divider">
     <caption></caption>
     <thead>
@@ -122,7 +125,7 @@ widgets:
         </tr>
     </tbody>
 </table>
-
+-->
 {% endraw %}
 
 ### Saturday, April 28
