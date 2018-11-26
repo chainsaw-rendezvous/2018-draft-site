@@ -10,4 +10,4 @@ widgets:
         sort: random
 ---
 
-Carver registration is closed, if you are interested in participating please contact Liz Boni directly to see if space is available.
+Carver registration for 2018 is closed, if you are interested in participating please contact Liz Boni directly to see if space is available.

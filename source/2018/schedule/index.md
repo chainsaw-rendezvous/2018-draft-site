@@ -8,6 +8,7 @@ widgets:
     - event-highlights
 ---
 
+## Thanks for coming to the 2018 Rendezvous!
 
 {% raw %}
 <!--
@@ -128,9 +129,11 @@ widgets:
 -->
 {% endraw %}
 
-### Saturday, April 28
+
 
 {% raw %}
+<!--
+### Saturday, April 28
 <table class="uk-table uk-table-divider">
     <caption></caption>
     <thead>
@@ -201,5 +204,5 @@ widgets:
         </tr>
     </tbody>
 </table>
-
+-->
 {% endraw %}

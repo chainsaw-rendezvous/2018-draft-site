@@ -1,9 +1,3 @@
-/* Opens modal for carver bio */
-var modal = UIkit.modal('#bio-2018');
-modal.show();
-
-
-
 /* Attach events after the button has been loaded */
 window.addeventasync = function(){
 

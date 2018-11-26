@@ -1,12 +1,15 @@
 <%
     var isCarverDataAvailable = false; // This flag will change if specified carver data is available
+    var concreteYear = false; // This flag will be set to true if the user requests carver data for a specific year
 
     /*
      * Checks to see if year is specified for carver data pull. Sets year for
      * carver data pull to current year is none is specified by the user. Finally
      * verifies that the data source is available before proceeding
      */
-    if(!year) {
+    if(year) {
+        concreteYear = true;
+    } else {
         var year = new Date().getFullYear()
     }
 
@@ -15,6 +18,15 @@
     if( site.data[dataSource]) {
         isCarverDataAvailable = true;
         var carverData = site.data[dataSource];
+    }
+
+    if(!concreteYear) {
+        year ++;
+        dataSource = year+"-carvers";
+        if( site.data[dataSource]) {
+            isCarverDataAvailable = true;
+            var carverData = site.data[dataSource];
+        }
     }
 
     if(isCarverDataAvailable) {

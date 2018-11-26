@@ -1,0 +1,37 @@
+[
+    {
+      "name-last": "Boni",
+      "name-first": "Rick",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "boni-rick.jpg",
+      "links": {
+        "Website": {
+          "link": "https://www.appalachian-arts.com",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Boni Dussia",
+      "name-first": "Zoe",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "dussia-zoe.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Dussia",
+      "name-first": "Joey",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "dussia-joey.jpg",
+      "links": false
+    }
+  ]

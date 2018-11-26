@@ -1,12 +1,15 @@
 <%
     var isCarverDataAvailable = false; // This flag will change if specified carver data is available
+    var concreteYear = false; // This flag will be set to true if the user requests carver data for a specific year
 
     /*
      * Checks to see if year is specified for carver data pull. Sets year for
      * carver data pull to current year is none is specified by the user. Finally
      * verifies that the data source is available before proceeding
      */
-    if(!year) {
+    if(year) {
+        concreteYear = true;
+    } else {
         var year = new Date().getFullYear()
     }
 
@@ -17,6 +20,15 @@
         var carverData = site.data[dataSource];
     }
 
+    if(!concreteYear) {
+        year ++;
+        dataSource = year+"-carvers";
+        if( site.data[dataSource]) {
+            isCarverDataAvailable = true;
+            var carverData = site.data[dataSource];
+        }
+    }
+    
     if(isCarverDataAvailable) {
         /*
          * Sets maximum number of carver data to pull if user did not set, or
@@ -52,7 +64,11 @@
 <!-- Carvers Attending Start-->
 <section class="tc-carvers-attending uk-section uk-section-small" id="tc-carvers-attending">
         <div class=" uk-container">
-            <h2 class="title1 title-center mb60">Just a few of the carvers coming this year</h2>
+            <% if (maxCount == carverData.length) { %>
+                <h2 class="title1 title-center mb60">Carvers attending in <%- year %></h2>
+            <% } else { %>
+                <h2 class="title1 title-center mb60">Just a few of the carvers attending in <%- year %></h2>
+            <% } %>
             <div class="uk-grid uk-flex-center" uk-grid >
                 <% for( var i = 0; i < maxCount; i++) { %>
                 <div class="tc-carver uk-width-1-4@m uk-width-1-2@s">
