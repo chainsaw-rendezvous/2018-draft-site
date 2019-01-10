@@ -10,11 +10,12 @@ widgets:
     maxCount: 4
     sort:
     - random
+    year: 2019
 - event-highlights
 ---
 
 {% raw %}
 <p>Throughout the Rendezvous there will be opportunities to interact with skilled artists, purchase finished pieces directly from the artist, and enjoy quick carve demonstrations.</p>
 <p>Carvers will be competing for awards in three categories: People's Choice, Social Media Choice, and Carver's Choice.</p>
-<p>We hope you will Rendezvous with us <span class="uk-text-bold uk-text-uppercase uk-text-large">April 25-29, 2019</span> in Ridgway!</p>
+<p>We hope you will Rendezvous with us <span class="uk-text-bold uk-text-uppercase uk-text-large">April 25-28, 2019</span> in Ridgway!</p>
 {% endraw %}

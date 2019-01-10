@@ -1,1 +1,2 @@
-# Draft of the 2018 Chainsaw Rendezvous Website
+# Chainsaw Rendezvous Website
+Built using Hexo
