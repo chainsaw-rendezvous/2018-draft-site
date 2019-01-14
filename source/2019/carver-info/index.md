@@ -8,6 +8,12 @@ widgets:
     - carver-cards:
         maxCount: 4
         sort: random
+        year: 2019
 ---
 
-Carver applications will open soon. Past carvers will recieve an email with a link.
+{% raw %}
+<div class="cognito">
+<script src="https://services.cognitoforms.com/s/4q9mfMXzs0yQEnbPXq3vcA"></script>
+<script>Cognito.load("forms", { id: "4" });</script>
+</div>
+{% endraw %}
