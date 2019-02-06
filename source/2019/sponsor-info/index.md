@@ -7,6 +7,7 @@ widgets:
     - content
     - carver-cards:
         maxCount: 4
+        year: 2019
         sort: random
 ---
 
@@ -14,13 +15,13 @@ widgets:
 
 Greetings!
 
-Appalachian Arts Studio is excited to announce the annual Chainsaw Carvers Rendezvous. The event is being held on Main Street in historic downtown Ridgway, Pennsylvania the weekend of April 26 - 28, 2017. We would like to extend an opportunity to your company to market to a global audience by becoming a sponsor for this event.
+Appalachian Arts Studio is excited to announce the 20th annual Chainsaw Carvers Rendezvous. The event is being held in Ridgway, Pennsylvania the weekend of April 25 - 28, 2019. We would like to extend an opportunity to your company to market to a global audience by becoming a sponsor for this event.
 
-This is also the same weekend of the Ridgway YMCA Triathlon and for good reason! Not only will your sponsorship extend to those interested in the art of chainsaw carving, it will also mean exposure to athletes and sports minded individuals who will undoubtedly visit the Rendezvous.
+The Rendezvous itself has grown over the years to host nearly 20,000 spectators annually. Originally founded to promote the art of chainsaw carving, the festival has grown beyond our expectations. Carvers will setup booth spaces to sell their finished pieces directly to the public and will be doing LIVE chainsaw carving. Additionally there will be vendors and an expanded line-up of musical entertainment.
 
-The Rendezvous itself has grown over the years to host nearly 20,000 spectators annually. Originally founded to promote the art of chainsaw carving, the festival has grown beyond our expectations. Carvers will setup booth spaces to sell their finished pieces directly to the public, there will be two carving areas with a full schedule of demonstrations, vendors, and entertainment.
+Please feel free to contact me with questions or concerns.
+Thank you in advance for your consideration! 
 
-Thank you in advance for your consideration!
 
 Sincerely,
 Liz Boni

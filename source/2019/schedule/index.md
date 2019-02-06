@@ -8,7 +8,7 @@ widgets:
     - event-highlights
 ---
 
-The full 2019 schedule will be available closer to the event. You can look forward to meeting carvers, buying finished pieces, watching carving demonstrations and quick carve competitions, musical entertainment, and food.
+The full 2019 schedule will be available closer to the event. You can look forward to meeting carvers, buying finished pieces,  musical entertainment, food, and (of course) LIVE CHAINSAW CARVING.
 
 {% raw %}
 <!--
