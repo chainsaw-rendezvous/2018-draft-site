@@ -28,7 +28,6 @@ Recently the Rendezvous committee had a meeting with members of the town and, li
 The first 75 carvers who apply, pay a $100 registration fee, and are accepted will get: 
 - 10x20 space for carving and selling
 - One 8 foot log to carve during the event
-- Electricity
 - T shirt
 
 Carvers can keep or sell their piece from the event! It’s your log to do what you wish. There will be no auction.

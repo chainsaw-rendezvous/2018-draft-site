@@ -7,9 +7,4 @@ widgets:
     - content
 ---
 
-{% raw %}
-<div class="cognito">
-<script src="https://services.cognitoforms.com/s/4q9mfMXzs0yQEnbPXq3vcA"></script>
-<script>Cognito.load("forms", { id: "4" });</script>
-</div>
-{% endraw %}
+Online registration for the Rendezvous has closed. If you are still interested in attending, contact Liz Boni to see if space is available.

@@ -8,12 +8,11 @@ widgets:
     - event-highlights
 ---
 
-The full 2019 schedule will be available closer to the event. You can look forward to meeting carvers, buying finished pieces,  musical entertainment, food, and (of course) LIVE CHAINSAW CARVING.
+As we get closer to the event, more details will be added to the event schedule. You can look forward to meeting carvers, buying finished pieces, musical entertainment, food, and (of course) LIVE CHAINSAW CARVING.
 
+
+### Thursday
 {% raw %}
-<!--
-### Thursday, April 26
-
 <table class="uk-table uk-table-divider">
     <caption></caption>
     <thead>
@@ -27,34 +26,29 @@ The full 2019 schedule will be available closer to the event. You can look forwa
         <tr>
             <td>10am - 7pm</td>
             <td>Carver spaces open</td>
-            <td>South Broad Street, Center Street, and Court Street</td>
+            <td></td>
         </tr>
-        <tr>
-            <td>10am - 7pm</td>
-            <td>Collaborative Carve honoring Ridgway resident Dave Love</td>
-            <td>Court Street</td>
-        </tr>
+        <!--
         <tr>
             <td>10am - 7pm</td>
             <td>Vote for People's Choice Award</td>
             <td>Appalachian Arts Studio Information Booth</td>
         </tr>
+        -->
         <tr>
             <td>10am - 7pm</td>
             <td>Craft & Food Vendors open</td>
-            <td>Various locations throughout town</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
--->
 {% endraw %}
 
 
 
-{% raw %}
-<!--
-### Friday, April 27
 
+### Friday
+{% raw %}
 <table class="uk-table uk-table-divider">
     <caption></caption>
     <thead>
@@ -68,72 +62,28 @@ The full 2019 schedule will be available closer to the event. You can look forwa
         <tr>
             <td>10am - 7pm</td>
             <td>Carver spaces open</td>
-            <td>South Broad Street, Center Street, and Court Street</td>
+            <td></td>
         </tr>
-        <tr>
-            <td>10am - 7pm</td>
-            <td>Collaborative Carve honoring Ridgway resident Dave Love</td>
-            <td>Court Street</td>
-        </tr>
+        <!--
         <tr>
             <td>10am - 7pm</td>
             <td>Vote for People's Choice Award</td>
             <td>Appalachian Arts Studio Information Booth</td>
         </tr>
+        -->
         <tr>
             <td>10am - 7pm</td>
             <td>Craft & Food Vendors open</td>
-            <td>Various locations throughout town</td>
-        </tr>
-        <tr>
-            <td>12pm - 1pm</td>
-            <td>
-                <p>Quick Carve Demonstration<p>
-                <ul>
-                    <li>Abbey Peterson</li>
-                    <li>Dennis Beach</li>
-                    <li>Jamie Doeren</li>
-                    <li>Justin Driver</li>
-                    <li>Bill Schaudt</li>
-                    <li>Jenny Tanner</li>
-                    <li>Josh Dagg</li>
-                    <li>Tom Harmon</li>
-                </ul>
-            </td>
-            <td>Court Street</td>
-        </tr>
-        <tr>
-            <td>2:30pm - 3:30pm</td>
-            <td>
-                <p>Quick Carve Demonstration<p>
-                <ul>
-                    <li>Justin Driver</li>
-                    <li>David Learn</li>
-                    <li>Abbey Petersen</li>
-                    <li>Dennis Beach</li>
-                    <li>Brooks Abeln</li>
-                    <li>Josh Dagg</li>
-                    <li>Ryan Hill</li>
-                    <li>Tim Klock</li>
-                </ul>
-            </td>
-            <td>Court Street</td>
-        </tr>
-        <tr>
-            <td>4pm - 6pm</td>
-            <td>Live Music featuing the "Guitar Club"</td>
-            <td>Courtyard</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
--->
 {% endraw %}
 
 
 
+### Saturday
 {% raw %}
-<!--
-### Saturday, April 28
 <table class="uk-table uk-table-divider">
     <caption></caption>
     <thead>
@@ -147,62 +97,20 @@ The full 2019 schedule will be available closer to the event. You can look forwa
         <tr>
             <td>10am - 7pm</td>
             <td>Carver spaces open</td>
-            <td>South Broad Street, Center Street, and Court Street</td>
+            <td></td>
         </tr>
-        <tr>
-            <td>10am - 7pm</td>
-            <td>Collaborative Carve honoring Ridgway resident Dave Love</td>
-            <td>Court Street</td>
-        </tr>
+        <!--
         <tr>
             <td>10am - 7pm</td>
             <td>Vote for People's Choice Award</td>
             <td>Appalachian Arts Studio Information Booth</td>
         </tr>
+        -->
         <tr>
             <td>10am - 7pm</td>
             <td>Craft & Food Vendors open</td>
-            <td>Various locations throughout town</td>
-        </tr>
-        <tr>
-            <td>12pm - 1pm</td>
-            <td>
-                <p>Quick Carve Demonstration<p>
-                <ul>
-                    <li>Abby Peterson</li>
-                    <li>Dennis Beach</li>
-                    <li>Brooks Abeln</li>
-                    <li>Justin Driver</li>
-                    <li>Bill Schaudt</li>
-                    <li>Josh Dagg</li>
-                    <li>Tom Harmon</li>
-                    <li>Steve Nelson</li>
-                </ul>
-            </td>
-            <td>Court Street</td>
-        </tr>
-        <tr>
-            <td>1:30pm - 2:30pm</td>
-            <td>Live Music with Nick Forsythe</td>
-            <td>Courtyard</td>
-        </tr>
-        <tr>
-            <td>2:30pm - 3:30pm</td>
-            <td>
-                <p>Quick Carve Demonstration<p>
-                <ul>
-                    <li>Abby Peterson</li>
-                    <li>Dennis Beach</li>
-                    <li>Justin Driver</li>
-                    <li>Jamie Doeren</li>
-                    <li>Jenny Tanner</li>
-                    <li>Josh Dagg</li>
-                    <li>Jason Link</li>
-                </ul>
-            </td>
-            <td>Court Street</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
--->
 {% endraw %}

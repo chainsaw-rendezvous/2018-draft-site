@@ -52,12 +52,41 @@
     <tbody>
         <% for( var i = 0; i < carverData.length; i++) { %>
             <tr>
-                <td><%- sortedCarverData[i]['name-last'] %></td>
-                <td><%- sortedCarverData[i]['name-first'] %></td>
-                <td><%- sortedCarverData[i]['name-nickname'] %></td>
-                <td><%- sortedCarverData[i]['city'] %></td>
-                <td><%- sortedCarverData[i]['state'] %></td>
-                <td><%- sortedCarverData[i]['country'] %></td>
+                <% if( sortedCarverData[i]['name-last']) { %>
+                    <td><%- sortedCarverData[i]['name-last'] %></td>
+                <% } else { %>
+                    <td>&nbsp;</td>
+                <% } %>
+
+                <% if( sortedCarverData[i]['name-first']) { %>
+                    <td><%- sortedCarverData[i]['name-first'] %></td>
+                <% } else { %>
+                    <td>&nbsp;</td>
+                <% } %>
+
+                <% if( sortedCarverData[i]['name-nickname']) { %>
+                    <td><%- sortedCarverData[i]['name-nickname'] %></td>
+                <% } else { %>
+                    <td>&nbsp;</td>
+                <% } %>
+
+                <% if( sortedCarverData[i]['city']) { %>
+                    <td><%- sortedCarverData[i]['city'] %></td>
+                <% } else { %>
+                    <td>&nbsp;</td>
+                <% } %>
+
+                <% if( sortedCarverData[i]['state']) { %>
+                    <td><%- sortedCarverData[i]['state'] %></td>
+                <% } else { %>
+                    <td>&nbsp;</td>
+                <% } %>
+
+                <% if( sortedCarverData[i]['country']) { %>
+                    <td><%- sortedCarverData[i]['country'] %></td>
+                <% } else { %>
+                    <td>&nbsp;</td>
+                <% } %>
             </tr>
         <% } %>
     </tbody>

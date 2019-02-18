@@ -330,5 +330,306 @@
           "icon": "fab fa-facebook-f"
         }
       }
+    },
+    {
+      "name-last": "Boni",
+      "name-first": "Randy",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "boni-randy.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Boni",
+      "name-first": "Robin",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "boni-robin.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Beach",
+      "name-first": "Dennis",
+      "name-nickname": false,
+      "city": "Wapwallopen",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "beach-dennis.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Scoggins",
+      "name-first": "Dayton",
+      "name-nickname": false,
+      "city": "HEIDELBERG",
+      "state": "Mississippi",
+      "country": "US",
+      "image": "scoggins-dayton.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Marshalek",
+      "name-first": "Dave",
+      "name-nickname": false,
+      "city": "CULLEOKA",
+      "state": "Tennessee",
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Burnside",
+      "name-first": "Daniel",
+      "name-nickname": false,
+      "city": "Ulysses",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "burnside-daniel.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Waclo",
+      "name-first": "Paul",
+      "name-nickname": false,
+      "city": "York",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "waclo-paul.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://Facebook.com/paul.waclo",
+          "icon": "fab fa-facebook-f"
+        },
+        "Instagram": {
+          "link": "https://www.instagram.com/paulschainsawcreations/",
+          "icon": "fab fa-instagram"
+        },
+        "Website": {
+          "link": "http://www.chainsawcarvingbypaul.com",
+          "icon": "fas fa-globe"
+        },
+        "YouTube": {
+          "link": "https://www.youtube.com/channel/UCc3trvv0WaleW0xI5IX6QSg?view_as=subscriber",
+          "icon": "fab fa-youtube"
+        }
+      }
+    },
+    {
+      "name-last": "Ceriani",
+      "name-first": "Dawna",
+      "name-nickname": false,
+      "city": "Brockport",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "ceriani-dawna.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/T-D-Carvings-524239980955154",
+          "icon": "fab fa-facebook-f"
+        },
+        "Website": {
+          "link": "http://www.tanddcarvings.net/",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Wagner",
+      "name-first": "Randy",
+      "name-nickname": false,
+      "city": "Spillville",
+      "state": "Iowa",
+      "country": "US",
+      "image": "wagner-randy.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Wenai",
+      "name-first": "Joe",
+      "name-nickname": false,
+      "city": "Rifle",
+      "state": "Colorado",
+      "country": "US",
+      "image": "wenai-joe.jpg",
+      "links": false
+    },
+    {
+      "name-last": "McGuire",
+      "name-first": "Michael",
+      "name-nickname": false,
+      "city": "ALTOONA",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "mcguire-michael.jpg",
+      "links": {
+        "Facebook": {
+          "link": "http://www.Facebook.com/mcguireconceptsart",
+          "icon": "fab fa-facebook-f"
+        },
+        "Website": {
+          "link": "http://WWW.MCGUIRECONCEPTS.COM",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Black",
+      "name-first": "Jennifer",
+      "name-nickname": false,
+      "city": "Corning",
+      "state": "New York",
+      "country": "US",
+      "image": "black-jennifer.jpg",
+      "links": {
+        "Facebook": {
+          "link": "http://facebook.com/chainsawcarverjenniferblack",
+          "icon": "fab fa-facebook-f"
+        },
+        "Website": {
+          "link": "http://chainsawcarverjenniferblack.weebly.com",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Churchill",
+      "name-first": "Rick",
+      "name-nickname": false,
+      "city": "Concord",
+      "state": "Vermont",
+      "country": "US",
+      "image": "churchill-rick.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/rickchurchill.afterlifecarvings",
+          "icon": "fab fa-facebook-f"
+        }
+      }
+    },
+    {
+      "name-last": "Pinney",
+      "name-first": "Jeff",
+      "name-nickname": false,
+      "city": "Laurel Highlands",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": false,
+      "links": {
+        "Website": {
+          "link": "http://pacarver.com",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Insprucker",
+      "name-first": "Gary",
+      "name-nickname": false,
+      "city": "Aurora",
+      "state": "Indiana",
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Ryan",
+      "name-first": "Doug",
+      "name-nickname": false,
+      "city": "Altoona",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "ryan-doug.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Ramos",
+      "name-first": "Kirby",
+      "name-nickname": false,
+      "city": "Ronanoke",
+      "state": "Texas",
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Nelson",
+      "name-first": "Steve",
+      "name-nickname": false,
+      "city": "Oil city",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "nelson-steve.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Schaudt",
+      "name-first": "Bill",
+      "name-nickname": false,
+      "city": "Cranberry Township",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "schaudt-william.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/BillSchuadtWoodCreations/",
+          "icon": "fab fa-facebook-f"
+        },
+        "YouTube": {
+          "link": "https://youtu.be/p2g-UAniSe0",
+          "icon": "fab fa-youtube"
+        },
+        "Website": {
+          "link": "http://www.billschaudtwoodcreations.com/",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Dow",
+      "name-first": "Scott",
+      "name-nickname": false,
+      "city": "Corry",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "dow-scott.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/scott.dow.568",
+          "icon": "fab fa-facebook-f"
+        },
+        "Website": {
+          "link": "Htpp://www.artinthedow.com",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Hill",
+      "name-first": "Ryan",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "Canada",
+      "image": "hill-ryan.jpg",
+      "links": {
+        "Facebook": {
+          "link": "http://facebook.com/ryanhill17",
+          "icon": "fab fa-facebook-f"
+        }
+      }
+    },
+    {
+      "name-last": "Ramos",
+      "name-first": "Kirby",
+      "name-nickname": false,
+      "city": "Ronanoke",
+      "state": "Texas",
+      "country": "US",
+      "image": false,
+      "links": false
     }
   ]
