@@ -13,7 +13,7 @@ Media inquiries should be directed to Isaac McDaniel by email at isaac@zone6.onl
 ## Common Questions
 
 ### How many carvers are participating? Where are they from?
-There were over 60 carvers participating in the 2018 Rendezvous. Registration is still open for 2019.
+There were over 60 carvers participating in the 2018 Rendezvous.
 
 United States - 61
 Canada - 2
