@@ -532,7 +532,7 @@
       "city": "Aurora",
       "state": "Indiana",
       "country": "US",
-      "image": false,
+      "image": "insprucker-gary.jpg",
       "links": false
     },
     {
@@ -629,6 +629,116 @@
       "city": "Ronanoke",
       "state": "Texas",
       "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Beeler",
+      "name-first": "Ron",
+      "name-nickname": false,
+      "city": "Ridgway",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Johnson",
+      "name-first": "Jimmy",
+      "name-nickname": false,
+      "city": "Bremen",
+      "state": "Alabana",
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Mallon",
+      "name-first": "Andrew",
+      "name-nickname": false,
+      "city": "Falls Church",
+      "state": "Virginia",
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Brett",
+      "name-first": "McLain",
+      "name-nickname": false,
+      "city": "Fredon",
+      "state": "New Jersey",
+      "country": "US",
+      "image": "mclain-brett.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Auchmoody",
+      "name-first": "Peter",
+      "name-nickname": false,
+      "city": "Belows Falls",
+      "state": "Vermont",
+      "country": "US",
+      "image": "aucmoody-peter.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/auchmoody.woodcarving/",
+          "icon": "fab fa-facebook-f"
+        }
+      }
+    },
+    {
+      "name-last": "Lee",
+      "name-first": "Will",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "United Kingdom",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Flemmons",
+      "name-first": "Dave",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "United Kingdom",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Frohlich",
+      "name-first": "Michael",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "Germany",
+      "image": "frohlich-michael.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Dagg",
+      "name-first": "Josh",
+      "name-nickname": false,
+      "city": "Gatineau",
+      "state": "Quebec",
+      "country": "CA",
+      "image": "dagg-josh.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/Joshswood-154319804618808/",
+          "icon": "fab fa-facebook-f"
+        }
+      }
+    },
+    {
+      "name-last": "Lkhagvadorj",
+      "name-first": "Dorjsuren",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "Mongolia",
       "image": false,
       "links": false
     }
