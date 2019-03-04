@@ -124,7 +124,7 @@
                             
                             if(sortedEntertainmentData[i].start != false && !isNaN(start.valueOf()) ) { %>
                                 <h4 class="uk-text-meta uk-margin-remove-bottom">Performance time</h4>
-                                <p class="uk-text-bold uk-margin-remove-top"><%- days[start.getDay()] %>, <%- months[start.getMonth()] %> at <%- formatTime(start) %></p>
+                                <p class="uk-text-bold uk-margin-remove-top"><%- days[start.getDay()] %>, <%- months[start.getMonth()] %> <%- start.getDate() %> at <%- formatTime(start) %></p>
                             <% } else { %>
                                 <p class="uk-text-small">Performance time to be announced</p>
                             <% } %> 
