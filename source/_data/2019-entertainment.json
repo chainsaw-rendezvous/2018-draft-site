@@ -42,6 +42,10 @@
         "Website": {
           "link": "http://www.westernrangemusic.com",
           "icon": "fas fa-globe"
+        },
+        "Facebook": {
+          "link": "https://www.facebook.com/Western-Range-music-1675908902555261/",
+          "icon": "fab fa-facebook-f"
         }
       }
     },
