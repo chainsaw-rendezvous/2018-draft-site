@@ -623,16 +623,6 @@
       }
     },
     {
-      "name-last": "Ramos",
-      "name-first": "Kirby",
-      "name-nickname": false,
-      "city": "Ronanoke",
-      "state": "Texas",
-      "country": "US",
-      "image": false,
-      "links": false
-    },
-    {
       "name-last": "Beeler",
       "name-first": "Ron",
       "name-nickname": false,
@@ -663,8 +653,8 @@
       "links": false
     },
     {
-      "name-last": "Brett",
-      "name-first": "McLain",
+      "name-last": "McLain",
+      "name-first": "Brett",
       "name-nickname": false,
       "city": "Fredon",
       "state": "New Jersey",

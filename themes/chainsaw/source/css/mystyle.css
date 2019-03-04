@@ -26,6 +26,14 @@
     margin: 0 6px;
 }
 
+.member-style1 .entertainer-icons a {
+    color: rgb(121, 121, 121)
+}
+
+.member-style1 .entertainer-icons a:first-of-type {
+    margin-left: 0;
+}
+
 .tc-footer .uk-subnav a:hover,
 .tc-footer .uk-subnav a:active,
 .tc-footer .uk-subnav a:focus {

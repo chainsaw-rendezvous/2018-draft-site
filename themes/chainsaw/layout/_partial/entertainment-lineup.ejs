@@ -1,0 +1,138 @@
+<%
+
+    var isEntertainmentDataAvailable = false; // This flag will change if specified entertainment data is available
+    var concreteYear = false; // This flag will be set to true if the user requests entertainment data for a specific year
+    var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+    var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
+    function formatTime(date) {
+        var hours = date.getHours();
+        var minutes = date.getMinutes();
+        var ampm = hours >= 12 ? 'pm' : 'am';
+        hours = hours % 12;
+        hours = hours ? hours : 12; // the hour '0' should be '12'
+        minutes = minutes < 10 ? '0'+minutes : minutes;
+        var strTime = hours + ':' + minutes + ' ' + ampm;
+        return strTime;
+      }
+
+    /*
+     * Checks to see if year is specified for entertainment data pull. Sets year for
+     * entertainment data pull to current year is none is specified by the user. Finally
+     * verifies that the data source is available before proceeding
+     */
+    if(year) {
+        concreteYear = true;
+    } else {
+        var year = new Date().getFullYear()
+    }
+
+    dataSource = year+"-entertainment";
+
+    if( site.data[dataSource]) {
+        isEntertainmentDataAvailable = true;
+        var entertainmentData = site.data[dataSource];
+    }
+
+    if(!concreteYear) {
+        year ++;
+        dataSource = year+"-entertainment";
+        if( site.data[dataSource]) {
+            isEntertainmentDataAvailable = true;
+            var entertainmentData = site.data[dataSource];
+        }
+    }
+    
+    if(isEntertainmentDataAvailable) {
+        /*
+         * Sets maximum number of entertainment data to pull if user did not set, or
+         * limites to a value that is in range of the data source. Will return
+         * the highest number available if user's value is above the range. Always  
+         * returns at least one entertainment data set
+         */
+        if(maxCount) {
+            maxCount = _.clamp(maxCount, 1, entertainmentData.length);
+        } else {
+             var maxCount = entertainmentData.length;
+        }
+
+        var sortedEntertainmentData = entertainmentData; // Copy of the entertainment data that will be iterated over
+
+        /*
+         * Tries to sort data set by fields specified by the user, randomly, or
+         * as manually entered. LoDash defaults to manually entered if problem
+         * is encountered during the sort parameters
+         */
+        if(sort) {
+            if(sort != "random") {
+                sortedEntertainmentData = _.sortBy(entertainmentData, sort);
+            } else {
+                sortedEntertainmentData = _.shuffle(entertainmentData);
+            }
+        } else {
+            var sort;
+        }
+    }
+%>
+
+
+<!-- Entertainment Start -->
+<section class="tc-entertainment uk-section sec-color uk-padding-remove-vertical" id="tc-entertainment">
+    <div class="uk-container">
+        <table class="uk-table uk-table-striped">
+            <tbody>
+                <% for( var i = 0; i < maxCount; i++) { %>
+                    <tr class="member-style1 member-light">
+                        <td class="uk-width-1-3">
+                            <div class="member-photo">
+                                <% if(sortedEntertainmentData[i].image) { %>
+                                    <img src="<%- url_for("/assets/"+year+"/entertainment/"+sortedEntertainmentData[i].image) %>" alt="<%- sortedEntertainmentData[i]['name'] %>">
+                                <% } else { %>
+                                    <img src="<%- url_for("/assets/"+year+"/entertainment/no-image.png") %>" alt="<%- sortedEntertainmentData[i]['name'] %>">
+                                <% } %>
+                            </div>
+                        </td>
+                        <td>
+                            <h3 class="member-name uk-text-lead"><%- sortedEntertainmentData[i].name %></h3>
+                            <% if(sortedEntertainmentData[i].subname) { %>
+                                <p class="uk-text-meta uk-margin-remove-top"><%- sortedEntertainmentData[i]['subname'] %></p>
+                            <% } %>
+                            <% if(sortedEntertainmentData[i].links) {
+                                links = sortedEntertainmentData[i].links
+                            %>
+                            <div class="entertainer-icons uk-section uk-padding-remove-vertical">
+                            <%
+                                _.forEach(links, function(value, key) {
+                                    if(links[key].link) {
+                                        if(! links[key].icon){
+                                            links[key].icon = "fas fa-link"
+                                        }
+                            %>
+                                <a href="<%- url_for(links[key].link) %>" title="<%- links[value] %>" class="member-icon hvr-bounce-in" target="_blank">
+                                    <i class="<%- links[key].icon %>"></i>
+                                </a>
+                            <%
+                                    }
+                                });
+                            %>
+                            </div>
+                            <% } %>
+    
+                            <%- markdown(sortedEntertainmentData[i].bio) %>
+    
+                            <% var start = new Date(sortedEntertainmentData[i].start)
+                            
+                            if(sortedEntertainmentData[i].start != false && !isNaN(start.valueOf()) ) { %>
+                                <h4 class="uk-text-meta uk-margin-remove-bottom">Performance time</h4>
+                                <p class="uk-text-bold uk-margin-remove-top"><%- days[start.getDay()] %>, <%- months[start.getMonth()] %> at <%- formatTime(start) %></p>
+                            <% } else { %>
+                                <p class="uk-text-small">Performance time to be announced</p>
+                            <% } %> 
+                        </td>
+                    </tr>
+                <% } %>
+            </tbody>
+        </table>
+    </div>
+</section>
+<!-- Entertainment End -->

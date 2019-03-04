@@ -1,0 +1,69 @@
+[
+    {
+      "name": "Ellen Starski",
+      "subname": false,
+      "bio": "During the years leading up to her solo debut, The Days When Peonies Prayed for the Ants, songwriter Ellen Starski explored both her homeland and herself, traveling from the coal country of rural Pennsylvania to the roots-music hotbed of Nashville, Tennessee.</p><p>Released in May 2018, The Days When Peonies Prayed for the Ants acts as the soundtrack to that period of self-discovery. It's an autobiographical album, rooted in a lush mix of indie-folk, orchestral Americana, and organic pop.",
+      "image": "ellen-starski.jpg",
+      "start": "2019-04-27 16:00",
+      "links": {
+        "Website": {
+          "link": "http://www.ellenstarski.com",
+          "icon": "fas fa-globe"
+        },
+        "Facebook": {
+          "link": "https://www.facebook.com/ellenstarski",
+          "icon": "fab fa-facebook-f"
+        },
+        "Instagram": {
+          "link": "https://www.instagram.com/ellenstarski/",
+          "icon": "fab fa-instagram"
+        },
+        "Twitter": {
+          "link": "https://twitter.com/StarskiEllen",
+          "icon": "fab fa-twitter"
+        },
+        "YouTube": {
+          "link": "https://www.youtube.com/channel/UCgpkczX3diKdKEtNfK7hJuA",
+          "icon": "fab fa-youtube"
+        },
+        "Spotify": {
+          "link": "https://open.spotify.com/artist/2O30UzYiQHkCE1H8fIDnez?si=eR25uhNdQYyuphyBZVhFUg&fbclid=IwAR0r3PgZ_KBxkG9UTO9eNyfNq0_hVVCh7L1a64IO_lnpf-X0CZoY0JCHo2I",
+          "icon": "fab fa-spotify"
+        }
+      }
+    },
+    {
+      "name": "Western Range",
+      "subname": false,
+      "bio": "Western Range is a five-piece band of talented and accomplished musicians who perform authentic toe-tapping Texas Swing, Honky Tonk and Rockabilly music.",
+      "image": "western-range.jpg",
+      "start": "2019-04-27 18:00",
+      "links": {
+        "Website": {
+          "link": "http://www.westernrangemusic.com",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name": "III For the Road",
+      "subname": false,
+      "bio": "III For the Road is an acoustic trio playing originals and covers. Musical influences include pop, country, rock, classic rock, 50's rock, blues, and singer/songwriter genres.",
+      "image": "III-for-the-road.jpeg",
+      "start": false,
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/pg/3FTRband",
+          "icon": "fab fa-facebook-f"
+        },
+        "Instagram": {
+          "link": "https://www.instagram.com/3ftrband/",
+          "icon": "fab fa-instagram"
+        },
+        "Twitter": {
+          "link": "https://twitter.com/3ftrband/",
+          "icon": "fab fa-twitter"
+        }
+      }
+    }
+  ]
