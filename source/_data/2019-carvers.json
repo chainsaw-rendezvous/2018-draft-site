@@ -731,5 +731,83 @@
       "country": "Mongolia",
       "image": false,
       "links": false
+    },
+    {
+      "name-last": "Good",
+      "name-first": "Raymond",
+      "name-nickname": false,
+      "city": "Bigler",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "good-raymond.jpg",
+      "links": false
+    },
+    {
+      "name-last": "Hamilton",
+      "name-first": "Richard",
+      "name-nickname": false,
+      "city": "Altoona",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "hamilton-richard.jpg",
+      "links": {
+        "Website": {
+          "link": "http://www.getchainsawart.com",
+          "icon": "fas fa-globe"
+        },
+        "Facebook": {
+          "link": "https://www.facebook.com/RLHWoodSculptures",
+          "icon": "fas fa-facebook-f"
+        }
+      }
+    },
+    {
+      "name-last": "Ceriani",
+      "name-first": "Tom",
+      "name-nickname": false,
+      "city": "Brockport",
+      "state": "Pennsylvania",
+      "country": "US",
+      "image": "ceriani-tom.jpg",
+      "links": {
+        "Facebook": {
+          "link": "https://www.facebook.com/T-D-Carvings-524239980955154",
+          "icon": "fab fa-facebook-f"
+        },
+        "Website": {
+          "link": "http://www.tanddcarvings.net/",
+          "icon": "fas fa-globe"
+        }
+      }
+    },
+    {
+      "name-last": "Gleason",
+      "name-first": "Scotty",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Annis",
+      "name-first": "Korey",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "US",
+      "image": false,
+      "links": false
+    },
+    {
+      "name-last": "Annis",
+      "name-first": "Jeff",
+      "name-nickname": false,
+      "city": false,
+      "state": false,
+      "country": "US",
+      "image": false,
+      "links": false
     }
   ]
