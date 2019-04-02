@@ -117,8 +117,12 @@
                             %>
                             </div>
                             <% } %>
+
+                            <% if(sortedEntertainmentData[i].bio) { %>
     
                             <%- markdown(sortedEntertainmentData[i].bio) %>
+
+                            <% } %>
     
                             <% var start = new Date(sortedEntertainmentData[i].start)
                             
