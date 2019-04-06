@@ -1,28 +1,162 @@
-<!-- Sponsors Start -->
-<section class="tc-sponsors uk-section" id="tc-sponsors">
-    <h2 class="title1 title-center mb60">Thanks to our sponsors</h2>
-    <div class="uk-container">
-        <div uk-slider="center:true, autoplay: true, autoplayInterval: 3000">
-            <ul class="uk-slider-items uk-child-width-1-3@s uk-child-width-1-4@">
-                <li><img src="<%- url_for("/assets/2018/sponsors/husqvarna.png") %>" alt="Husqvarna"></li>
-                <li><img src="<%- url_for("/assets/2018/sponsors/stihl.png") %>" alt="Stihl"></li>
-                <li><img src="<%- url_for("/assets/2018/sponsors/advanced-disposal.png") %>" alt="Advanced Disposal"></li>
-                <li><img src="<%- url_for("/assets/2018/sponsors/straub.png") %>" alt="Straub Brewery"></li>
-                <li><img src="<%- url_for("/assets/2018/sponsors/elk-county-foods.png") %>" alt="Elk County Foods"></li>
-                <li><img src="<%- url_for("/assets/2018/sponsors/seneca-resources.png") %>" alt="Seneca Resources"></li>
-                <li><img src="<%- url_for("/assets/2018/sponsors/wood-mizer.png") %>" alt="Wood-Mizer"></li>
-                <li><img src="<%- url_for("/assets/2018/sponsors/ridgway-borough.png") %>" alt="Ridgway Borough"></li>
-                <li><img src="<%- url_for("/assets/2018/sponsors/st-mary-chevy.png") %>" alt="St. Mary's Chevy"></li>
-                <li><img src="<%- url_for("/assets/2018/sponsors/hud-son.jpg") %>" alt="Hud-Son Forest Equipment"></li>
-            </ul>
+<!--
 
-            <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
-            <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slider-item="next"></a>
+ ######  ########   #######  ##    ##  ######   #######  ########   ######  
+##    ## ##     ## ##     ## ###   ## ##    ## ##     ## ##     ## ##    ## 
+##       ##     ## ##     ## ####  ## ##       ##     ## ##     ## ##       
+ ######  ########  ##     ## ## ## ##  ######  ##     ## ########   ######  
+      ## ##        ##     ## ##  ####       ## ##     ## ##   ##         ## 
+##    ## ##        ##     ## ##   ### ##    ## ##     ## ##    ##  ##    ## 
+ ######  ##         #######  ##    ##  ######   #######  ##     ##  ######  
+
+-->
+
+<div class="uk-section uk-section-default">
+    <div class="uk-container">
+
+            <h2 class="title1 title-center mb60">Thanks to our sponsors</h2>
+
+<!--
+.##......######..##..##..######..##................##...
+.##......##......##..##..##......##...............###...
+.##......####....##..##..####....##................##...
+.##......##.......####...##......##................##...
+.######..######....##....######..######..........######.
+-->
+
+        <div id="sponsors-level-1" class="sponsors uk-section uk-section-xsmall">
+            <div class="uk-flex uk-flex-center uk-flex-middle uk-grid "> <!-- uk-child-width-1-1@s uk-child-width-1-3@m -->
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom uk-text-center sponsor" sponsor-level="1">
+                        <a href="http://appalachian-arts.com/" target="_blank">
+                            <img src="<%- url_for("/assets/2019/sponsors/app-arts.png") %>" alt="Appalachian Arts Studio" />
+                        </a>
+                    </div>
+            </div>
         </div>
-        <div class="spacer4"></div>
-        <ul class="uk-grid uk-child-width-1-2 uk-child-width-1-3@m uk-child-width-1-4@l uk-flex-center  uk-text-center" uk-grid>
-            <li><a href="http://www.royalinnpa.com" target="_blank"><img src="<%- url_for("/assets/2018/sponsors/royal-inn.png") %>" alt="The Royal Inn"></a></li>
-        </ul>
+
+<!--
+.##......######..##..##..######..##...............####..
+.##......##......##..##..##......##..................##.
+.##......####....##..##..####....##...............####..
+.##......##.......####...##......##..............##.....
+.######..######....##....######..######..........######.
+-->
+        <div id="sponsors-level-2" class="sponsors uk-section uk-section-xsmall">
+            <div class="uk-flex uk-flex-center uk-flex-middle uk-grid "> <!-- uk-child-width-1-2@s uk-child-width-1-4@m -->
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom uk-text-center sponsor" sponsor-level="2">
+                    <a href="https://www.husqvarna.com/us/" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/husqvarna.png") %>" alt="Husqvarna" />
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom uk-text-center sponsor" sponsor-level="2">
+                    <a href="https://www.stihlusa.com/" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/stihl.png") %>" alt="Stihl" />
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom uk-text-center sponsor" sponsor-level="2">
+                    <a href="https://www.advanceddisposal.com/" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/advanced-disposal.png") %>" alt="Advanced Disposal" />
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom uk-text-center sponsor" sponsor-level="2">
+                    <a href="https://www.elkcountyfoods.com/" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/elk-county-foods.png") %>" alt="Advanced Disposal" />
+                    </a>
+                </div>
+                
+            </div>
+        </div>
+<!--
+.##......######..##..##..######..##..............######.
+.##......##......##..##..##......##.................##..
+.##......####....##..##..####....##................###..
+.##......##.......####...##......##..................##.
+.######..######....##....######..######..........#####..
+-->
+        <div id="sponsors-level-3" class="sponsors uk-section uk-section-xsmall">
+            <div class="uk-flex uk-flex-center uk-flex-middle uk-grid ">                   
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom uk-text-center sponsor" sponsor-level="3">
+                    <a href="https://www.stmaryschevrolet.com" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/st-mary-chevy.png") %>" alt="St. Mary's Chevy" />
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom uk-text-center sponsor" sponsor-level="3">
+                    <a href="http://straubbeer.com/" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/straub.png") %>"" alt="Straub Brewery" />
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom uk-text-center sponsor" sponsor-level="3">
+                    <a href="http://www.royalinnpa.com/" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/royal-inn.png") %>" alt="Royal Inn" />
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom sponsor" sponsor-level="3">
+                    <a href="https://alphaprecisionpm.com/" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/alpha-precision.png") %>" alt="Alpha Precision Group" />
+                    </a>
+                </div>
+            </div>
+        </div>
+<!--
+.##......######..##..##..######..##..................##.
+.##......##......##..##..##......##..............##..##.
+.##......####....##..##..####....##..............######.
+.##......##.......####...##......##..................##.
+.######..######....##....######..######..............##.
+-->
+        <div id="sponsors-level-4" class="sponsors uk-section uk-section-xsmall">
+            <div class="uk-flex uk-flex-center uk-flex-middle uk-grid ">
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom sponsor" sponsor-level="3">
+                    <a href="http://www.ridgwayborough.com" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/ridgway-borough.png") %>" alt="Ridgway Borough" />
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom sponsor" sponsor-level="3">
+                    <a href="https://www.hud-son.com/" target="_blank">
+                        <img src="<%- url_for("/assets/2019/sponsors/hud-son.jpg") %>" alt="Hud-Son Forest Equipment" />
+                    </a>
+                </div>
+            </div>
+        </div>
+<!--
+.##......######..##..##..######..##..............######.
+.##......##......##..##..##......##..............##.....
+.##......####....##..##..####....##...............####..
+.##......##.......####...##......##..................##.
+.######..######....##....######..######..........#####..
+-->
+        <div id="sponsors-level-5" class="sponsors uk-section uk-section-xsmall">
+            <div class="uk-flex uk-flex-center uk-flex-middle uk-grid ">
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom sponsor" sponsor-level="5">
+                    <a href="https://www.cnbbank.bank/" target="_blank">
+                        CNB Bank
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom sponsor" sponsor-level="5">
+                    <a href="https://agents.allstate.com/gerg-insurance-agencies-saint-marys-pa.html" target="_blank">
+                        Gerg Allstate Insurance
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom sponsor" sponsor-level="5">
+                    <a href="https://lumberheritage.org/" target="_blank">
+                        Lumber Heritage
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom sponsor" sponsor-level="5">
+                    <a href="https://hamptoninn3.hilton.com/en/hotels/pennsylvania/hampton-inn-dubois-DUJPAHX/accommodations/index.html" target="_blank">
+                        Hampton Inn/DuBois
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom sponsor" sponsor-level="5">
+                    <a href="https://www.arbortechtools.com/us/" target="_blank">
+                        Arbor Tech
+                    </a>
+                </div>
+                <div class="uk-card uk-card-body uk-margin-left uk-margin-bottom sponsor" sponsor-level="5">
+                    <a href="http://www.rideata.net/elk-county" target="_blank">
+                        Ride ATA
+                    </a>
+                </div>
+            </div>
+        </div>        
     </div>
-</section>
-<!-- Sponsors End -->
+</div>

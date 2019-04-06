@@ -78,7 +78,7 @@ As we get closer to the event, more details will be added to the event schedule.
             <td>Motion Control Building</td>
         </tr>
         <tr>
-            <td>12pm - 2pm</td>
+            <td>2pm - 3pm</td>
             <td>Nick Forsythe performs</td>
             <td></td>
         </tr>
@@ -131,13 +131,18 @@ As we get closer to the event, more details will be added to the event schedule.
             <td>Motion Control Building</td>
         </tr>
         <tr>
-            <td>12pm - 1:15pm</td>
+            <td>12pm - 12:45pm</td>
             <td>Tim McLain - Guitar Club performs</td>
             <td></td>
         </tr>
         <tr>
-            <td>2pm - 2:45pm</td>
+            <td>1pm - 1:45pm</td>
             <td>Ian Unwired performs</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2pm - 2:45pm</td>
+            <td>Cindy McMuray performs</td>
             <td></td>
         </tr>
         <tr>

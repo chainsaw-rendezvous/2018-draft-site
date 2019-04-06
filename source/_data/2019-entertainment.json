@@ -12,7 +12,7 @@
     "subname": false,
     "bio": false,
     "image": "nick-forsyth.jpg",
-    "start": "2019-04-26 12:00",
+    "start": "2019-04-26 14:00",
     "links": false
  },
  {
@@ -26,7 +26,7 @@
 {
   "name": "Caroline Fitch",
   "subname": false,
-  "bio": false,
+  "bio": "Caroline is a junior at Johnsonburg Area High school. She's been playing the guitar since third grade and added the ukulele to her repertoire four years ago. After graduating she wants to study Art Education in college.",
   "image": false,
   "start": "2019-04-26 16:00",
   "links": false
@@ -71,8 +71,16 @@
   {
     "name": "Ian Unwired",
     "subname": false,
-    "bio": false,
+    "bio": "Singer/songwriter Ian Kucenski has played in numerous bands for over a decade now including: Losing Face, Battle Axe, Electric Foreplay, and is currently a solo acoustic project. If you're a fan of various styles of rock music you will want to check out Ian's performance.",
     "image": "ian-unwired.jpg",
+    "start": "2019-04-27 13:00",
+    "links": false
+  },
+  {
+    "name": "Cindy McMuray",
+    "subname": false,
+    "bio": false,
+    "image": false,
     "start": "2019-04-27 14:00",
     "links": false
   },
