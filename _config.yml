@@ -82,13 +82,12 @@ deploy:
 # Aliases
 ## Docs: https://github.com/hexojs/hexo-generator-alias
 alias:
-  "wordpress/wp-content/uploads/2017/09/2018-Letter-to-Carvers-and-Rules-2017-09-25.pdf": "2018/carver-info/2018-carver-letter.pdf"
-  "schedule/": "2019/schedule"
-  "map/": "2019/map"
-  "carvers/": "2019/carvers"
-  "carver-info/": "2019/carver-info"
-  "vendor-info/": "2019/vendor-info"
-  "vendors/": "2019/vendor-info"
-  "sponsors/": "2019/sponsor-info"
-  "media/": "2019/media-info"
-  "entertainment/": "2019/entertainment"
+  "schedule/": "2020/schedule"
+  "map/": "2020/map"
+  "carvers/": "2020/carvers"
+  "carver-info/": "2020/carver-info"
+  "vendor-info/": "2020/vendor-info"
+  "vendors/": "2020/vendor-info"
+  "sponsors/": "2020/sponsor-info"
+  "media/": "2020/media-info"
+  "entertainment/": "2020/entertainment"
