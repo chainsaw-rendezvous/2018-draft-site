@@ -20,6 +20,10 @@
         var carverData = site.data[dataSource];
     }
 
+    if (typeof carverData === undefined) {
+        isCarverDataAvailable = false;
+    }
+
     if(!concreteYear) {
         year ++;
         dataSource = year+"-carvers";
@@ -28,16 +32,7 @@
             var carverData = site.data[dataSource];
         }
     }
-
-    if(isCarverDataAvailable) {
-
-        var sortedCarverData = carverData; // Copy of the carver data that will be iterated over
-
-        // Sorts carver data by last name then first name
-        sortedCarverData = _.sortBy(carverData, ['name-last','name-first']);
-    }
 %>
-
 <table>
     <thead>
         <tr>
@@ -50,6 +45,16 @@
         </tr>
     </thead>
     <tbody>
+<%
+    if(isCarverDataAvailable) {
+
+        var sortedCarverData = carverData; // Copy of the carver data that will be iterated over
+
+        // Sorts carver data by last name then first name
+        sortedCarverData = _.sortBy(carverData, ['name-last','name-first']);
+%>
+
+
         <% for( var i = 0; i < carverData.length; i++) { %>
             <tr>
                 <% if( sortedCarverData[i]['name-last']) { %>
@@ -89,5 +94,6 @@
                 <% } %>
             </tr>
         <% } %>
+<% } %>
     </tbody>
 </table>

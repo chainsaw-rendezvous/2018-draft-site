@@ -7,4 +7,7 @@ widgets:
     - content
 ---
 
-Online registration for the Rendezvous has closed. If you are still interested in attending, contact Liz Boni to see if space is available.
+{% raw %}
+<!-- Make sure you include the 'amp-iframe' extension JavaScript in the <head> -->
+<amp-iframe src="https://services.cognitoforms.com/f/4q9mfMXzs0yQEnbPXq3vcA?id=5" layout="responsive" resizable frameborder="0" scrolling="yes" height="736" width="800" sandbox="allow-scripts allow-same-origin"><div overflow></div><div placeholder></div></amp-iframe>
+{% endraw %}
