@@ -28,6 +28,10 @@
             var carverData = site.data[dataSource];
         }
     }
+
+    if (typeof carverData === undefined) {
+        isCarverDataAvailable = false;
+    }
     
     if(isCarverDataAvailable) {
         /*
@@ -58,7 +62,6 @@
         } else {
             var sort;
         }
-    }
 %>
 
 <!-- Carvers Attending Start-->
@@ -121,3 +124,4 @@
         </div>
     </section>
     <!-- Carvers Attending End -->
+<% } %>
