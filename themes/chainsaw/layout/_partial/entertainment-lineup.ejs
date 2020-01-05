@@ -42,6 +42,10 @@
             var entertainmentData = site.data[dataSource];
         }
     }
+
+    if (typeof entertainmentData === undefined) {
+        isEntertainmentDataAvailable = false;
+    }
     
     if(isEntertainmentDataAvailable) {
         /*
