@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "hexo": "^4.0.0",
+    "hexo-all-minifier": "^0.5.3",
     "hexo-generator-alias": "^0.1.3",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
@@ -22,7 +23,5 @@
     "hexo-renderer-stylus": "^1.0.0",
     "hexo-server": "^1.0.0"
   },
-  "devDependencies": {
-
-  }
+  "devDependencies": {}
 }

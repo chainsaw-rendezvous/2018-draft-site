@@ -80,6 +80,44 @@ theme: chainsaw
 deploy:
   type:
 
+# Hexo All Minifier
+# https://github.com/chenzhutian/hexo-all-minifier
+css_minifier:
+  enable: true
+  silent: false
+  exclude: 
+    - '*.min.css'
+
+html_minifier:
+  enable: true
+  ignore_error: false
+  silent: false
+  exclude:
+
+image_minifier:
+  enable: true
+  interlaced: false
+  multipass: false
+  optimizationLevel: 2
+  pngquant: false
+  progressive: false
+  silent: false
+
+js_minifier:
+  enable: false
+  mangle: true
+  silent: false
+  output:
+  compress:
+  exclude: 
+    - '*.min.js'
+
+js_concator:
+  enable: false
+  bundle_path: '/js/bundle.js'
+  front: false
+  silent: false
+
 # Aliases
 ## Docs: https://github.com/hexojs/hexo-generator-alias
 alias:
@@ -92,3 +130,4 @@ alias:
   "sponsors/": "2020/sponsor-info"
   "media/": "2020/media-info"
   "entertainment/": "2020/entertainment"
+  "carver-registration": "2020/carver-registration"
