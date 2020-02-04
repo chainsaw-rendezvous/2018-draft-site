@@ -10,7 +10,7 @@ widgets:
     maxCount: 4
     sort:
     - random
-    year: 2019
+    year: 2020
 - event-highlights
 ---
 
