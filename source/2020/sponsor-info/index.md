@@ -7,7 +7,7 @@ widgets:
     - content
     - carver-cards:
         maxCount: 4
-        year: 2019
+        year: 2020
         sort: random
 ---
 

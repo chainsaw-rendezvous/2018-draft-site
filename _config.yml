@@ -131,3 +131,5 @@ alias:
   "media/": "2020/media-info"
   "entertainment/": "2020/entertainment"
   "carver-registration": "2020/carver-registration"
+  "register": "2020/carver-registration"
+  "registration": "2020/carver-registration"

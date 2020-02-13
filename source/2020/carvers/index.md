@@ -9,7 +9,7 @@ widgets:
         sort: 
         - 'name-last'
         - 'name-first'
-        year: 2019
+        year: 2020
 ---
 Carvers will be live carving in 2020! Each will start with an 8 foot log to create a finished piece. There will not be a public auction; many carvers will bring finished pieces to sell direct to the public. Payment methods depend on the carver, but most accept credit cards.
 
