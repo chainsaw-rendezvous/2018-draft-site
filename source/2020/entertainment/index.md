@@ -8,5 +8,5 @@ widgets:
     - entertainment-lineup:
         sort: 
         - start
-        year: 2019
+        year: 2020
 ---
