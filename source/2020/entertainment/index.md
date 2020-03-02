@@ -1,12 +1,12 @@
 ---
 preheader: 
-title: 2019 Entertainment Lineup
+title: 2020 Entertainment Lineup
 subheader: 
-date: 2019-03-03
+date: 2020-03-01
 widgets:
     - content
     - entertainment-lineup:
         sort: 
-        - start
+            - start
         year: 2020
 ---

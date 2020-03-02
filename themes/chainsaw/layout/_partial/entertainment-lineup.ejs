@@ -69,7 +69,9 @@
          */
         if(sort) {
             if(sort != "random") {
-                sortedEntertainmentData = _.sortBy(entertainmentData, sort);
+                sortedEntertainmentData = _.sortBy(entertainmentData, function(o) {
+                    var dt = new Date(o.start);
+                    return dt; });
             } else {
                 sortedEntertainmentData = _.shuffle(entertainmentData);
             }

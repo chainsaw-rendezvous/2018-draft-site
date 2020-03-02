@@ -78,10 +78,10 @@
                     <div class="member-style1 member-align-center member-light">
                         <div class="member-photo">
                             <img
-                                src="<%- full_url_for("/assets/"+year+"/carvers/no-image.png") %>"
+                                src="<%- url_for("/assets/"+year+"/carvers/no-image.png") %>"
                                 alt="<%- sortedCarverData[i]['name-first'] %> <%- sortedCarverData[i]['name-last'] %>" 
                             <% if(sortedCarverData[i].image) { %>
-                                data-srcset="<%- full_url_for("/assets/"+year+"/carvers/"+sortedCarverData[i].image) %>"
+                                data-srcset="<%- url_for("/assets/"+year+"/carvers/"+sortedCarverData[i].image) %>"
                                 class="lazy"
                             <% } %>
                             />
