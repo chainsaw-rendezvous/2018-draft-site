@@ -1,10 +1,50 @@
 [
     {
+        "name-last": "Sprague",
+        "name-first": "Brian",
+        "name-nickname": false,
+        "city": false,
+        "state": "Pennsylvania",
+        "country": "United States",
+        "image": false,
+        "links": false
+    },
+    {
+        "name-last": "Ramos",
+        "name-first": "Kriby",
+        "name-nickname": false,
+        "city": "Justin'",
+        "state": "Texas",
+        "country": "United States",
+        "image": false,
+        "links": {
+            "Facebook": {
+                "icon": "fab fa-facebook-f",
+                "link": "https://www.facebook.com/Kirby-J-Ramos-Wood-Carving-353496428117256/"
+            }
+        }
+    },
+    {
+        "name-last": "Beach",
+        "name-first": "Dennis",
+        "name-nickname": false,
+        "city": "Wapwallopen",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "image": "beach-dennis.jpg",
+        "links": {
+            "Facebook": {
+                "icon": "fab fa-facebook-f",
+                "link": "https://www.facebook.com/dennisbeachcarvings/"
+            }
+        }
+    },
+    {
         "name-last": "Ito",
         "name-first": "Tadashi",
         "name-nickname": false,
-        "city": "",
-        "state": "",
+        "city": false,
+        "state": false,
         "country": "Japan",
         "image": false,
         "links": false
@@ -13,8 +53,8 @@
         "name-last": "Nagahar",
         "name-first": "Masayoshi",
         "name-nickname": false,
-        "city": "",
-        "state": "",
+        "city": false,
+        "state": false,
         "country": "Japan",
         "image": false,
         "links": false
@@ -23,17 +63,30 @@
         "name-last": "Pascoe",
         "name-first": "Chris",
         "name-nickname": false,
-        "city": "",
-        "state": "",
+        "city": false,
+        "state": false,
         "country": "United Kingdom",
-        "image": false,
-        "links": false
+        "image": "pascoe-chris.jpg",
+        "links": {
+            "Website": {
+                "icon": "fas fa-globe",
+                "link": "https://www.carvingsbychris.net/"
+            },
+            "Facebook": {
+                "icon": "fab fa-facebook-f",
+                "link": "https://www.facebook.com/woodcarvingsbychris/"
+            },
+            "Instagram": {
+                "icon": "fab fa-instagram",
+                "link": "https://www.instagram.com/woodcarvingsbychris/"
+            }
+        }
     },
     {
         "name-last": "Werner",
         "name-first": "Rick",
         "name-nickname": false,
-        "city": "",
+        "city": false,
         "state": "Pennsylvania",
         "country": "United States",
         "image": false,
@@ -43,7 +96,7 @@
         "name-last": "Grimes",
         "name-first": "Tony",
         "name-nickname": false,
-        "city": "",
+        "city": false,
         "state": "Pennsylvania",
         "country": "United States",
         "image": false,
@@ -53,7 +106,7 @@
         "name-last": "Denton",
         "name-first": "Dan",
         "name-nickname": false,
-        "city": "",
+        "city": false,
         "state": "Ohio",
         "country": "United States",
         "image": false,
@@ -63,7 +116,7 @@
         "name-last": "Higgins",
         "name-first": "Steven",
         "name-nickname": false,
-        "city": "",
+        "city": false,
         "state": "Minnesota",
         "country": "United States",
         "image": "higgins-steven.jpg",

@@ -35,6 +35,11 @@ widgets:
             <td>Wineries, Breweries & Distilleries on-site</td>
             <td>Motion Control Building</td>
         </tr>
+        <tr>
+            <td>10am - 7pm</td>
+            <td>People's Choice Voting Open</td>
+            <td>Text Messaging</td>
+        </tr>
     </tbody>
 </table>
 {% endraw %}
@@ -70,6 +75,11 @@ widgets:
             <td>Motion Control Building</td>
         </tr>
         <tr>
+            <td>10am - 7pm</td>
+            <td>People's Choice Voting Open</td>
+            <td>Text Messaging</td>
+        </tr>
+        <tr>
             <td>12pm - 1pm</td>
             <td>Nick Forsythe performs</td>
             <td>Motion Control Building</td>
@@ -91,7 +101,7 @@ widgets:
         </tr>
         <tr>
             <td>4pm - 4:45pm</td>
-            <td>Charlie Jacques performs</td>
+            <td></td>
             <td>Motion Control Building</td>
         </tr>
         <tr>
@@ -133,6 +143,11 @@ widgets:
             <td>Motion Control Building</td>
         </tr>
         <tr>
+            <td>10am - 8pm</td>
+            <td>People's Choice Voting Open</td>
+            <td>Text Messaging</td>
+        </tr>
+        <tr>
             <td>11am - 11:45am</td>
             <td>Matt Silvia performs</td>
             <td>Motion Control Building</td>
@@ -166,7 +181,7 @@ widgets:
 </table>
 {% endraw %}
 
-### Sunday, April 28
+### Sunday, April 26
 {% raw %}
 <table class="uk-table uk-table-divider">
     <caption></caption>
@@ -192,6 +207,11 @@ widgets:
             <td>10am - 4pm</td>
             <td>Wineries, Breweries & Distilleries on-site</td>
             <td>Motion Control Building</td>
+        </tr>
+        <tr>
+            <td>10am - 12pm</td>
+            <td>People's Choice Voting Open</td>
+            <td>Text Messaging</td>
         </tr>
         <tr>
             <td>2pm</td>

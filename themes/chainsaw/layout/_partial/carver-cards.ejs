@@ -113,6 +113,8 @@
                             <% } %>
                             <% if(sortedCarverData[i]['state']) { %>
                                 <span class="member-role"><%- sortedCarverData[i]['state'] %></span>
+                            <% } else if(sortedCarverData[i]['country']) { %>
+                                <span class="member-role"><%- sortedCarverData[i]['country'] %></span>
                             <% } %>
                         </div>
                     </div>
