@@ -26,7 +26,9 @@ widgets:
 
     <p>We know that the carvers, public, and local businesses look forward to this event each year just as much as we look forward to planning it. However, because the Rendezvous draws people from all across the United States and internationally, the event has an increased likelihood of contributing to the virus spreading.</p>
 
-    <p>We are exploring options to reschedule the Rendezvous for later in the year and will keep carvers and the public informed at chainsawrendezvous.org and facebook.com/chainsawrendezvous</p>
+    <p>We are exploring options to reschedule the Rendezvous for later in the year and will keep carvers and the public informed at <a href="https://chainsawrendezvous.org">chainsawrendezvous.org</a> and <a href="https://facebook.com/chainsawrendezvous">facebook.com/chainsawrendezvous</a></p>
+ 
+    <p>For additional information about this virus, including symptoms, how it is spread, who is vulnerable, how to protect yourself, and current treatment recommendations visit the CDC website directly at <a href="https://cdc.gov">cdc.gov</a></p>
 </p>
 
 </article>
