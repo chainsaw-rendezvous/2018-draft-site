@@ -10,3 +10,4 @@ widgets:
             - start
         year: 2020
 ---
+We're still booking entertainment for this year's Rendezvous, but here's who has performed in the past.

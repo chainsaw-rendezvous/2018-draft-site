@@ -3,6 +3,10 @@
     width: extend-to-zoom;
 }
 
+.uk-overlay-primary {
+    background: rgba(34,34,34,.2);
+}
+
 .tc-nav{
     background: rgba(48,74,154, 1);
     padding: 5px 0;

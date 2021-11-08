@@ -13,7 +13,9 @@ widgets:
 
 We are accepting a limited number of craft, food, and beer/wine/liquor vendors to participate in the 2022 Rendezvous. There will be a fee associated with a booth space and must be reserved prior to the event. Details on setup will be provided to each vendor.
 
-**Application coming soon**
+{% raw %}
+<a class="uk-button uk-button-primary" href="https://register.chainsawrendezvous.org/vendors">Register Online</a>
+{% endraw %}
 
 
 ### 2022 Vendor Details
