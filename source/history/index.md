@@ -2,15 +2,20 @@
 preheader: 
 title: History
 subheader: 
-lead: The Rendezvous has grown from a small friends and family gathering to become an event that has gained worldwide acclaim
+lead: The rendezvous has grown from a small friends and family gathering to become an event that has gained worldwide acclaim
 date: 2018-01-14 17:21:35
 widgets:
     - content
     - event-highlights
 ---
+
+{% img left-aligned /assets/App_Arts_Logo.png 200 200 '"Appalachian Arts Studio" "Appalachian Arts Studio logo"' %}
+
 Brothers Rick & Randy Boni are responsible for the idea of the Chainsaw Carverâ€™s Rendezvous. With the help of their wives, the brothers decided to gather a few friends and family members with the intention of carving designs and figures into wood with chainsaws. The event was small and simple, but would set the stage for this annual event.
 
- ## Annual Featured Carvers
+The Rendezvous is now the signature event of Appalachian Arts Studio. Each year the event attracts novice, amateur, and professional chainsaw carvers who share this unique art form with the public. Carvers come from all across the United States, Canada, the United Kingdom, Germany, Japan, Australia, and Denmark. The multi-national event has made people call Ridgway the Chainsaw Carving Capital of the World.
+
+ <!-- ## Annual Featured Carvers
 
  ### 2018 - Joe Rego
 
@@ -51,4 +56,4 @@ Brothers Rick & Randy Boni are responsible for the idea of the Chainsaw Carverâ€
     </div>
 </div>
 
-{% endraw %}
+{% endraw %} -->
