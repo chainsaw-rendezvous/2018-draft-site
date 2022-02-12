@@ -11,7 +11,7 @@
       "name": "Bob Dietz",
       "subname": false,
       "bio": false,
-      "image": false,
+      "image": "bob-dietz.jpg",
       "start": "2022-04-30 11:00",
       "links": false
    },
@@ -24,11 +24,19 @@
       "links": false
    },
    {
+      "name": "Chris Dale and Matt Silva",
+      "subname": false,
+      "bio": false,
+      "image": false,
+      "start": "2022-04-29 17:00",
+      "links": false
+   },
+   {
       "name": "Sleep Walker",
       "subname": false,
       "bio": "An acoustic trio comprised of Matt Santaniello, Mark Titchner and Bekki Titchner. Roots, rock, blues, country, originals.",
-      "image": false,
-      "start": "2022-04-29 17:00",
+      "image": "sleep-walker.jpg",
+      "start": "2022-04-29 18:00",
       "links": {
          "Facebook": {
             "link": "https://www.facebook.com/Sleepwalker-1149943991850349/",
@@ -47,7 +55,7 @@
    {
       "name": "Rob Simbeck",
       "subname": false,
-      "bio": false,
+      "bio": "Rob has played on stages from New York to Los Angeles and has been part of Nashville’s music scene for decades. He has performed at the Bluebird Café and had songs published by Sony/Tree and Combine/EMI, with cuts by artists ranging from Charley Pride to Gretchen Wilson. He joined his first band at the age of 12 in his native St. Marys and continues to perform a mix of classic rock and country.",
       "image": false,
       "start": "2022-04-30 11:45",
       "links": false

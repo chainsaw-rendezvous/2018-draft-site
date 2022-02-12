@@ -130,6 +130,11 @@ Ridgway, PA 15853
         </tr>
         <tr>
             <td>5pm - 6pm</td>
+            <td>Chris Dale and Matt Silva performs</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>6pm - 7pm</td>
             <td>Sleep Walker performs</td>
             <td></td>
         </tr>
