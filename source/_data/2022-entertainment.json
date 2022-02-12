@@ -1,0 +1,88 @@
+[
+   {
+      "name": "Nick Forsythe",
+      "subname": false,
+      "bio": false,
+      "image": "nick-forsyth.jpg",
+      "start": "2022-04-29 15:00",
+      "links": false
+   },
+   {
+      "name": "Bob Dietz",
+      "subname": false,
+      "bio": false,
+      "image": false,
+      "start": "2022-04-30 11:00",
+      "links": false
+   },
+   {
+      "name": "Hollow Moon",
+      "subname": false,
+      "bio": false,
+      "image": false,
+      "start": "2022-04-29 16:00",
+      "links": false
+   },
+   {
+      "name": "Sleep Walker",
+      "subname": false,
+      "bio": "An acoustic trio comprised of Matt Santaniello, Mark Titchner and Bekki Titchner. Roots, rock, blues, country, originals.",
+      "image": false,
+      "start": "2022-04-29 17:00",
+      "links": {
+         "Facebook": {
+            "link": "https://www.facebook.com/Sleepwalker-1149943991850349/",
+            "icon": "fab fa-facebook-f"
+         }
+      }
+   },
+   {
+      "name": "Still Kickin'",
+      "subname": false,
+      "bio": "Still Kickin’ is Joe Bliskey (percussion, drums), Bob Sadley (guitars, vocals), Dorcas Thomas (bass, flute, vocals), and Lynne Weis-Dill (vocals, percussion).",
+      "image": false,
+      "start": "2022-04-30 10:00",
+      "links": false
+   },
+   {
+      "name": "Rob Simbeck",
+      "subname": false,
+      "bio": false,
+      "image": false,
+      "start": "2022-04-30 11:45",
+      "links": false
+   },
+   {
+      "name": "Bonnie and the Mere Mortals",
+      "subname": false,
+      "bio": "Bonnie & the Mere Mortals combine the analog with the digital, the Gothic with Americana, and the brand new with the vintage to create a sound and visuals that are fresh, yet familiar.",
+      "image": "bonnie-mere-mortals.jpg",
+      "start": "2022-04-30 12:30",
+      "links": {
+         "Website": {
+            "link": "https://bonnieandthemeremortals.com/",
+            "icon": "fas fa-link"
+         },
+         "Facebook": {
+            "link": "https://www.facebook.com/BonnieandtheMereMortals/",
+            "icon": "fab fa-facebook-f"
+         },
+         "Instagram": {
+            "link": "http://instagram.com/bonnieandthemeremortals",
+            "icon": "fab fa-instagram"
+         },
+         "YouTube": {
+            "link": "http://youtube.com/channel/UCk5ucY3nr7o7MnwarxXJpVA",
+            "icon": "fab fa-youtube"
+         },
+         "Spotify": {
+            "link": "https://open.spotify.com/artist/5fsK6ldf347KF23rLqn0wv?si=HPe-xMFQTn6n3EomwQWhhQ",
+            "icon": "fab fa-spotify"
+         },
+         "Twitter": {
+            "link": "http://twitter.com/meremortalspgh",
+            "icon": "fab fa-twitter"
+         }
+      }
+   }
+]

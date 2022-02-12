@@ -20,7 +20,7 @@ We are accepting a limited number of craft, food, and beer/wine/liquor vendors t
 
 ### 2022 Vendor Details
 Date: April 27th - April 30th 2022
-Location: The Ridgway Mills, Ridgway, PA
+Location: Ridgway Mills Campground, 260 W Main St, Ridgway, PA 15853
 
 Fees are non-refundable and must be submitted with the application. 
 1 vendor per spot

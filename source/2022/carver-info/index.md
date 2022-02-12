@@ -2,9 +2,10 @@
 preheader: 
 title: Carver Information
 subheader: 
-date: 2018-11-14 17:21:35
+date: 2022-02-12
 widgets:
     - content
+- event-highlights
 ---
 
 Greetings Carvers,
@@ -17,6 +18,7 @@ The dates for the 2022 Rendezvous is April 27-30 at The Ridgway Mills. Bring you
 + Registration is $100 for the event, due at check-in
 + Each carver will get a 10x20 space for carving and selling
 
-{% raw %}
-<a class="uk-button uk-button-primary" href="https://register.chainsawrendezvous.org/carvers">Register Online</a>
-{% endraw %}
+**Location**
+Ridgway Mills Campground
+260 West Main Street
+Ridgway, PA 15853 

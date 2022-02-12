@@ -923,5 +923,65 @@
 		"country": "United States",
 		"image": false,
 		"links": false
+	},
+	{
+		"name-last": "Annis",
+		"name-first": "Jeff",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Vale",
+		"name-first": "Colin",
+		"name-nickname": false,
+		"city": false,
+		"state": "Maryland",
+		"country": "United States",
+		"image": "vale-colin.jpeg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.carvingcolin.com/"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://www.instagram.com/carvingcolin/"
+			}
+		}
+	},
+	{
+		"name-last": "Stosz",
+		"name-first": "Cody",
+		"name-nickname": false,
+		"city": false,
+		"state": "Massachusetts",
+		"country": "United States",
+		"image": "stosz-cody.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Perantonakis",
+		"name-first": "Timothy",
+		"name-nickname": false,
+		"city": false,
+		"state": "Maryland",
+		"country": "United States",
+		"image": "perantonakis-timothy.png",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "http://www.TimPCarvings.com"
+			}
+			,
+			"Store": {
+			"icon": "fas fa-tags",
+			"link": "https://www.timpcarvings.com/shop"
+			}
+		}
 	}
 ]
