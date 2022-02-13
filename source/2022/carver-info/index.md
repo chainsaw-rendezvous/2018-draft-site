@@ -5,7 +5,7 @@ subheader:
 date: 2022-02-12
 widgets:
     - content
-- event-highlights
+    - event-highlights
 ---
 
 Greetings Carvers,
