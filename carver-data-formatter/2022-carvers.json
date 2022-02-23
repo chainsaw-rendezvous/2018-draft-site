@@ -570,13 +570,38 @@
 		}
 	},
 	{
-		"name-last": "Nelson",
-		"name-first": "Stephen",
+		"name-last": "Eichinger",
+		"name-first": "Nerissa",
+		"name-nickname": false,
+		"city": false,
+		"state": "Wisconsin",
+		"country": "United States",
+		"image": "eichinger-nerissa.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "http://www.facebook.com/NeenahCreekSculpture"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "http://www.neenahcreeksculpture.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "http://www.instagram.com/neenahcreeksculpture/"
+			}
+		}
+	},
+	{
+		"name-last": "Beeler",
+		"name-first": "Ron",
 		"name-nickname": false,
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": "nelson-stephen.jpg",
+		"image": false,
 		"links": false
 	},
 	{
@@ -670,31 +695,6 @@
 		"links": false
 	},
 	{
-		"name-last": "Eichinger",
-		"name-first": "Nerissa",
-		"name-nickname": false,
-		"city": false,
-		"state": "Wisconsin",
-		"country": "United States",
-		"image": "eichinger-nerissa.jpg",
-		"links": {
-			"Facebook": {
-			"icon": "fab fa-facebook-f",
-			"link": "http://www.facebook.com/NeenahCreekSculpture"
-			}
-			,
-			"Website": {
-			"icon": "fas fa-globe",
-			"link": "http://www.neenahcreeksculpture.com"
-			}
-			,
-			"Instagram": {
-			"icon": "fab fa-instagram",
-			"link": "http://www.instagram.com/neenahcreeksculpture/"
-			}
-		}
-	},
-	{
 		"name-last": "Wetmore",
 		"name-first": "Burdett",
 		"name-nickname": false,
@@ -706,12 +706,12 @@
 	},
 	{
 		"name-last": "Nelson",
-		"name-first": "Chap",
+		"name-first": "Stephen",
 		"name-nickname": false,
 		"city": false,
-		"state": "Georgia",
+		"state": "Pennsylvania",
 		"country": "United States",
-		"image": "nelson-chap.jpeg",
+		"image": "nelson-stephen.jpg",
 		"links": false
 	},
 	{
@@ -813,16 +813,6 @@
 			"link": "https://www.ahearns.site/"
 			}
 		}
-	},
-	{
-		"name-last": "Beeler",
-		"name-first": "Ron",
-		"name-nickname": false,
-		"city": false,
-		"state": "Pennsylvania",
-		"country": "United States",
-		"image": false,
-		"links": false
 	},
 	{
 		"name-last": "Ryan",
@@ -983,5 +973,25 @@
 			"link": "https://www.timpcarvings.com/shop"
 			}
 		}
+	},
+	{
+		"name-last": "Johnson",
+		"name-first": "Doug",
+		"name-nickname": false,
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Syryczuk",
+		"name-first": "Leesa",
+		"name-nickname": false,
+		"city": false,
+		"state": "Wisconsin",
+		"country": "United States",
+		"image": false,
+		"links": false
 	}
 ]

@@ -26,10 +26,27 @@
    {
       "name": "Chris Dale and Matt Silva",
       "subname": false,
-      "bio": false,
-      "image": false,
+      "bio": "Described as McCartney and John Mayer meet Neil Young and Tom Petty at a Jimmy Buffet concert, Christopher Dale mixes his many influences together to form one uniquely engaging artist. This consummate traveling troubadour captures your attention with his honesty, heart, fun-loving energy, and a passionate blend of Americana/Pop/Rock. Catchy songwriting and a remarkable vocal range coupled with candid storytelling and an unparalleled devotion to entertain the audience makes each performance a memory that sticks to you like super glue!\nChristopher Dale's 2022 Spring Across America Tour reunites him with his former bandmate and Ridgway, PA resident, Matt Silvia, for what is sure to be an inspiring performance fueled by their undeniable chemistry and penchant for impressive harmonies.",
+      "image": "c-dale.jpg",
       "start": "2022-04-29 17:00",
-      "links": false
+      "links": {
+         "Website": {
+            "link": "https://www.christopherdalemusic.com",
+            "icon": "fas fa-link"
+         },
+         "Facebook": {
+            "link": "http://www.facebook.com/christopherdalemusic",
+            "icon": "fab fa-facebook-f"
+         },
+         "Instagram": {
+            "link": "https://instagram.com/christopherdalemusic",
+            "icon": "fab fa-instagram"
+         },
+         "YouTube": {
+            "link": "http://www.youtube.com/user/christopherdalemusic",
+            "icon": "fab fa-youtube"
+         }
+      }
    },
    {
       "name": "Sleep Walker",

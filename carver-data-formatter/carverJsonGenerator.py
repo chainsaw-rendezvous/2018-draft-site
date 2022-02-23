@@ -7,7 +7,7 @@ import re
 import glob
 
 remove_previous_files = True
-filename = "220212191309_carver-registration_formidable_entries.csv"
+filename = "220223010930_carver-registration_formidable_entries.csv"
 image_url_prefix = 'https://register.chainsawrendezvous.org/wp-content/uploads/formidable/2/'
 image_folder = './carver-photos-2022'
 renamed_images = './carver-photos-2022-processed'
