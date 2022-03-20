@@ -13,21 +13,23 @@ Media inquiries should be directed to Isaac McDaniel by email at isaac@zone6.onl
 ## Common Questions
 
 ### How many carvers are participating? Where are they from?
-There were over 60 carvers participating in the 2018 Rendezvous.
+There were over 70 carvers registered for the 2022 Rendezvous from the United States, Canada, and United Kingdom.
 
-United States - 61
-Canada - 2
-Germany - 1
-United Kingdom - 1
-
-United States carvers are attending from: Arizona, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Missouri, New York, Ohio, Pennsylvania, Tennessee, Texas, Virginia, Washington, and Wisconsin.
-Over 30 carvers are from Pennsylvania alone.
+United States carvers are attending from: Alabama, Colorado, Delaware, Indiana, Kentucky, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, New Jersey, New York, Ohio, Pennsylvania, Tennessee, Texas, Vermont, Virginia, Washington, and Wisconsin.
 
 ### Where is the event happening?
 The event takes place in Ridgway, PA. All activities will take place at The Ridgway Mills. Check the [schedule](../schedule "2022 Rendezvous Schedule") for the most up-to-date listing of activities.
 
 ### Are carvers selling pieces during the event?
 Yes! Carvers are selling directly to the public at their booth. These are finished pieces that are ready for display in your home. Payment methods vary from carver to carver, so be sure to ask. Most carvers are accepting credit or debit cards these days. Bring a vehicle suitable to take your selections home.
+
+### Will there be an auction at this year's Rendezvous?
+An auction will be held on Saturday afternoon following a quick carve event. Pieces created during that quick carve will be auctioned off. Credit cards will be accepted for payment at the auction.
+
+Pieces that carvers work on throughout the week will not be auctioned off. Inquire with the carver directly for their plans for that piece.
+
+### Are there other activities happening during the event?
+Aside from the daily live carving, there will be food and craft vendors, beer/wine/liquor vendors, and live musical entertainment. On Thursday morning there will be two seminars presented by well respected carvers.
 
 ### What happens if it rains?
 The event is rain or shine. Of course we're hoping for shine!
