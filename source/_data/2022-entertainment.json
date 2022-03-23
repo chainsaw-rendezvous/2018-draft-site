@@ -109,5 +109,13 @@
             "icon": "fab fa-twitter"
          }
       }
+   },
+   {
+      "name": "Musical Romance",
+      "subname": false,
+      "bio": "Musical Romance is a local band formed by three married couples; each with their roots in Ridgway. Mike McClain (drums/vocals) is a married to Tammy Stephens McClain (guitar/vocals). Tim McClain (guitar/vocals) is married to Amanda Van Orsdale McClain (bass guitar). And Joey MacDonald Silvia (guitar/vocals) is married to Matt Silvia (lead guitar/vocals). Mike and Tim met Matt at a Black Friday holiday jam held at Appalachian Arts Studio back in 2018. After that party, Mike, Tim, and Matt created a jam band for a year before their partners expressed an interest in joining. Tammy had played guitar in high school. Amanda said, \"Just let me get a bass guitar, I can learn to play!\" And Joey played with Matt off and on while living in California. The three couples would become Muzical Romance.",
+      "image": false,
+      "start": "2022-04-29 14:00",
+      "links": false
    }
 ]

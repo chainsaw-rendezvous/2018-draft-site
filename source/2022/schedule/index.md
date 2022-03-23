@@ -119,6 +119,11 @@ Ridgway, PA 15853
             <td>Ridgway Mills Campground</td>
         </tr>
         <tr>
+            <td>2pm - 2:45pm</td>
+            <td>Muzical Romance performs</td>
+            <td></td>
+        </tr>
+        <tr>
             <td>3pm - 3:45pm</td>
             <td>Nick Forsythe performs</td>
             <td></td>
