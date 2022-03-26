@@ -7,6 +7,7 @@ date: 2018-01-14 17:21:35
 widgets:
     - content
     - event-highlights
+    - donation-button
 ---
 
 {% img left-aligned /assets/App_Arts_Logo.png 200 200 '"Appalachian Arts Studio" "Appalachian Arts Studio logo"' %}

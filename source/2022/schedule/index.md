@@ -6,6 +6,7 @@ date: 2018-11-14 17:21:35
 widgets:
     - content
     - event-highlights
+    - donation-button
 ---
 
 April 27-30, 2022

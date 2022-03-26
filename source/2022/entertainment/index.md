@@ -9,4 +9,5 @@ widgets:
         sort: 
             - start
         year: 2022
+    - donation-button
 ---

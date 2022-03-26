@@ -78,6 +78,10 @@
     margin-bottom: 40px;
 }
 
+.uk-text-white {
+    color: #FFFFFF;
+}
+
 .sponsors {}
 
 [sponsor-level] {

@@ -10,6 +10,7 @@ widgets:
         - 'name-last'
         - 'name-first'
         year: 2022
+    - donation-button
 ---
 Carvers will be live carving in 2022! Each will start with an 8 foot log to create a piece. Many carvers will bring finished pieces to sell direct to the public and there will be a small auction after the Saturday quick carve.
 
