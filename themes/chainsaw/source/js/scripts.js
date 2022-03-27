@@ -1,4 +1,3 @@
-import { atcb_action, atcb_init } from 'add-to-calendar-button';
 document.addEventListener('DOMContentLoaded', atcb_init, false);
 
 

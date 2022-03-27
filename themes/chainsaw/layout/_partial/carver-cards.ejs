@@ -80,7 +80,7 @@
                             <img
                                 src="<%- url_for("/assets/"+year+"/carvers/no-image.png") %>"
                                 alt="<%- sortedCarverData[i]['name-first'] %> <%- sortedCarverData[i]['name-last'] %>" 
-                            <% if(sortedCarverData[i].image) { %>
+                            <% if(sortedCarverData[i].image) { console.log("found photo") %>
                                 data-srcset="<%- url_for("/assets/"+year+"/carvers/"+sortedCarverData[i].image) %>"
                                 class="lazy"
                             <% } %>
