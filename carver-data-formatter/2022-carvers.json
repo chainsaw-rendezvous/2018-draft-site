@@ -815,106 +815,6 @@
 		}
 	},
 	{
-		"name-last": "Ryan",
-		"name-first": "Doug",
-		"name-nickname": false,
-		"city": false,
-		"state": "Pennsylvania",
-		"country": "United States",
-		"image": "ryan-doug.jpg",
-		"links": false
-	},
-	{
-		"name-last": "Myers",
-		"name-first": "Doug",
-		"name-nickname": false,
-		"city": false,
-		"state": "New Jersey",
-		"country": "United States",
-		"image": "myers-doug.jpg",
-		"links": false
-	},
-	{
-		"name-last": "Oknefski",
-		"name-first": "Cheryl",
-		"name-nickname": false,
-		"city": false,
-		"state": "Pennsylvania",
-		"country": "United States",
-		"image": "oknefski-cheryl.jpg",
-		"links": false
-	},
-	{
-		"name-last": "Boni",
-		"name-first": "Rick",
-		"name-nickname": false,
-		"city": false,
-		"state": "Pennsylvania",
-		"country": "United States",
-		"image": "boni-rick.jpg",
-		"links": false
-	},
-	{
-		"name-last": "Boni",
-		"name-first": "Robin",
-		"name-nickname": false,
-		"city": false,
-		"state": "Pennsylvania",
-		"country": "United States",
-		"image": "boni-robin.jpg",
-		"links": false
-	},
-	{
-		"name-last": "Dussia",
-		"name-first": "Joe",
-		"name-nickname": false,
-		"city": false,
-		"state": "Pennsylvania",
-		"country": "United States",
-		"image": "dussia-joe.jpg",
-		"links": false
-	},
-	{
-		"name-last": "Dussia",
-		"name-first": "Zoe",
-		"name-nickname": false,
-		"city": false,
-		"state": "Pennsylvania",
-		"country": "United States",
-		"image": "dussia-zoe.jpg",
-		"links": false
-	},
-	{
-		"name-last": "Higgins",
-		"name-first": "Steven",
-		"name-nickname": false,
-		"city": false,
-		"state": "Missouri",
-		"country": "United States",
-		"image": "higgins-steven.jpg",
-		"links": false
-	},
-	{
-		"name-last": "McLain",
-		"name-first": "Brett",
-		"name-nickname": false,
-		"city": false,
-		"state": "New Jersey",
-		"country": "United States",
-		"image": "mclain-brett.jpg",
-		"links": false
-	},
-	{
-		"name-last": "Backus",
-		"name-first": "Steve",
-		"name-nickname": false,
-		"city": false,
-		"state": "Washington",
-		"country": "United States",
-		"image": false,
-		"links": false
-	},
-	{
 		"name-last": "Annis",
 		"name-first": "Jeff",
 		"name-nickname": false,
@@ -925,33 +825,63 @@
 		"links": false
 	},
 	{
-		"name-last": "Vale",
-		"name-first": "Colin",
+		"name-last": "Denton",
+		"name-first": "Dan",
 		"name-nickname": false,
 		"city": false,
-		"state": "Maryland",
+		"state": "Ohio",
 		"country": "United States",
-		"image": "vale-colin.jpeg",
-		"links": {
-			"Website": {
-			"icon": "fas fa-globe",
-			"link": "https://www.carvingcolin.com/"
-			}
-			,
-			"Instagram": {
-			"icon": "fab fa-instagram",
-			"link": "https://www.instagram.com/carvingcolin/"
-			}
-		}
+		"image": false,
+		"links": false
 	},
 	{
-		"name-last": "Stosz",
-		"name-first": "Cody",
+		"name-last": "Chiafas",
+		"name-first": "Chaz",
 		"name-nickname": false,
 		"city": false,
-		"state": "Massachusetts",
+		"state": "",
+		"country": "",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Atayan",
+		"name-first": "Eduard",
+		"name-nickname": false,
+		"city": false,
+		"state": "New York",
 		"country": "United States",
-		"image": "stosz-cody.jpg",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Rupert",
+		"name-first": "Randy",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Syryczuk",
+		"name-first": "Leesa",
+		"name-nickname": false,
+		"city": false,
+		"state": "Wisconsin",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Johnson",
+		"name-first": "Doug",
+		"name-nickname": false,
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
 		"links": false
 	},
 	{
@@ -975,23 +905,218 @@
 		}
 	},
 	{
-		"name-last": "Johnson",
+		"name-last": "Stosz",
+		"name-first": "Cody",
+		"name-nickname": false,
+		"city": false,
+		"state": "Massachusetts",
+		"country": "United States",
+		"image": "stosz-cody.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Vale",
+		"name-first": "Colin",
+		"name-nickname": false,
+		"city": false,
+		"state": "Maryland",
+		"country": "United States",
+		"image": "vale-colin.jpeg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.carvingcolin.com/"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://www.instagram.com/carvingcolin/"
+			}
+		}
+	},
+	{
+		"name-last": "Ryan",
 		"name-first": "Doug",
 		"name-nickname": false,
 		"city": false,
-		"state": "New York",
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "ryan-doug.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Backus",
+		"name-first": "Steve",
+		"name-nickname": false,
+		"city": false,
+		"state": "Washington",
 		"country": "United States",
 		"image": false,
 		"links": false
 	},
 	{
-		"name-last": "Syryczuk",
-		"name-first": "Leesa",
+		"name-last": "McLain",
+		"name-first": "Brett",
 		"name-nickname": false,
 		"city": false,
-		"state": "Wisconsin",
+		"state": "New Jersey",
+		"country": "United States",
+		"image": "mclain-brett.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Higgins",
+		"name-first": "Steven",
+		"name-nickname": false,
+		"city": false,
+		"state": "Missouri",
+		"country": "United States",
+		"image": "higgins-steven.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Dussia",
+		"name-first": "Zoe",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "dussia-zoe.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Dussia",
+		"name-first": "Joe",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "dussia-joe.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Boni",
+		"name-first": "Robin",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "boni-robin.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Boni",
+		"name-first": "Rick",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "boni-rick.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Oknefski",
+		"name-first": "Cheryl",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "oknefski-cheryl.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Myers",
+		"name-first": "Doug",
+		"name-nickname": false,
+		"city": false,
+		"state": "New Jersey",
+		"country": "United States",
+		"image": "myers-doug.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Down",
+		"name-first": "Scott",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
 		"country": "United States",
 		"image": false,
 		"links": false
+	},
+	{
+		"name-last": "Szkipala",
+		"name-first": "Emil",
+		"name-nickname": false,
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Szkipala",
+		"name-first": "Stefan",
+		"name-nickname": false,
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Cole",
+		"name-first": "Marina",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Burroughs",
+		"name-first": "Tony",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Perantonikis",
+		"name-first": "Timothy",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Edson",
+		"name-first": "Nicholas",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Hamilton",
+		"name-first": "Richard",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "hamilton-richard.jpg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "http://www.getchainsawart.com/"
+			}
+		}
 	}
 ]
