@@ -145,14 +145,15 @@ Limited onsite parking: $5 /vehicle
         </tr>
         <tr>
             <td>5pm - 6pm</td>
-            <td>Chris Dale and Matt Silva performs</td>
-            <td><a href="/2022/entertainment#chris-dale-and-matt-silva">Artist Bio</a></td>
-        </tr>
-        <tr>
-            <td>6pm - 7pm</td>
             <td>Sleep Walker performs</td>
             <td><a href="/2022/entertainment#sleep-walker">Artist Bio</a></td>
         </tr>
+        <tr>
+            <td>6pm - 7pm</td>
+            <td>Chris Dale and Matt Silva performs</td>
+            <td><a href="/2022/entertainment#chris-dale-and-matt-silva">Artist Bio</a></td>
+        </tr>
+        
     </tbody>
 </table>
 {% endraw %}
