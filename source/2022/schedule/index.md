@@ -37,7 +37,7 @@ Limited onsite parking: $5 /vehicle
         <tr>
             <td>10am - 7pm</td>
             <td>Carver spaces open for live carving and sales</td>
-            <td>Ridgway Mills Campground</td>
+            <td>Ridgway Mills Campground - <a href="https://www.accuweather.com/en/us/ridgway/15853/daily-weather-forecast/335336">Weather</a></td>
         </tr>
         <tr>
             <td>10am - 7pm</td>
@@ -82,7 +82,7 @@ Limited onsite parking: $5 /vehicle
         <tr>
             <td>10am - 7pm</td>
             <td>Carver spaces open for live carving and sales</td>
-            <td>Ridgway Mills Campground</td>
+            <td>Ridgway Mills Campground - <a href="https://www.accuweather.com/en/us/ridgway/15853/daily-weather-forecast/335336">Weather</a></td>
         </tr>
         <tr>
             <td>10am - 7pm</td>
@@ -116,7 +116,7 @@ Limited onsite parking: $5 /vehicle
         <tr>
             <td>10am - 7pm</td>
             <td>Carver spaces open for live carving and sales</td>
-            <td>Ridgway Mills Campground</td>
+            <td>Ridgway Mills Campground - <a href="https://www.accuweather.com/en/us/ridgway/15853/daily-weather-forecast/335336">Weather</a></td>
         </tr>
         <tr>
             <td>10am - 7pm</td>
@@ -176,7 +176,7 @@ Limited onsite parking: $5 /vehicle
         <tr>
             <td>10am - ???</td>
             <td>Carver spaces open for live carving and sales</td>
-            <td>Ridgway Mills Campground</td>
+            <td>Ridgway Mills Campground - <a href="https://www.accuweather.com/en/us/ridgway/15853/daily-weather-forecast/335336">Weather</a></td>
         </tr>
         <tr>
             <td>10am - ???</td>
