@@ -23,7 +23,7 @@ There is limited onsite parking for $5 /vehicle. There is no other cost to visit
 [PDF map version](./2022_Rendezvous_Ridgway_Map.pdf)
 
 {% raw %}
-<a href="./2022_Rendezvous_Ridgway_Map-01.png">
-<img src="2022_Rendezvous_Ridgway_Map-01.png" alt="2022 Rendezvous Map" /></a>
+<a href="./2022-event-map.jpg">
+<img src="2022-event-map.jpg" alt="2022 Rendezvous Map" /></a>
 {% endraw %}
 
