@@ -7,12 +7,12 @@ import re
 import glob
 
 remove_previous_files = True
-filename = "220401204408_carver-registration_formidable_entries.csv"
+filename = "2023-carver-registration.csv"
 image_url_prefix = 'https://register.chainsawrendezvous.org/wp-content/uploads/formidable/2/'
-image_folder = './carver-photos-2022'
-renamed_images = './carver-photos-2022-processed'
+image_folder = './carver-photos-2023'
+renamed_images = './carver-photos-2023-processed'
 
-output_file = '2022-carvers.json'
+output_file = '2023-carvers.json'
 
 try: 
     os.mkdir(image_folder) 
@@ -34,17 +34,17 @@ except OSError as error:
         print("\n")
 
 approved = 0
-fname = 2
-lname = 3
-state = 7
-country = 6
-website = 11
-facebook = 12
-twitter = 13
-instagram = 14
-youtube = 15
-store = 16
-image = 17
+fname = 1
+lname = 2
+state = 3
+country = 4
+website = 6
+facebook = 8
+twitter = 10
+instagram = 9
+youtube = 11
+store = 7
+image = 5
 
 data = []
 line = 0

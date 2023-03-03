@@ -1,0 +1,1202 @@
+[
+	{
+		"name-last": "Harmon",
+		"name-first": "T.J.",
+		"name-nickname": false,
+		"city": false,
+		"state": "Indiana",
+		"country": "United States",
+		"image": "harmon-tj.jpeg",
+		"links": false
+	},
+	{
+		"name-last": "McLain",
+		"name-first": "Brett",
+		"name-nickname": false,
+		"city": false,
+		"state": "New Jersey",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.customchainsawcarvings.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://instagram.com/freehandcustomcarvings"
+			}
+		}
+	},
+	{
+		"name-last": "Torres",
+		"name-first": "Rick",
+		"name-nickname": false,
+		"city": false,
+		"state": "Delaware",
+		"country": "United States",
+		"image": "torres-rick.jpeg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://rjtorresartistry.com"
+			}
+		}
+	},
+	{
+		"name-last": "Higgins",
+		"name-first": "Steve",
+		"name-nickname": false,
+		"city": false,
+		"state": "Missouri",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Backus",
+		"name-first": "Steve",
+		"name-nickname": false,
+		"city": false,
+		"state": "Washington",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Boni",
+		"name-first": "Rick",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dussia",
+		"name-first": "Zoe",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dussia",
+		"name-first": "Joe",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Burrows",
+		"name-first": "Travis",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dow",
+		"name-first": "Scott",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Beeler",
+		"name-first": "Ron",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Orange",
+		"name-first": "Gary",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Doderlein de Win",
+		"name-first": "Rolf",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "Netherlands",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Villier",
+		"name-first": "Ryan",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "Canada",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Palmer",
+		"name-first": "Joel",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "Canada",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Toso",
+		"name-first": "Jesse",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "Canada",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Steele",
+		"name-first": "Craig",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Burgess",
+		"name-first": "Mike",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Burgess",
+		"name-first": "Tim",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Bowsher",
+		"name-first": "Peter",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Bowsher",
+		"name-first": "Sam",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Rouse",
+		"name-first": "Robbie",
+		"name-nickname": false,
+		"city": false,
+		"state": "Ohio",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Markert",
+		"name-first": "Freda",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.cbdwithfreda.com"
+			}
+		}
+	},
+	{
+		"name-last": "Dubinsky",
+		"name-first": "Kristy",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "dubinsky-kristy.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://kristydubinskyart"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.kristydubinskyart.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://kristydubinskyart"
+			}
+			,
+			"YouTube": {
+			"icon": "fab fa-youtube",
+			"link": "https://kristydubinskyart"
+			}
+		}
+	},
+	{
+		"name-last": "Schaudt",
+		"name-first": "William",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://Billschaudtwoodcreations"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://billschaudtwoodcreations.com"
+			}
+		}
+	},
+	{
+		"name-last": "Wagner",
+		"name-first": "Randy",
+		"name-nickname": false,
+		"city": false,
+		"state": "Iowa",
+		"country": "United States",
+		"image": "wagner-randy.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://turkeyrivertreasures.com"
+			}
+		}
+	},
+	{
+		"name-last": "Brinley",
+		"name-first": "James",
+		"name-nickname": false,
+		"city": false,
+		"state": "South Carolina",
+		"country": "United States",
+		"image": "brinley-james.jpg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://JBCraftworks.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://Instagram.com/james_brinley"
+			}
+		}
+	},
+	{
+		"name-last": "Burrows",
+		"name-first": "Travis",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "burrows-travis.jpeg",
+		"links": false
+	},
+	{
+		"name-last": "Pieller",
+		"name-first": "Randy",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "pieller-randy.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://Randypieller"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://piellercreations"
+			}
+			,
+			"YouTube": {
+			"icon": "fab fa-youtube",
+			"link": "https://youtube.com/@my0rangatang.com"
+			}
+		}
+	},
+	{
+		"name-last": "Rannels",
+		"name-first": "Benjamin",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://rannelsrustics"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.rannelsrustics.com"
+			}
+		}
+	},
+	{
+		"name-last": "Cole",
+		"name-first": "Marina",
+		"name-nickname": false,
+		"city": false,
+		"state": "Alberta",
+		"country": "Canada",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Lochhead",
+		"name-first": "Brigitte",
+		"name-nickname": false,
+		"city": false,
+		"state": "British Columbia",
+		"country": "Canada",
+		"image": "lochhead-brigitte.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://brigittelochhead"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://birdseyechainsawart"
+			}
+		}
+	},
+	{
+		"name-last": "Szkipala",
+		"name-first": "Emil",
+		"name-nickname": false,
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": "szkipala-emil.jpeg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.treecarvings.com"
+			}
+		}
+	},
+	{
+		"name-last": "Szkipala",
+		"name-first": "Stefan",
+		"name-nickname": false,
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": "szkipala-stefan.png",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.treecarvings.com"
+			}
+		}
+	},
+	{
+		"name-last": "Myers",
+		"name-first": "Doug",
+		"name-nickname": false,
+		"city": false,
+		"state": "New Jersey",
+		"country": "United States",
+		"image": "myers-doug.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Alger",
+		"name-first": "Jason",
+		"name-nickname": false,
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": "alger-jason.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100083105300382&mibextid=ZbWKwL"
+			}
+		}
+	},
+	{
+		"name-last": "Mallon",
+		"name-first": "Andrew",
+		"name-nickname": false,
+		"city": false,
+		"state": "Virginia",
+		"country": "United States",
+		"image": "mallon-andrew.png",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://AMsculptures"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://AMsculptures.com"
+			}
+		}
+	},
+	{
+		"name-last": "Vale",
+		"name-first": "Colin",
+		"name-nickname": false,
+		"city": false,
+		"state": "Maryland",
+		"country": "United States",
+		"image": "vale-colin.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/carvingcolin"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.carvingcolin.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://www.instagram.com/carvingcolin/"
+			}
+		}
+	},
+	{
+		"name-last": "Fox",
+		"name-first": "Brian",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "fox-brian.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://foxsawmillandcustomdesigns"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.foxsawmillandcustomdesigns.com"
+			}
+		}
+	},
+	{
+		"name-last": "Lovell",
+		"name-first": "James",
+		"name-nickname": false,
+		"city": false,
+		"state": "Georgia",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Whitbeck",
+		"name-first": "Carol",
+		"name-nickname": false,
+		"city": false,
+		"state": "Washington",
+		"country": "United States",
+		"image": "whitbeck-carol.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://carol'schainsawcreations"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://whitbeckcarol"
+			}
+		}
+	},
+	{
+		"name-last": "Skal",
+		"name-first": "Damian",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Abeln",
+		"name-first": "Brooks",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "abeln-brooks.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://abelnarborworks"
+			}
+		}
+	},
+	{
+		"name-last": "Devon",
+		"name-first": "Dracht",
+		"name-nickname": false,
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": "devon-dracht.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Edson",
+		"name-first": "Nicholas",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "edson-nicholas.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/NickEdsonEriePa?mibextid=LQQJ4d"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "http://sawdust_sculptures.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Williams",
+		"name-first": "John",
+		"name-nickname": false,
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.micarver.com"
+			}
+		}
+	},
+	{
+		"name-last": "Packie",
+		"name-first": "Ken",
+		"name-nickname": false,
+		"city": false,
+		"state": "Massachusetts",
+		"country": "United States",
+		"image": "packie-ken.jpeg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.berkshiremtnsculpture.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://kpackie"
+			}
+		}
+	},
+	{
+		"name-last": "Rupert",
+		"name-first": "Randy",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Donoughe",
+		"name-first": "Jeff",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Black",
+		"name-first": "Jennifer",
+		"name-nickname": false,
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": "black-jennifer.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://facebook.com/chainsawcarverjenniferblack"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://chainsawcarverjenniferblack.weebly.com"
+			}
+		}
+	},
+	{
+		"name-last": "Johnson",
+		"name-first": "Jamie",
+		"name-nickname": false,
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": "johnson-jamie.jpg",
+		"links": false
+	},
+	{
+		"name-last": "Churchill",
+		"name-first": "Rick",
+		"name-nickname": false,
+		"city": false,
+		"state": "Vermont",
+		"country": "United States",
+		"image": "churchill-rick.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://RickChurchill"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://afterlifecarvings.com"
+			}
+		}
+	},
+	{
+		"name-last": "Klock",
+		"name-first": "Tim",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Mackenzie",
+		"name-first": "Robert",
+		"name-nickname": false,
+		"city": false,
+		"state": "New Jersey",
+		"country": "United States",
+		"image": "mackenzie-robert.jpeg",
+		"links": false
+	},
+	{
+		"name-last": "Whiting",
+		"name-first": "Jenna",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "whiting-jenna.JPG",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/ChainsawJenna/"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.ebay.com/usr/chainsawjenna"
+			}
+		}
+	},
+	{
+		"name-last": "Beach",
+		"name-first": "Dennis",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Ceriani",
+		"name-first": "Tom",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Ceriani",
+		"name-first": "Dawna",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Waclo",
+		"name-first": "Paul",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "waclo-paul.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/paul.waclo"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.ChainsawCarvingbyPaul.com"
+			}
+		}
+	},
+	{
+		"name-last": "Leederman",
+		"name-first": "Scott",
+		"name-nickname": false,
+		"city": false,
+		"state": "Texas",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Long",
+		"name-first": "Amber",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "long-amber.JPG",
+		"links": false
+	},
+	{
+		"name-last": "Quinn",
+		"name-first": "Ernest",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "quinn-ernest.JPG",
+		"links": false
+	},
+	{
+		"name-last": "Howard",
+		"name-first": "Nathan",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "howard-nathan.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://facebook.com/ChainsawN8"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://natesawart.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://instagram.com/chainsawn8"
+			}
+		}
+	},
+	{
+		"name-last": "Fife",
+		"name-first": "Jim",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Sprague",
+		"name-first": "Brian",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Uzdravis",
+		"name-first": "Raimondas",
+		"name-nickname": false,
+		"city": false,
+		"state": "Kaunas",
+		"country": "Lithuania",
+		"image": "uzdravis-raimondas.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/medkircio.darbai"
+			}
+		}
+	},
+	{
+		"name-last": "Johnson",
+		"name-first": "Doug",
+		"name-nickname": false,
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Wenal",
+		"name-first": "Joe",
+		"name-nickname": false,
+		"city": false,
+		"state": "Maine",
+		"country": "United States",
+		"image": "wenal-joe.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/rockymountaincarvers/"
+			}
+		}
+	},
+	{
+		"name-last": "Oknefski",
+		"name-first": "Cheryl",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "oknefski-cheryl.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100063516315118"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://peacewithcheryl.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://www.instagram.com/cheryloknefski/"
+			}
+			,
+			"YouTube": {
+			"icon": "fab fa-youtube",
+			"link": "https://www.youtube.com/channel/UCD74octf4AMG9_2r0bG8-lw"
+			}
+		}
+	},
+	{
+		"name-last": "Kron",
+		"name-first": "Wendy",
+		"name-nickname": false,
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": "kron-wendy.jpg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://WWW.DKCARVING.COM"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://HTTPS://INSTAGRAM.COM/DK_CARVING"
+			}
+		}
+	},
+	{
+		"name-last": "Kron",
+		"name-first": "David",
+		"name-nickname": false,
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": "kron-david.jpg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.dkcarving.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://instagram.com/dk_carving"
+			}
+		}
+	},
+	{
+		"name-last": "Hartley",
+		"name-first": "Dan",
+		"name-nickname": false,
+		"city": false,
+		"state": "Georgia",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Ahearn",
+		"name-first": "Shawn",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/shawn.ahearn.35"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://ahearns.site"
+			}
+		}
+	},
+	{
+		"name-last": "Roloson",
+		"name-first": "Glenn",
+		"name-nickname": false,
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": "roloson-glenn.jpeg",
+		"links": false
+	},
+	{
+		"name-last": "Tanner",
+		"name-first": "Jenny",
+		"name-nickname": false,
+		"city": false,
+		"state": "Missouri",
+		"country": "United States",
+		"image": "tanner-jenny.JPG",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://JennyTanner.com"
+			}
+		}
+	},
+	{
+		"name-last": "Mann",
+		"name-first": "Mark",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "mann-mark.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://facebook.com/profilephp?id=10005701095094"
+			}
+		}
+	},
+	{
+		"name-last": "Bieniecki",
+		"name-first": "Alex",
+		"name-nickname": false,
+		"city": false,
+		"state": "New Hampshire",
+		"country": "United States",
+		"image": "bieniecki-alex.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://CarverAlex"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://carver_alexnh.com"
+			}
+		}
+	},
+	{
+		"name-last": "Destefano",
+		"name-first": "Snuffy",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Treat",
+		"name-first": "Kevin",
+		"name-nickname": false,
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "treat-kevin.jpeg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.sawptician.com"
+			}
+		}
+	},
+	{
+		"name-last": "Miller",
+		"name-first": "Josh",
+		"name-nickname": false,
+		"city": false,
+		"state": "Delaware",
+		"country": "United States",
+		"image": "miller-josh.jpeg",
+		"links": {
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://artnsaw_chainsaw_carving"
+			}
+		}
+	},
+	{
+		"name-last": "Peterson",
+		"name-first": "Rob",
+		"name-nickname": false,
+		"city": false,
+		"state": "Kentucky",
+		"country": "United States",
+		"image": "peterson-rob.jpeg",
+		"links": {
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://robpetersoncarving.com"
+			}
+		}
+	},
+	{
+		"name-last": "Driver",
+		"name-first": "Justin",
+		"name-nickname": false,
+		"city": false,
+		"state": "Kentucky",
+		"country": "United States",
+		"image": "driver-justin.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://www.facebook.com/justindriverwoodcarving?mibextid=LQQJ4d"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.onceuponalog.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Buschke",
+		"name-first": "Benjamin",
+		"name-nickname": false,
+		"city": false,
+		"state": "Wisconsin",
+		"country": "United States",
+		"image": "buschke-benjamin.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fab fa-facebook-f",
+			"link": "https://buschkecarving"
+			}
+			,
+			"Website": {
+			"icon": "fas fa-globe",
+			"link": "https://www.buschkecarving.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fab fa-instagram",
+			"link": "https://buschkecarving"
+			}
+			,
+			"YouTube": {
+			"icon": "fab fa-youtube",
+			"link": "https://buschkecarving"
+			}
+		}
+	}
+]

@@ -2,7 +2,7 @@
 preheader: April 26-29, 2023
 title: Chainsaw Carvers Rendezvous
 subheader: 
-date: '2022-02-12 00:00 -0500'
+date: '2023-03-03 00:00 -0500'
 widgets:
 - hero
 - content
@@ -11,7 +11,7 @@ widgets:
     maxCount: 4
     sort:
     - random
-    year: 2022
+    year: 2023
 - event-highlights
 - donation-button
 

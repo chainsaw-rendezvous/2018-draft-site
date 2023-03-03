@@ -2,11 +2,11 @@
 main-menu:
   Home: /
   History: /history
-  Map: /2019/map
-  Schedule: /2019/schedule
-  Carvers: /2019/carvers
+  Map: /2023/map
+  Schedule: /2023/schedule
+  Carvers: /2023/carvers
 
 footer-menu:
-  For Carvers: /2019/carver-info
-  For Sponsors: /2019/sponsor-info
-  For Media: /2019/media-info
+  For Carvers: /2023/carver-info
+  For Sponsors: /2023/sponsor-info
+  For Media: /2023/media-info
