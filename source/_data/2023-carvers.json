@@ -260,7 +260,7 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://kristydubinskyart"
+			"link": "https://facebook.com/kristydubinskyart"
 			}
 			,
 			"Website": {
@@ -270,12 +270,12 @@
 			,
 			"Instagram": {
 			"icon": "fab fa-instagram",
-			"link": "https://kristydubinskyart"
+			"link": "https://instagram.com/kristydubinskyart"
 			}
 			,
 			"YouTube": {
 			"icon": "fab fa-youtube",
-			"link": "https://kristydubinskyart"
+			"link": "https://youtube.com/@kristydubinskyart"
 			}
 		}
 	},
@@ -290,7 +290,7 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://Billschaudtwoodcreations"
+			"link": "https://facebook.com/Billschaudtwoodcreations"
 			}
 			,
 			"Website": {
@@ -310,7 +310,7 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://turkeyrivertreasures.com"
+			"link": "https://facebook.com/turkeyrivertreasures"
 			}
 		}
 	},
@@ -355,12 +355,12 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://Randypieller"
+			"link": "https://facebook.com/Randypieller"
 			}
 			,
 			"Instagram": {
 			"icon": "fab fa-instagram",
-			"link": "https://piellercreations"
+			"link": "https://instagram.com/piellercreations"
 			}
 			,
 			"YouTube": {
@@ -380,7 +380,7 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://rannelsrustics"
+			"link": "https://facebook.com/rannelsrustics"
 			}
 			,
 			"Website": {
@@ -410,12 +410,12 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://brigittelochhead"
+			"link": "https://facebook.com/brigittelochhead"
 			}
 			,
 			"Instagram": {
 			"icon": "fab fa-instagram",
-			"link": "https://birdseyechainsawart"
+			"link": "https://instagram.com/birdseyechainsawart"
 			}
 		}
 	},
@@ -427,12 +427,7 @@
 		"state": "Michigan",
 		"country": "United States",
 		"image": "szkipala-emil.jpeg",
-		"links": {
-			"Website": {
-			"icon": "fas fa-globe",
-			"link": "https://www.treecarvings.com"
-			}
-		}
+		"links": false
 	},
 	{
 		"name-last": "Szkipala",
@@ -442,12 +437,7 @@
 		"state": "Michigan",
 		"country": "United States",
 		"image": "szkipala-stefan.png",
-		"links": {
-			"Website": {
-			"icon": "fas fa-globe",
-			"link": "https://www.treecarvings.com"
-			}
-		}
+		"links": false
 	},
 	{
 		"name-last": "Myers",
@@ -485,7 +475,7 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://AMsculptures"
+			"link": "https://facebook.com/AMsculptures"
 			}
 			,
 			"Website": {
@@ -530,12 +520,7 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://foxsawmillandcustomdesigns"
-			}
-			,
-			"Website": {
-			"icon": "fas fa-globe",
-			"link": "https://www.foxsawmillandcustomdesigns.com"
+			"link": "https://www.facebook.com/Foxportablesawmill"
 			}
 		}
 	},
@@ -560,12 +545,12 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://carol'schainsawcreations"
+			"link": "https://www.facebook.com/carolschainsawcreations"
 			}
 			,
 			"Instagram": {
 			"icon": "fab fa-instagram",
-			"link": "https://whitbeckcarol"
+			"link": "https://instagram.com/whitbeckcarol"
 			}
 		}
 	},
@@ -590,7 +575,7 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://abelnarborworks"
+			"link": "https://facebook.com/abelnarborworks"
 			}
 		}
 	},
@@ -615,12 +600,12 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://www.facebook.com/NickEdsonEriePa?mibextid=LQQJ4d"
+			"link": "https://www.facebook.com/NickEdsonEriePa"
 			}
 			,
 			"Instagram": {
 			"icon": "fab fa-instagram",
-			"link": "http://sawdust_sculptures.com/"
+			"link": "https://www.instagram.com/sawdust_sculptures/"
 			}
 		}
 	},
@@ -651,11 +636,6 @@
 			"Website": {
 			"icon": "fas fa-globe",
 			"link": "https://www.berkshiremtnsculpture.com"
-			}
-			,
-			"Instagram": {
-			"icon": "fab fa-instagram",
-			"link": "https://kpackie"
 			}
 		}
 	},
@@ -718,11 +698,6 @@
 		"country": "United States",
 		"image": "churchill-rick.jpeg",
 		"links": {
-			"Facebook": {
-			"icon": "fab fa-facebook-f",
-			"link": "https://RickChurchill"
-			}
-			,
 			"Website": {
 			"icon": "fas fa-globe",
 			"link": "https://afterlifecarvings.com"
@@ -1027,11 +1002,6 @@
 			"icon": "fab fa-facebook-f",
 			"link": "https://www.facebook.com/shawn.ahearn.35"
 			}
-			,
-			"Website": {
-			"icon": "fas fa-globe",
-			"link": "https://ahearns.site"
-			}
 		}
 	},
 	{
@@ -1052,12 +1022,7 @@
 		"state": "Missouri",
 		"country": "United States",
 		"image": "tanner-jenny.JPG",
-		"links": {
-			"Facebook": {
-			"icon": "fab fa-facebook-f",
-			"link": "https://JennyTanner.com"
-			}
-		}
+		"links": false
 	},
 	{
 		"name-last": "Mann",
@@ -1067,12 +1032,7 @@
 		"state": "Pennsylvania",
 		"country": "United States",
 		"image": "mann-mark.jpg",
-		"links": {
-			"Facebook": {
-			"icon": "fab fa-facebook-f",
-			"link": "https://facebook.com/profilephp?id=10005701095094"
-			}
-		}
+		"links": false
 	},
 	{
 		"name-last": "Bieniecki",
@@ -1085,12 +1045,12 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://CarverAlex"
+			"link": "https://facebook.com/CarverAlex"
 			}
 			,
 			"Instagram": {
 			"icon": "fab fa-instagram",
-			"link": "https://carver_alexnh.com"
+			"link": "https://www.instagram.com/carver_alexnh/"
 			}
 		}
 	},
@@ -1130,7 +1090,7 @@
 		"links": {
 			"Instagram": {
 			"icon": "fab fa-instagram",
-			"link": "https://artnsaw_chainsaw_carving"
+			"link": "https://instagram.com/artnsaw_chainsaw_carving"
 			}
 		}
 	},
@@ -1160,7 +1120,7 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://www.facebook.com/justindriverwoodcarving?mibextid=LQQJ4d"
+			"link": "https://www.facebook.com/justindriverwoodcarving"
 			}
 			,
 			"Website": {
@@ -1180,7 +1140,7 @@
 		"links": {
 			"Facebook": {
 			"icon": "fab fa-facebook-f",
-			"link": "https://buschkecarving"
+			"link": "https://facebook.com/buschkecarving"
 			}
 			,
 			"Website": {
@@ -1190,12 +1150,12 @@
 			,
 			"Instagram": {
 			"icon": "fab fa-instagram",
-			"link": "https://buschkecarving"
+			"link": "https://instagram.com/buschkecarving"
 			}
 			,
 			"YouTube": {
 			"icon": "fab fa-youtube",
-			"link": "https://buschkecarving"
+			"link": "https://www.youtube.com/@buschkecarving"
 			}
 		}
 	}
