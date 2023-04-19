@@ -1,0 +1,118 @@
+[
+   {
+      "name": "Bob Dietz",
+      "subname": false,
+      "bio": false,
+      "image": "bob-dietz.jpg",
+      "start": "2023-04-28 15:00",
+      "links": false
+   },
+   {
+      "name": "Mike DeStefano",
+      "subname": false,
+      "bio": false,
+      "image": false,
+      "start": "2023-04-28 15:45",
+      "links": false
+   },
+   {
+      "name": "Steve & Sandy Songer",
+      "subname": false,
+      "bio": false,
+      "image": false,
+      "start": "2023-04-28 17:15",
+      "links": false
+   },
+   {
+      "name": "Chris Dale and Matt Silva",
+      "subname": false,
+      "bio": "Described as McCartney and John Mayer meet Neil Young and Tom Petty at a Jimmy Buffet concert, Christopher Dale mixes his many influences together to form one uniquely engaging artist. This consummate traveling troubadour captures your attention with his honesty, heart, fun-loving energy, and a passionate blend of Americana/Pop/Rock. Catchy songwriting and a remarkable vocal range coupled with candid storytelling and an unparalleled devotion to entertain the audience makes each performance a memory that sticks to you like super glue!\nChristopher Dale's 2022 Spring Across America Tour reunites him with his former bandmate and Ridgway, PA resident, Matt Silvia, for what is sure to be an inspiring performance fueled by their undeniable chemistry and penchant for impressive harmonies.",
+      "image": "c-dale.jpg",
+      "start": "2023-04-29 11:00",
+      "links": {
+         "Website": {
+            "link": "https://www.christopherdalemusic.com",
+            "icon": "fas fa-link"
+         },
+         "Facebook": {
+            "link": "http://www.facebook.com/christopherdalemusic",
+            "icon": "fab fa-facebook-f"
+         },
+         "Instagram": {
+            "link": "https://instagram.com/christopherdalemusic",
+            "icon": "fab fa-instagram"
+         },
+         "YouTube": {
+            "link": "http://www.youtube.com/user/christopherdalemusic",
+            "icon": "fab fa-youtube"
+         }
+      }
+   },
+   {
+      "name": "Sleep Walker",
+      "subname": false,
+      "bio": "An acoustic trio comprised of Matt Santaniello, Mark Titchner and Bekki Titchner. Roots, rock, blues, country, originals.",
+      "image": "sleep-walker.jpg",
+      "start": "2023-04-29 11:45",
+      "links": {
+         "Facebook": {
+            "link": "https://www.facebook.com/Sleepwalker-1149943991850349/",
+            "icon": "fab fa-facebook-f"
+         }
+      }
+   },
+   {
+      "name": "Rob Simbeck",
+      "subname": false,
+      "bio": "Rob has played on stages from New York to Los Angeles and has been part of Nashville’s music scene for decades. He has performed at the Bluebird Café and had songs published by Sony/Tree and Combine/EMI, with cuts by artists ranging from Charley Pride to Gretchen Wilson. He joined his first band at the age of 12 in his native St. Marys and continues to perform a mix of classic rock and country.",
+      "image": "rob-simbeck.jpg",
+      "start": "2023-04-28 16:30",
+      "links": false
+   },
+   {
+      "name": "Bonnie and the Mere Mortals",
+      "subname": false,
+      "bio": "Bonnie & the Mere Mortals combine the analog with the digital, the Gothic with Americana, and the brand new with the vintage to create a sound and visuals that are fresh, yet familiar.",
+      "image": "bonnie-mere-mortals.jpg",
+      "start": "2023-04-28 18:00",
+      "links": {
+         "Website": {
+            "link": "https://bonnieandthemeremortals.com/",
+            "icon": "fas fa-link"
+         },
+         "Facebook": {
+            "link": "https://www.facebook.com/BonnieandtheMereMortals/",
+            "icon": "fab fa-facebook-f"
+         },
+         "Instagram": {
+            "link": "http://instagram.com/bonnieandthemeremortals",
+            "icon": "fab fa-instagram"
+         },
+         "YouTube": {
+            "link": "http://youtube.com/channel/UCk5ucY3nr7o7MnwarxXJpVA",
+            "icon": "fab fa-youtube"
+         },
+         "Spotify": {
+            "link": "https://open.spotify.com/artist/5fsK6ldf347KF23rLqn0wv?si=HPe-xMFQTn6n3EomwQWhhQ",
+            "icon": "fab fa-spotify"
+         },
+         "Twitter": {
+            "link": "http://twitter.com/meremortalspgh",
+            "icon": "fab fa-twitter"
+         }
+      }
+   },
+   {
+      "name": "High River Valley Band",
+      "subname": false,
+      "bio": false,
+      "image": "high-river-valley-band.jpg",
+      "start": "2023-04-29 10:00",
+      "links": {
+         "Facebook": {
+            "link": "https://www.facebook.com/muzicalromance",
+            "icon": "fab fa-facebook-f"
+         }
+      }
+   }
+]

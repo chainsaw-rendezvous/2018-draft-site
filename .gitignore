@@ -6,3 +6,5 @@ node_modules/
 public/
 .deploy*/
 carver-data-formatter/*.csv
+# Local Netlify folder
+.netlify

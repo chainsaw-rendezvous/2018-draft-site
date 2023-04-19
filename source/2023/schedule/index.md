@@ -193,7 +193,7 @@ Admission: $5 /adult. Kids free!
         </tr>
         <tr>
             <td>10am - 10:45am</td>
-            <td>High River Valley performs</td>
+            <td>High River Valley Band performs</td>
             <td><!--<a href="/2022/entertainment#sleep-walker">Artist Bio</a>--></td>
         </tr>
         <tr>
@@ -204,11 +204,6 @@ Admission: $5 /adult. Kids free!
         <tr>
             <td>11:45am - 12:15pm</td>
             <td>Sleep Walker performs</td>
-            <td><!--<a href="/2022/entertainment#sleep-walker">Artist Bio</a>--></td>
-        </tr>
-        <tr>
-            <td>12:30pm - 1:15pm</td>
-            <td>Middle Ground performs</td>
             <td><!--<a href="/2022/entertainment#sleep-walker">Artist Bio</a>--></td>
         </tr>
         <tr>

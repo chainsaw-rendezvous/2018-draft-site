@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "add-to-calendar-button": "^1.7.2",
+    "dotenv": "^16.0.3",
     "hexo": "^6.0.0",
     "hexo-all-minifier": "^0.5.7",
     "hexo-generator-alias": "^1.0.0",
@@ -24,6 +25,7 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^3.0.0",
     "lodash": "^4.17.21",
-    "mjml": "^4.13.0"
+    "mjml": "^4.13.0",
+    "node-fetch": "^3.3.1"
   }
 }

@@ -95,16 +95,6 @@
 		"links": false
 	},
 	{
-		"name-last": "Burrows",
-		"name-first": "Travis",
-		"name-nickname": false,
-		"city": false,
-		"state": "",
-		"country": "United States",
-		"image": false,
-		"links": false
-	},
-	{
 		"name-last": "Dow",
 		"name-first": "Scott",
 		"name-nickname": false,
@@ -125,16 +115,6 @@
 		"links": false
 	},
 	{
-		"name-last": "Orange",
-		"name-first": "Gary",
-		"name-nickname": false,
-		"city": false,
-		"state": "",
-		"country": "United Kingdom",
-		"image": false,
-		"links": false
-	},
-	{
 		"name-last": "Doderlein de Win",
 		"name-first": "Rolf",
 		"name-nickname": false,
@@ -145,7 +125,7 @@
 		"links": false
 	},
 	{
-		"name-last": "Villier",
+		"name-last": "Villiers",
 		"name-first": "Ryan",
 		"name-nickname": false,
 		"city": false,
@@ -235,19 +215,14 @@
 		"links": false
 	},
 	{
-		"name-last": "Markert",
-		"name-first": "Freda",
+		"name-last": "Nelson",
+		"name-first": "Steve",
 		"name-nickname": false,
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
 		"image": false,
-		"links": {
-			"Website": {
-			"icon": "fas fa-globe",
-			"link": "https://www.cbdwithfreda.com"
-			}
-		}
+		"links": false
 	},
 	{
 		"name-last": "Dubinsky",
@@ -1158,5 +1133,15 @@
 			"link": "https://www.youtube.com/@buschkecarving"
 			}
 		}
+	},
+	{
+		"name-last": "Beth",
+		"name-first": "Krumrine",
+		"name-nickname": false,
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": false
 	}
 ]
