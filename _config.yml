@@ -133,3 +133,5 @@ alias:
   "carver-registration/": "https://register.chainsawrendezvous.org/carvers"
   "register/": "https://register.chainsawrendezvous.org/carvers"
   "registration/": "https://register.chainsawrendezvous.org/carvers"
+  "tickets/": "https://chainsawrendezvous.simpletix.com/"
+  "ticket/": "https://chainsawrendezvous.simpletix.com/"
