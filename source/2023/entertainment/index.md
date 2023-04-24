@@ -11,4 +11,4 @@ widgets:
         year: 2023
     - donation-button
 ---
-The 2023 entertainment line-up will be announced soon
+**Middle Ground** will regrettably be unable to perform at this year's Rendezvous. All other groups and their performance times are below.
