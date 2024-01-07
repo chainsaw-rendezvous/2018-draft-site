@@ -93,7 +93,7 @@
                                 _.forEach(carverLinks, function(value, key) {
                                     if(carverLinks[key].link) {
                                         if(! carverLinks[key].icon){
-                                            carverLinks[key].icon = "fas fa-link"
+                                            carverLinks[key].icon = "fa-solid fa-link"
                                         }
                             %>
                                 <a href="<%- url_for(carverLinks[key].link) %>" title="<%- carverLinks[value] %>" class="member-icon hvr-bounce-in" target="_blank">
@@ -108,13 +108,13 @@
                         </div>
                         <div class="member-info">
                             <h3 class="member-name"><%- sortedCarverData[i]['name-first'] %> <%- sortedCarverData[i]['name-last'] %></h3>
-                            <% if(sortedCarverData[i]['name-nickname']) { %>
-                            <h3 class="member-name"><span class="member-role"><%- sortedCarverData[i]['name-nickname'] %></span></h3>
+                            <% if(sortedCarverData[i]['business']) { %>
+                            <h3 class="member-name"><span class="member-business"><%- sortedCarverData[i]['business'] %></span></h3>
                             <% } %>
                             <% if(sortedCarverData[i]['state']) { %>
-                                <span class="member-role"><%- sortedCarverData[i]['state'] %></span>
+                                <span class="member-stateCountry"><%- sortedCarverData[i]['state'] %></span>
                             <% } else if(sortedCarverData[i]['country']) { %>
-                                <span class="member-role"><%- sortedCarverData[i]['country'] %></span>
+                                <span class="member-stateCountry"><%- sortedCarverData[i]['country'] %></span>
                             <% } %>
                         </div>
                     </div>

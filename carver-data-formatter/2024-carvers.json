@@ -1,0 +1,1088 @@
+[
+	{
+		"name-last": "Missey",
+		"name-first": "Lorne",
+		"name-nickname": false,
+		"business": "Ohio Tree Carving",
+		"city": false,
+		"state": "Ohio",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Missey",
+		"name-first": "Matt",
+		"name-nickname": false,
+		"business": "Ohio Tree Carving",
+		"city": false,
+		"state": "Ohio",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Szkipala",
+		"name-first": "Emil",
+		"name-nickname": false,
+		"business": "Chainsaw Men of Michigan",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/chainsawmenofmichigan"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.treecarvings.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Szkipala",
+		"name-first": "Stefan",
+		"name-nickname": false,
+		"business": "Chainsaw Men of Michigan",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/chainsawmenofmichigan"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.treecarvings.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Uzdravis",
+		"name-first": "Raimondas",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "",
+		"country": "Lithuania",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Quinn",
+		"name-first": "Ernest",
+		"name-nickname": false,
+		"business": "AmBert N Ernie",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Toso",
+		"name-first": "Jesse",
+		"name-nickname": false,
+		"business": "Toso Wood Works",
+		"city": false,
+		"state": "British Columbia",
+		"country": "Canada",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/pages/Toso-Wood-Gallery/229856340757461"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.tosowoodworks.com/"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/jessetoso"
+			}
+		}
+	},
+	{
+		"name-last": "Kron",
+		"name-first": "Wendy",
+		"name-nickname": false,
+		"business": "DK CARVING",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/DKcarving/"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "http://www.dkcarving.com/"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/dk_carving"
+			}
+		}
+	},
+	{
+		"name-last": "Kron",
+		"name-first": "David",
+		"name-nickname": false,
+		"business": "DK CARVING",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/DKcarving/"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "http://www.dkcarving.com/"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/dk_carving/"
+			}
+		}
+	},
+	{
+		"name-last": "Hood",
+		"name-first": "Gregory",
+		"name-nickname": false,
+		"business": "Hood's Wood",
+		"city": false,
+		"state": "Indiana",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Abeln",
+		"name-first": "Brooks",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Brinley",
+		"name-first": "James",
+		"name-nickname": false,
+		"business": "JB Craftworks",
+		"city": false,
+		"state": "South Carolina",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/jbcraftworks/"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://Jbcraftworks.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/james_brinley"
+			}
+		}
+	},
+	{
+		"name-last": "Burrows",
+		"name-first": "Travis",
+		"name-nickname": false,
+		"business": "Big Pine Chainsaw Art",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Farester",
+		"name-first": "Shawn",
+		"name-nickname": false,
+		"business": "Rmrstudio",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/rmrstudioshawnfarester"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.shawnfarester.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/Shawnfarester"
+			}
+		}
+	},
+	{
+		"name-last": "Rannels",
+		"name-first": "Benjamin",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/Rannelsrustics/"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.rannelsrustics.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Packie",
+		"name-first": "Ken",
+		"name-nickname": false,
+		"business": "Berkshire Mountain Sculpture",
+		"city": false,
+		"state": "Massachusetts",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Hartley",
+		"name-first": "Daniel",
+		"name-nickname": false,
+		"business": "Hartley Hartwoods",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100091608120081"
+			}
+		}
+	},
+	{
+		"name-last": "Treat",
+		"name-first": "Kevin",
+		"name-nickname": false,
+		"business": "Sawptician Mercantile",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/KTWoodMaster"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.sawptician.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Endlich",
+		"name-first": "Gary",
+		"name-nickname": false,
+		"business": "Wood N Shoes",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Hajdu-Nemeth",
+		"name-first": "Miklos",
+		"name-nickname": false,
+		"business": "Miklos Tree Service",
+		"city": false,
+		"state": "New Jersey",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100063550334378"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://miklostreeservices.com/"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/miklostreeservice/"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://www.youtube.com/channel/UCEJaasKuSKH4VMNqgIx_vgw"
+			}
+			,
+			"Store": {
+			"icon": "fa-solid fa-tags",
+			"link": "https://www.yelp.com/biz/miklos-tree-service-somerset"
+			}
+		}
+	},
+	{
+		"name-last": "Stock",
+		"name-first": "Adam",
+		"name-nickname": false,
+		"business": "Stock Ridge Carving",
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Destefano",
+		"name-first": "Snuffy",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Leederman",
+		"name-first": "Scott",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Wenal",
+		"name-first": "Joe",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Maine",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Skal",
+		"name-first": "Damian",
+		"name-nickname": false,
+		"business": "Damian K Skal Chainsaw Sculpture",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Ceriani",
+		"name-first": "Dawna",
+		"name-nickname": false,
+		"business": "T & D Carvings",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/p/T-D-Carvings-100057145912550"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/dawna_ceriani"
+			}
+		}
+	},
+	{
+		"name-last": "Ceriani",
+		"name-first": "Tom",
+		"name-nickname": false,
+		"business": "T & D Carvings",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Nasby",
+		"name-first": "Myles",
+		"name-nickname": false,
+		"business": "Nasby Chainsaw Art",
+		"city": false,
+		"state": "Indiana",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/nasbychainsawart"
+			}
+		}
+	},
+	{
+		"name-last": "Williams",
+		"name-first": "Michael",
+		"name-nickname": false,
+		"business": "Woogity Wood Works",
+		"city": false,
+		"state": "Tennessee",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100090562773209"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.woogitywoodworks.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/woogitywoodworks"
+			}
+			,
+			"TikTok": {
+			"icon": "fa-brands fa-tiktok",
+			"link": "https://www.tiktok.com/@woogitywoodworks"
+			}
+		}
+	},
+	{
+		"name-last": "Montoya",
+		"name-first": "Alonzo",
+		"name-nickname": false,
+		"business": "Montoya Chainsaw Carvings",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://montoyachainsawcarving.com"
+			}
+		}
+	},
+	{
+		"name-last": "Holbert",
+		"name-first": "Patrick",
+		"name-nickname": false,
+		"business": "Sugar Ridge Carving",
+		"city": false,
+		"state": "Ohio",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Ezell",
+		"name-first": "Dylan",
+		"name-nickname": false,
+		"business": "DC Carvings",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100090456000549&mibextid=LQQJ4d"
+			}
+		}
+	},
+	{
+		"name-last": "Rolwes",
+		"name-first": "Alec",
+		"name-nickname": false,
+		"business": "Smart Alec Designs",
+		"city": false,
+		"state": "Missouri",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100070281457922"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://smartalecdesigns.com/"
+			}
+			,
+			"TikTok": {
+			"icon": "fa-brands fa-tiktok",
+			"link": "https://www.tiktok.com/@smartalecdesigns"
+			}
+		}
+	},
+	{
+		"name-last": "Collin",
+		"name-first": "Steph",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://stephcollin.com"
+			}
+		}
+	},
+	{
+		"name-last": "Barrigar",
+		"name-first": "Patrick",
+		"name-nickname": false,
+		"business": "Bear-Grrr Custom Chainsaw Carvings",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/beargrrrcustomcuts"
+			}
+			,
+			"TikTok": {
+			"icon": "fa-brands fa-tiktok",
+			"link": "https://www.tiktok.com/@michainsawcarver27"
+			}
+		}
+	},
+	{
+		"name-last": "Coss",
+		"name-first": "Jeff",
+		"name-nickname": false,
+		"business": "Bear Grove Chainsaw Carving",
+		"city": false,
+		"state": "Iowa",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/BearGroveChainsawCarvings"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/beargrovechainsawcarvings"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://www.youtube.com/channel/UChsmxe-mf3QXRw9PYG02cMw"
+			}
+			,
+			"TikTok": {
+			"icon": "fa-brands fa-tiktok",
+			"link": "https://www.tiktok.com/@bgcarver"
+			}
+		}
+	},
+	{
+		"name-last": "Mirth",
+		"name-first": "Rachael",
+		"name-nickname": false,
+		"business": "Mirthful Creations",
+		"city": false,
+		"state": "Kansas",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/MirthfulChainsawCreations"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/mirthfulcreations"
+			}
+		}
+	},
+	{
+		"name-last": "Raymer",
+		"name-first": "B.J.",
+		"name-nickname": false,
+		"business": "Glowing Jacks Carvings",
+		"city": false,
+		"state": "Kentucky",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/GlowingJacks"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.bluegrasschainsawshowdown.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/glowing_jacks_/"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://www.youtube.com/c/GlowingJacksCarvings"
+			}
+		}
+	},
+	{
+		"name-last": "Krumrine",
+		"name-first": "Beth",
+		"name-nickname": false,
+		"business": "Marshyhope Woodworks LLC",
+		"city": false,
+		"state": "Delaware",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/marshyhopewood"
+			}
+		}
+	},
+	{
+		"name-last": "Kaczmarski III",
+		"name-first": "Joey",
+		"name-nickname": false,
+		"business": "Carved By Kaz",
+		"city": false,
+		"state": "New Hampshire",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/joey.carvedbykaz/"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://Instagram.com/CarvedByKaz"
+			}
+		}
+	},
+	{
+		"name-last": "Williams",
+		"name-first": "John",
+		"name-nickname": false,
+		"business": "Johnwesley Chainsaw Carver LLC",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/JohnwesleyChainsawCarver"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.micarver.com"
+			}
+		}
+	},
+	{
+		"name-last": "Scoggins",
+		"name-first": "Dayton",
+		"name-nickname": false,
+		"business": "Artistry In Wood",
+		"city": false,
+		"state": "Mississippi",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Mann",
+		"name-first": "Mark",
+		"name-nickname": false,
+		"business": "Mann Made Outdoors",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100057591095094"
+			}
+		}
+	},
+	{
+		"name-last": "Hood",
+		"name-first": "Gregory",
+		"name-nickname": false,
+		"business": "Hood's Wood",
+		"city": false,
+		"state": "Indiana",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100076322400139"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://youtube.com/@hoodswoodcarving"
+			}
+		}
+	},
+	{
+		"name-last": "Peterson",
+		"name-first": "Rob",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Kentucky",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.robpetersoncarving.com"
+			}
+		}
+	},
+	{
+		"name-last": "Doeren",
+		"name-first": "Lisa",
+		"name-nickname": false,
+		"business": "Renegade Carving Company",
+		"city": false,
+		"state": "Wisconsin",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100054428832646"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.jamiedoeren.com/"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/bigbearcarvingco"
+			}
+			,
+			"Store": {
+			"icon": "fa-solid fa-tags",
+			"link": "https://bigbearcarvingco.etsy.com/"
+			}
+		}
+	},
+	{
+		"name-last": "White",
+		"name-first": "Taylor",
+		"name-nickname": false,
+		"business": "TM Custom Carvings",
+		"city": false,
+		"state": "Maine",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100086753987621"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.tmcustomcarvings.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/taymarieyt/"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://youtube.com/@TayMarie23"
+			}
+		}
+	},
+	{
+		"name-last": "Highfield",
+		"name-first": "Mike",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Ohio",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Oknefski",
+		"name-first": "Cheryl",
+		"name-nickname": false,
+		"business": "Peaces Of Me",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://peacewithcheryl.com"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://Peacesofme"
+			}
+		}
+	},
+	{
+		"name-last": "Alger",
+		"name-first": "Jason",
+		"name-nickname": false,
+		"business": "Artistic Timber",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100083105300382&mibextid=ZbWKwL"
+			}
+		}
+	},
+	{
+		"name-last": "Long",
+		"name-first": "Amber",
+		"name-nickname": false,
+		"business": "Ambert-n-Ernie",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Quinn",
+		"name-first": "Ernest",
+		"name-nickname": false,
+		"business": "Ambert-n-Ernie",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Driver",
+		"name-first": "Justin",
+		"name-nickname": false,
+		"business": "Once Upon A Log",
+		"city": false,
+		"state": "Kentucky",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/justindriverwoodcarving?mibextid=LQQJ4d"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.onceuponalog.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Blassmann",
+		"name-first": "Nicholas",
+		"name-nickname": false,
+		"business": "NBCARVINGS",
+		"city": false,
+		"state": "New Jersey",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://nbcarvings@gmail.com"
+			}
+		}
+	},
+	{
+		"name-last": "Stosz",
+		"name-first": "Cody",
+		"name-nickname": false,
+		"business": "Kodiak Carving",
+		"city": false,
+		"state": "Massachusetts",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.kodiakcarving.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Chiafos",
+		"name-first": "Chaz",
+		"name-nickname": false,
+		"business": "Indiana Carvings",
+		"city": false,
+		"state": "Indiana",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Burnside",
+		"name-first": "Daniel",
+		"name-nickname": false,
+		"business": "Lions Den Chainsaw Carvings",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Churchill",
+		"name-first": "Rick",
+		"name-nickname": false,
+		"business": "Afterlife Carvings",
+		"city": false,
+		"state": "Vermont",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.afterlifecarvings.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Fox",
+		"name-first": "Brian",
+		"name-nickname": false,
+		"business": "Fox Sawmill and Custom Designs",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/Foxportablesawmill?mibextid=LQQJ4d"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.foxsawmillandcustomdesiges.com"
+			}
+		}
+	},
+	{
+		"name-last": "Mackenzie",
+		"name-first": "Robert",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "New Jersey",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://MackenzieChainsawCarvings"
+			}
+		}
+	},
+	{
+		"name-last": "Miller",
+		"name-first": "Josh",
+		"name-nickname": false,
+		"business": "Artnsaw Chainsaw Carving",
+		"city": false,
+		"state": "Delaware",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100063700683760&mibextid=LQQJ4d"
+			}
+		}
+	}
+]

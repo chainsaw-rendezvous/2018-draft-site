@@ -3,8 +3,12 @@
     width: extend-to-zoom;
 }
 
-.uk-overlay-primary {
+/* .uk-overlay-primary {
     background: rgba(34,34,34,.2);
+} */
+
+.uk-overlay-primary {
+    filter: grayscale(60%);
 }
 
 .announcement_bar{
@@ -18,7 +22,7 @@
 }
 
 .tc-nav{
-    background: rgba(48,74,154, 1);
+    background: #8d866e;
     padding: 5px 0;
 }
 

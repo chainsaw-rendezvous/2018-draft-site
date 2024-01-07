@@ -7,12 +7,12 @@ import re
 import glob
 
 remove_previous_files = True
-filename = "2023-carver-registration.csv"
+filename = "_2024CarverRegistration.csv"
 image_url_prefix = 'https://register.chainsawrendezvous.org/wp-content/uploads/formidable/2/'
-image_folder = './carver-photos-2023'
-renamed_images = './carver-photos-2023-processed'
+image_folder = './carver-photos-2024'
+renamed_images = './carver-photos-2024-processed'
 
-output_file = '2023-carvers.json'
+output_file = '2024-carvers.json'
 
 try: 
     os.mkdir(image_folder) 
@@ -34,17 +34,21 @@ except OSError as error:
         print("\n")
 
 approved = 0
-fname = 1
+fname = 3
 lname = 2
-state = 3
-country = 4
-website = 6
-facebook = 8
-twitter = 10
-instagram = 9
-youtube = 11
-store = 7
-image = 5
+business = 4
+state = 5
+country = 6
+website = 7
+facebook = 9
+twitter = 11
+instagram = 10
+youtube = 12
+tiktok = 13
+threads = 14
+other = 15
+store = 8
+image = 16
 
 data = []
 line = 0
@@ -61,6 +65,7 @@ with open(filename, 'r') as file:
         new_row += "\t\t\"name-last\": \"" + row[lname] + "\",\n"
         new_row += "\t\t\"name-first\": \"" + row[fname] + "\",\n"
         new_row += "\t\t\"name-nickname\": false,\n"
+        new_row += "\t\t\"business\": \"" + row[business] + "\",\n"
         new_row += "\t\t\"city\": false,\n"
         new_row += "\t\t\"state\": \"" + row[state] + "\",\n"
         new_row += "\t\t\"country\": \"" + row[country] + "\",\n"
@@ -86,7 +91,7 @@ with open(filename, 'r') as file:
         else:
             new_row += "\t\t\"image\": false,\n"
 
-        if row[facebook] or row[website] or row[twitter] or row[instagram] or row[youtube] or row[store]:
+        if row[facebook] or row[website] or row[twitter] or row[instagram] or row[youtube] or row[store] or row[other] or row[tiktok] or row[threads]:
             new_row += "\t\t\"links\": {\n"
             needsBreak = 0
             if row[facebook]:
@@ -94,7 +99,7 @@ with open(filename, 'r') as file:
                     new_row += "\t\t\t,\n"
                     needsBreak=0
                 new_row += "\t\t\t\"Facebook\": {\n"
-                new_row += "\t\t\t\"icon\": \"fab fa-facebook-f\",\n"
+                new_row += "\t\t\t\"icon\": \"fa-brands fa-facebook-f\",\n"
                 new_row += "\t\t\t\"link\": \"" + row[facebook] + "\"\n"
                 new_row += "\t\t\t}\n"
                 needsBreak=1
@@ -103,7 +108,7 @@ with open(filename, 'r') as file:
                     new_row += "\t\t\t,\n"
                     needsBreak=0
                 new_row += "\t\t\t\"Website\": {\n"
-                new_row += "\t\t\t\"icon\": \"fas fa-globe\",\n"
+                new_row += "\t\t\t\"icon\": \"fa-solid fa-globe\",\n"
                 new_row += "\t\t\t\"link\": \"" + row[website] + "\"\n"
                 new_row += "\t\t\t}\n"
                 needsBreak=1
@@ -112,7 +117,7 @@ with open(filename, 'r') as file:
                     new_row += "\t\t\t,\n"
                     needsBreak=0
                 new_row += "\t\t\t\"Instagram\": {\n"
-                new_row += "\t\t\t\"icon\": \"fab fa-instagram\",\n"
+                new_row += "\t\t\t\"icon\": \"fa-brands fa-instagram\",\n"
                 new_row += "\t\t\t\"link\": \"" + row[instagram] + "\"\n"
                 new_row += "\t\t\t}\n"
                 needsBreak=1
@@ -121,7 +126,7 @@ with open(filename, 'r') as file:
                     new_row += "\t\t\t,\n"
                     needsBreak=0
                 new_row += "\t\t\t\"YouTube\": {\n"
-                new_row += "\t\t\t\"icon\": \"fab fa-youtube\",\n"
+                new_row += "\t\t\t\"icon\": \"fa-brands fa-youtube\",\n"
                 new_row += "\t\t\t\"link\": \"" + row[youtube] + "\"\n"
                 new_row += "\t\t\t}\n"
                 needsBreak=1
@@ -130,8 +135,35 @@ with open(filename, 'r') as file:
                     new_row += "\t\t\t,\n"
                     needsBreak=0
                 new_row += "\t\t\t\"Store\": {\n"
-                new_row += "\t\t\t\"icon\": \"fas fa-tags\",\n"
+                new_row += "\t\t\t\"icon\": \"fa-solid fa-tags\",\n"
                 new_row += "\t\t\t\"link\": \"" + row[store] + "\"\n"
+                new_row += "\t\t\t}\n"
+                needsBreak=1
+            if row[tiktok]:
+                if needsBreak:
+                    new_row += "\t\t\t,\n"
+                    needsBreak=0
+                new_row += "\t\t\t\"TikTok\": {\n"
+                new_row += "\t\t\t\"icon\": \"fa-brands fa-tiktok\",\n"
+                new_row += "\t\t\t\"link\": \"" + row[tiktok] + "\"\n"
+                new_row += "\t\t\t}\n"
+                needsBreak=1
+            if row[threads]:
+                if needsBreak:
+                    new_row += "\t\t\t,\n"
+                    needsBreak=0
+                new_row += "\t\t\t\"Threads\": {\n"
+                new_row += "\t\t\t\"icon\": \"fa-brands fa-threads\",\n"
+                new_row += "\t\t\t\"link\": \"" + row[threads] + "\"\n"
+                new_row += "\t\t\t}\n"
+                needsBreak=1
+            if row[twitter]:
+                if needsBreak:
+                    new_row += "\t\t\t,\n"
+                    needsBreak=0
+                new_row += "\t\t\t\"Twitter\": {\n"
+                new_row += "\t\t\t\"icon\": \"fa-brands fa-x-twitter\",\n"
+                new_row += "\t\t\t\"link\": \"" + row[twitter] + "\"\n"
                 new_row += "\t\t\t}\n"
                 needsBreak=1
             new_row += "\t\t}\n"

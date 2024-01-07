@@ -558,6 +558,16 @@ div[class*="filter-"] ul li {
     color: #999;
     display: block;
 }
+.member-style1 span.member-stateCountry {
+    font-size: 12px;
+    color: #999;
+    display: block;
+}
+.member-style1 span.member-business {
+    font-size: 14px;
+    color: #999;
+    display: block;
+}
 .member-style1 .member-icon i:hover {
     -webkit-transform: scale(1.2);
     transform: scale(1.2);
@@ -566,6 +576,9 @@ div[class*="filter-"] ul li {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
+
+
+
 .member-style2 {
     box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.08);
     -webkit-transform: translateY(0);
