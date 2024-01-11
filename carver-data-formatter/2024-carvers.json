@@ -1,5 +1,272 @@
 [
 	{
+		"name-last": "Doeren",
+		"name-first": "Jamie",
+		"name-nickname": false,
+		"business": "Renegade Carving Company",
+		"city": false,
+		"state": "Wisconsin",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100054428832646"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.jamiedoeren.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/bigbearcarvingco"
+			}
+			,
+			"Store": {
+			"icon": "fa-solid fa-tags",
+			"link": "https://bigbearcarvingco.etsy.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Waters",
+		"name-first": "Greg",
+		"name-nickname": false,
+		"business": "Riverside Sculpture Co.",
+		"city": false,
+		"state": "Maine",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.riversidewoodcarving.com"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://www.youtube.com/@riversidewoodcarving"
+			}
+		}
+	},
+	{
+		"name-last": "Edson",
+		"name-first": "Nicholas",
+		"name-nickname": false,
+		"business": "Sawdust Sculptures",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/NickEdsonEriePa?mibextid=LQQJ4d"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/sawdust_sculptures?igsh=MzRlODBiNWFlZA=="
+			}
+		}
+	},
+	{
+		"name-last": "McLain",
+		"name-first": "Brett",
+		"name-nickname": false,
+		"business": "Freehand Custom Carvings",
+		"city": false,
+		"state": "New Jersey",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://facebook.com/freehandcustomcarvings"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://customchainsawcarvings.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/freehandcustomcarvings"
+			}
+		}
+	},
+	{
+		"name-last": "Jones (Beach)",
+		"name-first": "Sandra",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Beach",
+		"name-first": "Dennis",
+		"name-nickname": false,
+		"business": "Dennis Beach",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Whiting",
+		"name-first": "Jenna",
+		"name-nickname": false,
+		"business": "Chainsawjenna LLC",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/ChainsawJenna/"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.chainsawjenna.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/chainsawjenna/"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://www.youtube.com/channel/UCsyFKTKKj7nHycZ2sjdnBDA"
+			}
+			,
+			"Store": {
+			"icon": "fa-solid fa-tags",
+			"link": "https://www.ebay.com/usr/chainsawjenna"
+			}
+			,
+			"TikTok": {
+			"icon": "fa-brands fa-tiktok",
+			"link": "https://www.tiktok.com/@chainsawjenna?lang=en"
+			}
+		}
+	},
+	{
+		"name-last": "McGrath",
+		"name-first": "James",
+		"name-nickname": false,
+		"business": "McGrath Custom Hardwoods",
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://Facebook.com/McGrathCustomHardwoods"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/mcgrathcustoms"
+			}
+		}
+	},
+	{
+		"name-last": "Beckett",
+		"name-first": "Donald",
+		"name-nickname": false,
+		"business": "Bushcraft Woodworks",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Ahearn",
+		"name-first": "Shawn",
+		"name-nickname": false,
+		"business": "Ahearn's Envisioned",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Waclo",
+		"name-first": "Paul",
+		"name-nickname": false,
+		"business": "Chainsaw Carving by Paul",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/PaulsChainsawCreations"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.chainsawcarvingbypaul.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/paulschainsawcreations"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://youtube.com/@paulwaclo6597"
+			}
+		}
+	},
+	{
+		"name-last": "Torres",
+		"name-first": "Rick",
+		"name-nickname": false,
+		"business": "RJ Torres Artistry",
+		"city": false,
+		"state": "Delaware",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/rjtorresartistry"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.rjtorresartistry.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/rjtorresartistry"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://www.youtube.com/rjtorresartistry"
+			}
+		}
+	},
+	{
 		"name-last": "Missey",
 		"name-first": "Lorne",
 		"name-nickname": false,
@@ -62,17 +329,6 @@
 			"link": "https://www.treecarvings.com/"
 			}
 		}
-	},
-	{
-		"name-last": "Uzdravis",
-		"name-first": "Raimondas",
-		"name-nickname": false,
-		"business": "",
-		"city": false,
-		"state": "",
-		"country": "Lithuania",
-		"image": false,
-		"links": false
 	},
 	{
 		"name-last": "Quinn",
