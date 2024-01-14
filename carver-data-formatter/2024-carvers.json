@@ -1,5 +1,108 @@
 [
 	{
+		"name-last": "Bowsher",
+		"name-first": "Sam",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Scotland",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Bowsher",
+		"name-first": "Peter",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Scotland",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Fife",
+		"name-first": "James",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Boni",
+		"name-first": "Rick",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/appalachian.arts.studio"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://appalachian-arts.com"
+			}
+		}
+	},
+	{
+		"name-last": "Dussia",
+		"name-first": "Joe",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dussia",
+		"name-first": "Zoe",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dorjsuren",
+		"name-first": "Lkhagvadorj",
+		"name-nickname": false,
+		"business": "Lognomad carver",
+		"city": false,
+		"state": "Ulaanbaatar",
+		"country": "Mongolia",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Halpin",
+		"name-first": "Austin",
+		"name-nickname": false,
+		"business": "Halpin Chainsaw Carvings",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.halpinchainsawcarvings.com/"
+			}
+		}
+	},
+	{
 		"name-last": "Doeren",
 		"name-first": "Jamie",
 		"name-nickname": false,
