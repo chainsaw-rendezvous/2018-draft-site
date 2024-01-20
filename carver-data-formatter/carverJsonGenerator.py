@@ -6,6 +6,18 @@ import pathlib
 import re
 import glob
 
+class color:
+   PURPLE = '\033[1;35;48m'
+   CYAN = '\033[1;36;48m'
+   BOLD = '\033[1;37;48m'
+   BLUE = '\033[1;34;48m'
+   GREEN = '\033[1;32;48m'
+   YELLOW = '\033[1;33;48m'
+   RED = '\033[1;31;48m'
+   BLACK = '\033[1;30;48m'
+   UNDERLINE = '\033[4;37;48m'
+   END = '\033[1;37;0m'
+
 remove_previous_files = True
 filename = "_2024CarverRegistration.csv"
 image_url_prefix = 'https://register.chainsawrendezvous.org/wp-content/uploads/formidable/2/'
@@ -33,7 +45,7 @@ except OSError as error:
                 print("Error: %s : %s" % (f, e.strerror))
         print("\n")
 
-approved = 0
+regId = 0
 fname = 3
 lname = 2
 business = 4
@@ -71,7 +83,8 @@ with open(filename, 'r') as file:
         new_row += "\t\t\"country\": \"" + row[country] + "\",\n"
         has_image = False
         if row[image]:
-            img_path = image_folder + "/" + row[image].replace(image_url_prefix,'')
+            img_path = image_folder + "/" + row[regId] + "_1_" + row[image].replace(image_url_prefix,'')
+            img_path = image_folder + "/" + row[regId].zfill(2) + "_1_" + row[image]
             print(img_path+" file expected")
             if path.exists(img_path):
                 print(img_path+" file exists")
@@ -79,12 +92,12 @@ with open(filename, 'r') as file:
                 new_name = (row[lname]+'-'+row[fname]).lower()
                 new_name = re.sub(r'[^a-zA-Z0-9-]', '', new_name) + file_extension
                 shutil.copy(img_path, renamed_images+"/"+new_name)
-                print(img_path+" renamed to "+new_name+" and moved to proccessed folder")
+                print(color.GREEN + img_path+" renamed to "+new_name+" and moved to proccessed folder" + color.END)
                 print("\n")
                 row[image] = new_name
                 has_image = True
             else:
-                print(img_path+" file does NOT exist!!!!!!!!!!!!\n")
+                print(color.RED + img_path+" file does NOT exist!!!!!!!!!!!!\n" + color.END)
         
         if has_image:
             new_row += "\t\t\"image\": \"" + row[image] + "\",\n"

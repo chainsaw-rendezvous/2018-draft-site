@@ -1,5 +1,225 @@
 [
 	{
+		"name-last": "Burroughs",
+		"name-first": "Tony",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": "burroughs-tony.jpeg",
+		"links": false
+	},
+	{
+		"name-last": "Elliott",
+		"name-first": "James",
+		"name-nickname": false,
+		"business": "James Elliott Chainsaw Sculpture",
+		"city": false,
+		"state": "",
+		"country": "United Kingdom",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://facebook.com/jameselliottchainsaw"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/jesculpture"
+			}
+		}
+	},
+	{
+		"name-last": "Swanson",
+		"name-first": "Jake",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Vermont",
+		"country": "United States",
+		"image": "swanson-jake.jpeg",
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.artofthecarve.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/jake_swanson_802carver"
+			}
+		}
+	},
+	{
+		"name-last": "DeMoranville",
+		"name-first": "Wayne",
+		"name-nickname": false,
+		"business": "ChainsawCarvingman",
+		"city": false,
+		"state": "Massachusetts",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://facebook.com/chainsawcarvingman"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://chainsawcarvingman.com"
+			}
+		}
+	},
+	{
+		"name-last": "Johnson",
+		"name-first": "Jamie",
+		"name-nickname": false,
+		"business": "Pitch Perfect Carves",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": "johnson-jamie.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/profile.php?id=100082311837337&mibextid=ZbWKwL"
+			}
+		}
+	},
+	{
+		"name-last": "Johnson",
+		"name-first": "Doug",
+		"name-nickname": false,
+		"business": "Backwoods Carving",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Tompkins II",
+		"name-first": "Howard",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "tompkinsii-howard.jpg",
+		"links": {
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/DookieGCarver"
+			}
+		}
+	},
+	{
+		"name-last": "Bowsher",
+		"name-first": "Sam",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Scotland",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Bowsher",
+		"name-first": "Peter",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Scotland",
+		"country": "United Kingdom",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Fife",
+		"name-first": "James",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Boni",
+		"name-first": "Rick",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/appalachian.arts.studio"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://appalachian-arts.com"
+			}
+		}
+	},
+	{
+		"name-last": "Dussia",
+		"name-first": "Joe",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dussia",
+		"name-first": "Zoe",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dorjsuren",
+		"name-first": "Lkhagvadorj",
+		"name-nickname": false,
+		"business": "Lognomad carver",
+		"city": false,
+		"state": "Ulaanbaatar",
+		"country": "Mongolia",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Halpin",
+		"name-first": "Austin",
+		"name-nickname": false,
+		"business": "Halpin Chainsaw Carvings",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "halpin-austin.jpeg",
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.halpinchainsawcarvings.com/"
+			}
+		}
+	},
+	{
 		"name-last": "Doeren",
 		"name-first": "Jamie",
 		"name-nickname": false,
@@ -7,7 +227,7 @@
 		"city": false,
 		"state": "Wisconsin",
 		"country": "United States",
-		"image": false,
+		"image": "doeren-jamie.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -59,7 +279,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "edson-nicholas.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -128,7 +348,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "whiting-jenna.JPG",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -169,7 +389,7 @@
 		"city": false,
 		"state": "",
 		"country": "United States",
-		"image": false,
+		"image": "mcgrath-james.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -212,7 +432,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "waclo-paul.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -243,7 +463,7 @@
 		"city": false,
 		"state": "Delaware",
 		"country": "United States",
-		"image": false,
+		"image": "torres-rick.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -296,7 +516,7 @@
 		"city": false,
 		"state": "Michigan",
 		"country": "United States",
-		"image": false,
+		"image": "szkipala-emil.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -317,7 +537,7 @@
 		"city": false,
 		"state": "Michigan",
 		"country": "United States",
-		"image": false,
+		"image": "szkipala-stefan.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -338,7 +558,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "quinn-ernest.JPG",
 		"links": false
 	},
 	{
@@ -349,7 +569,7 @@
 		"city": false,
 		"state": "British Columbia",
 		"country": "Canada",
-		"image": false,
+		"image": "toso-jesse.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -375,7 +595,7 @@
 		"city": false,
 		"state": "New York",
 		"country": "United States",
-		"image": false,
+		"image": "kron-wendy.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -401,7 +621,7 @@
 		"city": false,
 		"state": "New York",
 		"country": "United States",
-		"image": false,
+		"image": "kron-david.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -427,7 +647,7 @@
 		"city": false,
 		"state": "Indiana",
 		"country": "United States",
-		"image": false,
+		"image": "hood-gregory.jpg",
 		"links": false
 	},
 	{
@@ -438,7 +658,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "abeln-brooks.jpg",
 		"links": false
 	},
 	{
@@ -449,7 +669,7 @@
 		"city": false,
 		"state": "South Carolina",
 		"country": "United States",
-		"image": false,
+		"image": "brinley-james.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -475,7 +695,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "burrows-travis.jpeg",
 		"links": false
 	},
 	{
@@ -486,7 +706,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "farester-shawn.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -533,7 +753,7 @@
 		"city": false,
 		"state": "Massachusetts",
 		"country": "United States",
-		"image": false,
+		"image": "packie-ken.jpeg",
 		"links": false
 	},
 	{
@@ -544,7 +764,7 @@
 		"city": false,
 		"state": "New York",
 		"country": "United States",
-		"image": false,
+		"image": "hartley-daniel.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -560,7 +780,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "treat-kevin.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -592,7 +812,7 @@
 		"city": false,
 		"state": "New Jersey",
 		"country": "United States",
-		"image": false,
+		"image": "hajdu-nemeth-miklos.png",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -639,7 +859,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "destefano-snuffy.jpeg",
 		"links": false
 	},
 	{
@@ -661,7 +881,7 @@
 		"city": false,
 		"state": "Maine",
 		"country": "United States",
-		"image": false,
+		"image": "wenal-joe.jpeg",
 		"links": false
 	},
 	{
@@ -672,7 +892,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "skal-damian.jpeg",
 		"links": false
 	},
 	{
@@ -683,7 +903,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "ceriani-dawna.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -704,7 +924,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "ceriani-tom.jpeg",
 		"links": false
 	},
 	{
@@ -731,7 +951,7 @@
 		"city": false,
 		"state": "Tennessee",
 		"country": "United States",
-		"image": false,
+		"image": "williams-michael.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -762,7 +982,7 @@
 		"city": false,
 		"state": "Michigan",
 		"country": "United States",
-		"image": false,
+		"image": "montoya-alonzo.png",
 		"links": {
 			"Website": {
 			"icon": "fa-solid fa-globe",
@@ -778,7 +998,7 @@
 		"city": false,
 		"state": "Ohio",
 		"country": "United States",
-		"image": false,
+		"image": "holbert-patrick.jpg",
 		"links": false
 	},
 	{
@@ -789,7 +1009,7 @@
 		"city": false,
 		"state": "Michigan",
 		"country": "United States",
-		"image": false,
+		"image": "ezell-dylan.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -805,7 +1025,7 @@
 		"city": false,
 		"state": "Missouri",
 		"country": "United States",
-		"image": false,
+		"image": "rolwes-alec.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -831,7 +1051,7 @@
 		"city": false,
 		"state": "Michigan",
 		"country": "United States",
-		"image": false,
+		"image": "collin-steph.jpeg",
 		"links": {
 			"Website": {
 			"icon": "fa-solid fa-globe",
@@ -847,7 +1067,7 @@
 		"city": false,
 		"state": "Michigan",
 		"country": "United States",
-		"image": false,
+		"image": "barrigar-patrick.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -868,7 +1088,7 @@
 		"city": false,
 		"state": "Iowa",
 		"country": "United States",
-		"image": false,
+		"image": "coss-jeff.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -899,7 +1119,7 @@
 		"city": false,
 		"state": "Kansas",
 		"country": "United States",
-		"image": false,
+		"image": "mirth-rachael.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -920,7 +1140,7 @@
 		"city": false,
 		"state": "Kentucky",
 		"country": "United States",
-		"image": false,
+		"image": "raymer-bj.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -951,7 +1171,7 @@
 		"city": false,
 		"state": "Delaware",
 		"country": "United States",
-		"image": false,
+		"image": "krumrine-beth.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -967,7 +1187,7 @@
 		"city": false,
 		"state": "New Hampshire",
 		"country": "United States",
-		"image": false,
+		"image": "kaczmarskiiii-joey.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1020,7 +1240,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "mann-mark.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1036,7 +1256,7 @@
 		"city": false,
 		"state": "Indiana",
 		"country": "United States",
-		"image": false,
+		"image": "hood-gregory.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1057,7 +1277,7 @@
 		"city": false,
 		"state": "Kentucky",
 		"country": "United States",
-		"image": false,
+		"image": "peterson-rob.jpeg",
 		"links": {
 			"Website": {
 			"icon": "fa-solid fa-globe",
@@ -1073,7 +1293,7 @@
 		"city": false,
 		"state": "Wisconsin",
 		"country": "United States",
-		"image": false,
+		"image": "doeren-lisa.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1104,7 +1324,7 @@
 		"city": false,
 		"state": "Maine",
 		"country": "United States",
-		"image": false,
+		"image": "white-taylor.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1135,7 +1355,7 @@
 		"city": false,
 		"state": "Ohio",
 		"country": "United States",
-		"image": false,
+		"image": "highfield-mike.jpeg",
 		"links": false
 	},
 	{
@@ -1146,7 +1366,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "oknefski-cheryl.jpeg",
 		"links": {
 			"Website": {
 			"icon": "fa-solid fa-globe",
@@ -1167,7 +1387,7 @@
 		"city": false,
 		"state": "Michigan",
 		"country": "United States",
-		"image": false,
+		"image": "alger-jason.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1205,7 +1425,7 @@
 		"city": false,
 		"state": "Kentucky",
 		"country": "United States",
-		"image": false,
+		"image": "driver-justin.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1226,7 +1446,7 @@
 		"city": false,
 		"state": "New Jersey",
 		"country": "United States",
-		"image": false,
+		"image": "blassmann-nicholas.jpg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1242,7 +1462,7 @@
 		"city": false,
 		"state": "Massachusetts",
 		"country": "United States",
-		"image": false,
+		"image": "stosz-cody.jpg",
 		"links": {
 			"Website": {
 			"icon": "fa-solid fa-globe",
@@ -1258,7 +1478,7 @@
 		"city": false,
 		"state": "Indiana",
 		"country": "United States",
-		"image": false,
+		"image": "chiafos-chaz.jpg",
 		"links": false
 	},
 	{
@@ -1269,7 +1489,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "burnside-daniel.jpg",
 		"links": false
 	},
 	{
@@ -1296,7 +1516,7 @@
 		"city": false,
 		"state": "Pennsylvania",
 		"country": "United States",
-		"image": false,
+		"image": "fox-brian.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1317,7 +1537,7 @@
 		"city": false,
 		"state": "New Jersey",
 		"country": "United States",
-		"image": false,
+		"image": "mackenzie-robert.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
@@ -1333,7 +1553,7 @@
 		"city": false,
 		"state": "Delaware",
 		"country": "United States",
-		"image": false,
+		"image": "miller-josh.jpeg",
 		"links": {
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
