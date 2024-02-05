@@ -1,0 +1,120 @@
+<%
+    var isVendorDataAvailable = false; // This flag will change if specified vendor data is available
+    var concreteYear = false; // This flag will be set to true if the user requests carver data for a specific year
+
+    /*
+     * Checks to see if year is specified for vendor data pull. Sets year for
+     * vendor data pull to current year is none is specified by the user. Finally
+     * verifies that the data source is available before proceeding
+     */
+    if(year) {
+        concreteYear = true;
+    } else {
+        var year = new Date().getFullYear()
+    }
+
+    dataSource = year+"-vendors";
+
+    if( site.data[dataSource]) {
+        isVendorDataAvailable = true;
+        var vendorData = site.data[dataSource];
+    }
+
+    if(!concreteYear) {
+        year ++;
+        dataSource = year+"-vendors";
+        if( site.data[dataSource]) {
+            isVendorDataAvailable = true;
+            var vendorData = site.data[dataSource];
+        }
+    }
+
+    if (typeof vendorData === undefined) {
+        isVendorDataAvailable = false;
+    }
+    
+    if(isVendorDataAvailable) {
+        /*
+         * Sets maximum number of vendor data to pull if user did not set, or
+         * limites to a value that is in range of the data source. Will return
+         * the highest number available if user's value is above the range. Always  
+         * returns at least one vendor data set
+         */
+        if(maxCount) {
+            maxCount = _.clamp(maxCount, 1, vendorData.length);
+        } else {
+             var maxCount = vendorData.length;
+        }
+
+        var sortedVendorData = vendorData; // Copy of the vendor data that will be iterated over
+
+        /*
+         * Tries to sort data set by fields specified by the user, randomly, or
+         * as manually entered. LoDash defaults to manually entered if problem
+         * is encountered during the sort parameters
+         */
+        if(sort) {
+            if(sort != "random") {
+                sortedVendorData = _.orderBy(vendorData, "organization", sort);
+            } else {
+                sortedVendorData = _.shuffle(vendorData);
+            }
+        } else {
+            var sort;
+        }
+%>
+
+<!-- Vendors Attending Start-->
+<section class="tc-vendors-attending uk-section uk-section-small" id="tc-vendors-attending">
+
+    <div class="uk-container">
+        <% if (maxCount == vendorData.length) { %>
+            <h2 class="title1 title-center mb60">Vendors attending in <%- year %></h2>
+        <% } else { %>
+            <h2 class="title1 title-center mb60">Just a few of the vendors attending in <%- year %></h2>
+        <% } %>
+        
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+            <% for( var i = 0; i < maxCount; i++) { %>
+                <div>
+                    <div class="uk-card uk-card-default uk-card-body">
+                        <p>
+                            <span class="uk-label uk-margin-remove" style="background-color:#304a9a"><%- sortedVendorData[i]['type'] %></span>
+                        </p>
+                        <h4 class="uk-card-title uk-margin-remove-top">
+                            <%- sortedVendorData[i]['organization'] %>
+                        </h4>
+                        <% if(sortedVendorData[i]['description']) { %>
+                            <p><%- sortedVendorData[i]['description'] %></p>
+                        <% } %>
+                        <% if(sortedVendorData[i].links) { %>
+                            <ul class="uk-navbar-nav">
+                        <%
+                                vendorLinks = sortedVendorData[i].links
+                                _.forEach(vendorLinks, function(value, key) {
+                                    if(vendorLinks[key].link) {
+                                        if(! vendorLinks[key].icon){
+                                            vendorLinks[key].icon = "fa-solid fa-link"
+                                        }
+                        %>
+                                        <li><a href="<%- url_for(vendorLinks[key].link) %>" title="<%- vendorLinks[value] %>" class="member-icon hvr-bounce-in" target="_blank">
+                                            <i class="<%- vendorLinks[key].icon %>"></i>
+                                        </a></li>
+                        <%
+                                    }
+                                });
+                        %>
+                            </ul>
+                        <%
+                            }
+                        %>
+
+                        
+                    </div>
+                </div>
+            <% } %>
+        </div>
+    </div>
+</section>
+<!-- Carvers Attending End -->
+<% } %>

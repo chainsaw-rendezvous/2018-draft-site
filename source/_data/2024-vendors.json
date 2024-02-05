@@ -1,0 +1,227 @@
+[
+    {
+        "organization": "Anytime, Lunchtime!",
+        "type": "Food",
+        "description": "Sandwiches, fries, kids hot dogs",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.anytimelunchtime.com/"
+            }
+        },
+        "logo": "logo2 (1).png"
+    },
+    {
+        "organization": "Caricatures by Daniel Swanson",
+        "type": "Retail",
+        "description": "Caricature drawings of friends and family. Great, unique gift for a loved one or friend. Sit and become art!"
+    },
+    {
+        "organization": "Elk County Gifts",
+        "type": "Retail",
+        "description": "Damascus steel knives, hand-made jewelry",
+        "logo": "image.jpg"
+    },
+    {
+        "organization": "Elk County Wilds",
+        "type": "Retail",
+        "description": "Adult Smoothies paired with Triple Nickel Distillery, gourmet nuts",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.elkcowilds.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/ElkCoWilds/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/elkcountywilds/"
+            }
+        },
+        "logo": "ElkCountyWilds.jpeg"
+    },
+    {
+        "organization": "HBBQ Co",
+        "type": "Food",
+        "description": "BBQ Brisket / Pulled Pork / Turkey / Chicken / Sides / Drinks",
+        "logo": "HBBQ-circular design.jpg"
+    },
+    {
+        "organization": "Honkies",
+        "type": "Food",
+        "description": "Subs, burgers, dogs, fresh cut fries, appetizers",
+        "logo": "FB_IMG_1706480188053.jpg"
+    },
+    {
+        "organization": "J&C Brick Oven",
+        "type": "Food",
+        "description": "Wood fired pizzas, dessert pizzas, hoagies, nachos",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://jcsbrickoven.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100092012644850"
+            }
+        },
+        "logo": "inbound709726025337770676.png"
+    },
+    {
+        "organization": "JAMA Concessions",
+        "type": "Food",
+        "description": "Panzerotti (Deep Fried Stromboli), Fried Dough, Soft Pretzels w/ beer cheese, Fruit Smasher drinks, Iced Tea",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://jamaconcessions.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/JAMAconcessions"
+            }
+        },
+        "logo": "JAMA Concessions png.png"
+    },
+    {
+        "organization": "Jewell's Candy's & Gift's",
+        "type": "Retail",
+        "description": "Candy and assorted gifts"
+    },
+    {
+        "organization": "Kracklin Kountry Kettle Korn",
+        "type": "Food",
+        "description": "Authentic Kettle Korn"
+    },
+    {
+        "organization": "Lost In The Wilds Brewing",
+        "type": "Alcohol",
+        "description": "Beer",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://lostinthewildsbrewing.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/LostInTheWildsBrewing/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/lostinthewildsbrewing"
+            }
+        },
+        "logo": "Lost In The Wilds Brewing.jpg"
+    },
+    {
+        "organization": "Mommy and Me Cookies",
+        "type": "Food",
+        "description": "Fries, cookies, baked goods, nachos, pulled pork, hotdogs",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://mommyandmecookies.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/mommyandmecookies"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/mommy_and_me_cookies/"
+            }
+        },
+        "logo": "IMG_7834.png"
+    },
+    {
+        "organization": "PA Great Outdoors Visitors Bureau",
+        "type": "Retail",
+        "description": "Visitor information for Elk, Cameron, and Forest Counties",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://visitpago.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/visitPAGO/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/VisitPAGO/"
+            }
+        },
+        "logo": "PAGO.jpg"
+    },
+    {
+        "organization": "Pheasants Forever NC PA #630",
+        "type": "Retail",
+        "description": "We will be selling raffle tickets and misc PF merchandise",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://northcentralpapf.org/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/PheasantsForeverNorthCentralPA"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/pf_chapter_630/"
+            }
+        },
+        "logo": "PheasantsForever.png"
+    },
+    {
+        "organization": "Queen Bees Sweet Sips",
+        "type": "Food",
+        "description": "Fresh Brewed Iced Teas, Fresh Squeezed Lemonades, Frappes, Slushys, Hot Drinks (weather depending),  Dips (available for some events)",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.queenbeessweetsipsanddips.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/people/Queen-Bees-Sweet-Sips/100063649179082/"
+            }
+        }
+    },
+    {
+        "organization": "Silverado Concessions",
+        "type": "Food",
+        "description": "Meatball subs, soups, hot dogs, pot pies, and more!"
+    },
+    {
+        "organization": "Square Timber Designs",
+        "type": "Retail",
+        "description": "Reclaimed Wood Art",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.squaretimberdesigns.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=61553705583306"
+            }
+        },
+        "logo": "Square Timber Final (12 x 12 in).png"
+    },
+    {
+        "organization": "Triple Nickel Distillery",
+        "type": "Alcohol",
+        "description": "Specialty Spirits",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.triplenickeldistillery.com/"
+            }
+        },
+        "logo": "FINALS-Triple Nickel-blue bkg.jpg"
+    }
+]

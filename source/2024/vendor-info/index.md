@@ -5,6 +5,8 @@ subheader:
 date: 2018-01-14 17:21:35
 widgets:
   - content
+  - vendor-cards-new:
+      year: 2024
 
 ---
 
@@ -12,8 +14,9 @@ There will be a number of craft, food, and beer/wine/liquor vendors participatin
 
 
 ### 2024 Vendor Details
-Date: April 24th - April 27th 2024
-Location: Ridgway Mills Campground, 260 W Main St, Ridgway, PA 15853
+**Date:** April 24th - April 27th 2024
+**Hours:** 10 AM - 7PM (Wed, Thurs, Fri) and 10 AM - 5 PM (Sat)
+**Location:** Ridgway Mills Campground, 260 W Main St, Ridgway, PA 15853
 [Online registration](https://register.chainsawrendezvous.org/vendors)
 
 Fees are non-refundable and must be submitted with the application.

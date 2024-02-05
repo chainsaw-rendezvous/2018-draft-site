@@ -18,22 +18,20 @@ Ridgway, PA 15853
 Admission: $5 /adult. Kids free!
 
 
-### Wednesday, April 24
+### Wednesday, April 24 from 10 AM - 7 PM
 Live carving
 Vendors
 
-### Thursday, April 25
+### Thursday, April 25 from 10 AM - 7 PM
 Live carving
 Vendors
 
-### Friday, April 26
+### Friday, April 26 from 10 AM - 7 PM
 Live carving
 Vendors
-Entertainment
 
-### Saturday, April 27
+### Saturday, April 27 from 10 AM - 5 PM
 Live carving
 Vendors
-Entertainment
 Quick Carve
 Auction

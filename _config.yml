@@ -129,7 +129,7 @@ alias:
   "vendors/": "2024/vendor-info"
   "sponsors/": "2024/sponsor-info"
   "media/": "2024/media-info"
-  "entertainment/": "2024/entertainment"
+  "entertainment/": "2024/schedule"
   "carver-registration/": "https://register.chainsawrendezvous.org/carvers"
   "register/": "https://register.chainsawrendezvous.org/carvers"
   "registration/": "https://register.chainsawrendezvous.org/carvers"
