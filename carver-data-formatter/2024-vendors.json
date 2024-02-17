@@ -12,6 +12,11 @@
         "logo": "logo2 (1).png"
     },
     {
+        "organization": "Bridgette Sheffler",
+        "type": "Retail",
+        "description": ""
+    },
+    {
         "organization": "Caricatures by Daniel Swanson",
         "type": "Retail",
         "description": "Caricature drawings of friends and family. Great, unique gift for a loved one or friend. Sit and become art!"
@@ -41,6 +46,21 @@
             }
         },
         "logo": "ElkCountyWilds.jpeg"
+    },
+    {
+        "organization": "Foster Wineland John Deere Equipment",
+        "type": "Retail",
+        "description": "New and used construction and forestry equipment",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.fosterfwineland.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/fosterfwinelandinc"
+            }
+        }
     },
     {
         "organization": "HBBQ Co",
@@ -137,6 +157,11 @@
         "logo": "IMG_7834.png"
     },
     {
+        "organization": "Nonny\u2019s Freeze Dried Treats",
+        "type": "Retail",
+        "description": "Epoxied stainless steel tumblers and freeze dried treats"
+    },
+    {
         "organization": "PA Great Outdoors Visitors Bureau",
         "type": "Retail",
         "description": "Visitor information for Elk, Cameron, and Forest Counties",
@@ -155,6 +180,26 @@
             }
         },
         "logo": "PAGO.jpg"
+    },
+    {
+        "organization": "PA Murders & Mysterious Deaths",
+        "type": "Retail",
+        "description": "Local true crime books",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://elkcountymurder.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100041629275563"
+            }
+        }
+    },
+    {
+        "organization": "Peggy Sowers",
+        "type": "Retail",
+        "description": ""
     },
     {
         "organization": "Pheasants Forever NC PA #630",
@@ -179,7 +224,7 @@
     {
         "organization": "Queen Bees Sweet Sips",
         "type": "Food",
-        "description": "Fresh Brewed Iced Teas, Fresh Squeezed Lemonades, Frappes, Slushys, Hot Drinks (weather depending),  Dips (available for some events)",
+        "description": "Fresh Brewed Iced Teas, Fresh Squeezed Lemonades, Frappes, Slushys, Hot Drinks (weather depending), Dips (available for some events)",
         "links": {
             "url": {
                 "icon": "fa-solid fa-globe",
@@ -195,6 +240,11 @@
         "organization": "Silverado Concessions",
         "type": "Food",
         "description": "Meatball subs, soups, hot dogs, pot pies, and more!"
+    },
+    {
+        "organization": "Special Olympics",
+        "type": "Retail",
+        "description": "Providing year-round sports training and athletic competition in a variety of Olympic-type sports for children and adults with intellectual disabilities, giving them continuing opportunities to develop physical fitness, demonstrate courage, experience joy and participate in a sharing of gifts, skills and friendship with their families, other Special Olympics athletes and the community."
     },
     {
         "organization": "Square Timber Designs",
@@ -213,6 +263,22 @@
         "logo": "Square Timber Final (12 x 12 in).png"
     },
     {
+        "organization": "Stromboli Land",
+        "type": "Food",
+        "description": "6 different kinds of deep fried Stromboli",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/strombolilandconcessions"
+            }
+        }
+    },
+    {
+        "organization": "Sue and Don's Jerky",
+        "type": "Retail",
+        "description": "Prepackaged beef, bacon, and chicken jerky"
+    },
+    {
         "organization": "Triple Nickel Distillery",
         "type": "Alcohol",
         "description": "Specialty Spirits",
@@ -223,5 +289,28 @@
             }
         },
         "logo": "FINALS-Triple Nickel-blue bkg.jpg"
+    },
+    {
+        "organization": "Truth in Nature",
+        "type": "Retail",
+        "description": "Outdoor Christian Ministry and Mentoring for boys from fatherless or one parent homes. Chili dogs, burgers, popcorn",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://truthinnature.org/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/TruthInNature/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/truth_in_nature/?hl=en"
+            },
+            "youtube": {
+                "icon": "fa-brands fa-youtube",
+                "link": "https://vimeo.com/truthinnature/videos"
+            }
+        }
     }
 ]

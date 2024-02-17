@@ -1,5 +1,228 @@
 [
 	{
+		"name-last": "Myers",
+		"name-first": "Doug",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "New Jersey",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dubinsky",
+		"name-first": "Kristy",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Macica",
+		"name-first": "Josiah",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Connors",
+		"name-first": "Kris",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Virginia",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dietrich",
+		"name-first": "Matthew",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Uzdarvis",
+		"name-first": "Raimondas",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "",
+		"country": "Lithuania",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Beeler",
+		"name-first": "Ron",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Lochhead",
+		"name-first": "Bridgitte",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "",
+		"country": "Canada",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Dow",
+		"name-first": "Scott",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Backus",
+		"name-first": "Steve",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Thompson",
+		"name-first": "Brian",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Indiana",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Pinske",
+		"name-first": "Barre",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Vermont",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Wing",
+		"name-first": "Roger",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Klock",
+		"name-first": "Tim",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Kelley",
+		"name-first": "Nick",
+		"name-nickname": false,
+		"business": "Kelley’s Carvings",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/kelleyscarving/"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.kelleyscarvings.com/"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/kelleys_carvings/"
+			}
+		}
+	},
+	{
+		"name-last": "Sprague",
+		"name-first": "Brian",
+		"name-nickname": false,
+		"business": "Sprague Farm",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Donoughe",
+		"name-first": "Jeffery",
+		"name-nickname": false,
+		"business": "Hooskow",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.hooskow.com/"
+			}
+		}
+	},
+	{
+		"name-last": "Krezel",
+		"name-first": "David",
+		"name-nickname": false,
+		"business": "Nature Boy Woodcarving",
+		"city": false,
+		"state": "Connecticut",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/davey_dollars"
+			}
+		}
+	},
+	{
 		"name-last": "Burroughs",
 		"name-first": "Tony",
 		"name-nickname": false,
@@ -482,7 +705,7 @@
 			,
 			"YouTube": {
 			"icon": "fa-brands fa-youtube",
-			"link": "https://www.youtube.com/rjtorresartistry"
+			"link": "https://www.youtube.com/@rjtorresartistry"
 			}
 		}
 	},
@@ -638,17 +861,6 @@
 			"link": "https://www.instagram.com/dk_carving/"
 			}
 		}
-	},
-	{
-		"name-last": "Hood",
-		"name-first": "Gregory",
-		"name-nickname": false,
-		"business": "Hood's Wood",
-		"city": false,
-		"state": "Indiana",
-		"country": "United States",
-		"image": "hood-gregory.jpg",
-		"links": false
 	},
 	{
 		"name-last": "Abeln",
