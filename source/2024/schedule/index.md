@@ -16,6 +16,7 @@ Ridgway, PA 15853
 
 
 Admission: $5 /adult. Kids free!
+[Pre-purchase your tickets](https://chainsawrendezvous.simpletix.com/)
 
 
 ### Wednesday, April 24 from 10 AM - 7 PM

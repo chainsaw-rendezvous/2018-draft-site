@@ -22,7 +22,7 @@ Ridgway Mills Campground
 260 West Main Street
 Ridgway, PA 15853 
 
-Be sure to add your email address to the mailing list for updates and watch on our Facebook page.
+Be sure to add your email address to the mailing list for updates and watch on our [Facebook page](https://fb.com/chainsawrendezvous).
 
 {% raw %}
 <!-- <a href="https://chainsawrendezvous.simpletix.com/">
