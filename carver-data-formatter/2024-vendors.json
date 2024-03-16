@@ -22,6 +22,43 @@
         "description": "Caricature drawings of friends and family. Great, unique gift for a loved one or friend. Sit and become art!"
     },
     {
+        "organization": "Carols Country Cottage",
+        "type": "Retail",
+        "description": "Soy candles, wax melts, kids soap, resin items.",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/CarolsCountryCottage"
+            }
+        },
+        "logo": "inbound5865850218425165611.jpg"
+    },
+    {
+        "organization": "Country Pinecone Art",
+        "type": "Retail",
+        "description": "Pinecone Art",
+        "logo": "IMG_20240227_200003.jpg"
+    },
+    {
+        "organization": "Dan Smith's Candies",
+        "type": "Retail",
+        "description": "Gifts and candies",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://dansmithscandies.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/dan.smithscandies/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/dansmithscandies/"
+            }
+        }
+    },
+    {
         "organization": "Elk County Gifts",
         "type": "Retail",
         "description": "Damascus steel knives, hand-made jewelry",
@@ -69,6 +106,18 @@
         "logo": "HBBQ-circular design.jpg"
     },
     {
+        "organization": "Heath Run Maple Products",
+        "type": "Retail",
+        "description": "Pure PA maple syrup, sugar, cream, candy, caramel popcorn, and sweet and spicy BBQ rub",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/HeathRunMaple/"
+            }
+        },
+        "logo": "logo.jpg"
+    },
+    {
         "organization": "Honkies",
         "type": "Food",
         "description": "Subs, burgers, dogs, fresh cut fries, appetizers",
@@ -112,6 +161,11 @@
         "description": "Candy and assorted gifts"
     },
     {
+        "organization": "K&D Hobby",
+        "type": "Retail",
+        "description": "Tshirts, Hoodies, Hats, and more!"
+    },
+    {
         "organization": "Kracklin Kountry Kettle Korn",
         "type": "Food",
         "description": "Authentic Kettle Korn"
@@ -135,6 +189,46 @@
             }
         },
         "logo": "Lost In The Wilds Brewing.jpg"
+    },
+    {
+        "organization": "McLaughlin Distillery",
+        "type": "Alcohol",
+        "description": "Bourbon, Whiskey, Moonshine, Vodka",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.mclaughlindistillery.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/mclaughlindistillery"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/mclaughlindistillery"
+            },
+            "twitter": {
+                "icon": "fa-brands fa-x-twitter",
+                "link": "https://twitter.com/McDistillery"
+            }
+        },
+        "logo": "AD1A66A2-6B6E-4CE2-83E5-3A8B556DEF55.jpeg"
+    },
+    {
+        "organization": "Military Veterans Outdoors",
+        "type": "Retail",
+        "description": "Military and veteran organization",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://militaryveteransoutdoors.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/MilitaryVeteransOutdoors"
+            }
+        },
+        "logo": "final_logo_lg 501.jpg"
     },
     {
         "organization": "Mommy and Me Cookies",
@@ -237,9 +331,29 @@
         }
     },
     {
+        "organization": "Rivertown Woodgrain",
+        "type": "Retail",
+        "description": "Unique wall artwork handmade maps of lakes, rivers and waterways. Handmade wooden cutting board and charcuterie boards, unique bottle openers , etc.",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://rivertownwoodgrain.com/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/rivertownwoodgrain/"
+            }
+        }
+    },
+    {
         "organization": "Silverado Concessions",
         "type": "Food",
         "description": "Meatball subs, soups, hot dogs, pot pies, and more!"
+    },
+    {
+        "organization": "Skippy's Guns and Horns",
+        "type": "Retail",
+        "description": "Contemporary long rifles, scrimshawed powder horns, leather work, camp chairs and tables."
     },
     {
         "organization": "Special Olympics",
@@ -277,6 +391,22 @@
         "organization": "Sue and Don's Jerky",
         "type": "Retail",
         "description": "Prepackaged beef, bacon, and chicken jerky"
+    },
+    {
+        "organization": "Tiny Town Candles",
+        "type": "Retail",
+        "description": "All natural, hand poured soy candles. (Home of the Scent of Sasquatch!)",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://tiny-town-candles.square.site/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/TinyTownCandles"
+            }
+        },
+        "logo": "20240307_182757.jpg"
     },
     {
         "organization": "Triple Nickel Distillery",
