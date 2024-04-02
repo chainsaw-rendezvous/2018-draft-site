@@ -1,0 +1,68 @@
+[
+   {
+      "name": "John Michalowski",
+      "subname": false,
+      "bio": false,
+      "image": false,
+      "start": "2024-04-26 10:00",
+      "links": false
+   },
+   {
+      "name": "Matt Silvia",
+      "subname": false,
+      "bio": false,
+      "image": false,
+      "start": "2024-04-26 11:15",
+      "links": false
+   },
+   {
+      "name": "Billy Mac",
+      "subname": false,
+      "bio": false,
+      "image": "billy-mac.jpg",
+      "start": "2024-04-26 12:30",
+      "links": false
+   },
+   {
+      "name": "Mike DeStefano",
+      "subname": false,
+      "bio": false,
+      "image": "destefano.jpg",
+      "start": "2024-04-26 13:45",
+      "links": false
+   },
+   {
+      "name": "White Feather",
+      "subname": false,
+      "bio": false,
+      "image": false,
+      "start": "2024-04-26 15:00",
+      "links": false
+   },
+   {
+      "name": "Ireland Fink & Caleb Leonard",
+      "subname": false,
+      "bio": false,
+      "image": "fink-leonard.jpg",
+      "start": "2024-04-26 16:15",
+      "links": false
+   },
+   {
+      "name": "High River Valley",
+      "subname": false,
+      "bio": false,
+      "image": "high-river-valley.jpg",
+      "start": "2024-04-26 17:30",
+      "links": false
+   }
+   ,
+   {
+      "name": "Sleep Walker",
+      "subname": false,
+      "bio": false,
+      "image": "sleep-walker.jpg",
+      "start": "2024-04-27 10:00",
+      "links": false
+   }
+]
+
