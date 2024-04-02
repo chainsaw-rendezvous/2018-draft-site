@@ -57,8 +57,8 @@ Live carving
 Artists & Crafters
 Food Vendors
 Wineries & Breweries
-Quick Carve
-Auction
+1:30pm Quick Carve
+3:00pm Auction
 Entertainment
 
 __Saturday Musical Entertainment__
