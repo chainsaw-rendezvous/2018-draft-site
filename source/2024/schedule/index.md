@@ -48,7 +48,7 @@ __Friday Musical Entertainment__
 12:30 - 1:30 Billy Mac       
 1:45 - 2:45 Mike DeStefano
 3:00 - 4:00 White Feather
-4:15 - 5:00 Ireland Fink & Caleb Leonard
+4:15 - 5:00 Irelynn Fink & Caleb Leonard
 5:30 - 7:00 High River Valley
 
 
