@@ -3,7 +3,7 @@
       "name": "John Michalowski",
       "subname": false,
       "bio": false,
-      "image": false,
+      "image": "micholowski.jpg",
       "start": "2024-04-26 10:00",
       "links": false
    },
@@ -11,7 +11,7 @@
       "name": "Matt Silvia",
       "subname": false,
       "bio": false,
-      "image": false,
+      "image": "matt-silvia.jpg",
       "start": "2024-04-26 11:15",
       "links": false
    },
@@ -35,7 +35,7 @@
       "name": "White Feather",
       "subname": false,
       "bio": false,
-      "image": false,
+      "image": "white-feather.jpg",
       "start": "2024-04-26 15:00",
       "links": false
    },
