@@ -43,7 +43,7 @@ Wineries & Breweries
 Entertainment
 
 __Friday Musical Entertainment__
-10:00 - 11:00 John MIchalowski
+10:00 - 11:00 John Michalowski
 11:15 - 12:15 Matt Silvia     
 12:30 - 1:30 Billy Mac       
 1:45 - 2:45 Mike DeStefano
