@@ -1,6 +1,3 @@
-document.addEventListener('DOMContentLoaded', atcb_init, false);
-
-
 document.addEventListener("DOMContentLoaded", function() {
     var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
   
