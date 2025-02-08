@@ -2,7 +2,7 @@
 preheader: April 23-26, 2025
 title: Chainsaw Carvers Rendezvous
 subheader: 
-date: '2024-09-15 00:00 -0500'
+date: 2025-02-07
 widgets:
 - hero
 - content
@@ -11,7 +11,7 @@ widgets:
     maxCount: 4
     sort:
     - random
-    year: 2024
+    year: 2025
 - event-highlights
 - donation-button
 
