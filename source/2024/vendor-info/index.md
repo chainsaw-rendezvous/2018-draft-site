@@ -23,5 +23,5 @@ Fees are non-refundable and must be submitted with the application.
 1 vendor per spot
 
 
-All vendors are responsible for bringing their own canopy, tables, chairs, and other equipment.
+All vendors are responsible for bringing their own canopy, tables, chairs, and other equipment. You are required to bring adequate supplies to secure your canopy and other items.
 Appalachian Arts Studio and the owners of the property are not responsible for any lost or stolen items, or injuries.

@@ -19,12 +19,12 @@ class color:
    END = '\033[1;37;0m'
 
 remove_previous_files = True
-filename = "_2024CarverRegistration.csv"
+filename = "_2025CarverRegistration.csv"
 image_url_prefix = 'https://register.chainsawrendezvous.org/wp-content/uploads/formidable/2/'
-image_folder = './carver-photos-2024'
-renamed_images = './carver-photos-2024-processed'
+image_folder = './carver-photos-2025'
+renamed_images = './carver-photos-2025-processed'
 
-output_file = '2024-carvers.json'
+output_file = '2025-carvers.json'
 
 try: 
     os.mkdir(image_folder) 
