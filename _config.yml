@@ -135,3 +135,7 @@ alias:
   "registration/": "https://register.chainsawrendezvous.org/carvers"
   "tickets/": "https://chainsawrendezvous.simpletix.com/"
   "ticket/": "https://chainsawrendezvous.simpletix.com/"
+  "shirts/": "2025/shirts"
+  "preorder/": "2025/shirts"
+  "shirt/": "2025/shirts"
+  "shirt-preorder/": "2025/shirts"

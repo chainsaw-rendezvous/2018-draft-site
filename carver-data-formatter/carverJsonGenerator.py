@@ -72,6 +72,7 @@ with open(filename, 'r') as file:
     fields = next(csvreader)
 
     for row in csvreader:
+        print(color.BLUE + "Processing: " + row[fname] + " " + row[lname] + color.END)
         new_row = ''
         new_row += "\t{\n"
         new_row += "\t\t\"name-last\": \"" + row[lname] + "\",\n"
