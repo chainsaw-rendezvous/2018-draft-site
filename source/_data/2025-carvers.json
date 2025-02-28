@@ -11,6 +11,17 @@
 		"links": false
 	},
 	{
+		"name-last": "Ahearn",
+		"name-first": "Shawn",
+		"name-nickname": false,
+		"business": "Ahearn's Envisioned",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "ahearn-shawn.jpg",
+		"links": false
+	},
+	{
 		"name-last": "Backus",
 		"name-first": "Steve",
 		"name-nickname": false,
@@ -70,6 +81,37 @@
 		}
 	},
 	{
+		"name-last": "Beck",
+		"name-first": "Christian",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "",
+		"country": "Germany",
+		"image": "beck-christian.jpg",
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.cgbwoodart.de"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/cb_woodart/"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://www.youtube.com/channel/UC5QUcM6OdHrhcesOeS69vNw/"
+			}
+			,
+			"TikTok": {
+			"icon": "fa-brands fa-tiktok",
+			"link": "https://www.tiktok.com/@cgbwoodart"
+			}
+		}
+	},
+	{
 		"name-last": "Black",
 		"name-first": "Jennifer",
 		"name-nickname": false,
@@ -111,6 +153,22 @@
 		"country": "United States",
 		"image": false,
 		"links": false
+	},
+	{
+		"name-last": "Braun",
+		"name-first": "Mackenzie",
+		"name-nickname": false,
+		"business": "Mack Dawg carving",
+		"city": false,
+		"state": "Colorado",
+		"country": "United States",
+		"image": "braun-mackenzie.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/mackenzie.braun.16"
+			}
+		}
 	},
 	{
 		"name-last": "Braun",
@@ -354,6 +412,17 @@
 			"link": "https://www.hooskow.com/"
 			}
 		}
+	},
+	{
+		"name-last": "Dow",
+		"name-first": "Scott",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
 	},
 	{
 		"name-last": "Dressler",
@@ -648,6 +717,17 @@
 		"links": false
 	},
 	{
+		"name-last": "Jones",
+		"name-first": "Sandra",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
 		"name-last": "Kaczmarski",
 		"name-first": "Joseph",
 		"name-nickname": false,
@@ -665,6 +745,32 @@
 			"Instagram": {
 			"icon": "fa-brands fa-instagram",
 			"link": "https://INSTAGRAM.com/CARVEDBYKAZ"
+			}
+		}
+	},
+	{
+		"name-last": "Kelley",
+		"name-first": "Nick",
+		"name-nickname": false,
+		"business": "Kelley’s Carvings",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": "kelley-nick.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://fb.com/Kelleyscarvings"
+			}
+			,
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.kelleyscarvings.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://instagram.com/Kelleys_carvings"
 			}
 		}
 	},
@@ -1092,6 +1198,53 @@
 		}
 	},
 	{
+		"name-last": "Renninger",
+		"name-first": "Felicia",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
+		"name-last": "Richardson",
+		"name-first": "Derek",
+		"name-nickname": false,
+		"business": "Derek Richardson's ChainsawArt",
+		"city": false,
+		"state": "Kentucky",
+		"country": "",
+		"image": "richardson-derek.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://facebook.com/derek.richardson.18/"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/d.r.chainsawart"
+			}
+			,
+			"YouTube": {
+			"icon": "fa-brands fa-youtube",
+			"link": "https://youtube.com/@derekrichardsonschainsawar8964"
+			}
+			,
+			"TikTok": {
+			"icon": "fa-brands fa-tiktok",
+			"link": "https://www.tiktok.com/@d.r.chainsawart"
+			}
+			,
+			"Twitter": {
+			"icon": "fa-brands fa-x-twitter",
+			"link": "https://x.com/DRchainsawArt"
+			}
+		}
+	},
+	{
 		"name-last": "Robinson",
 		"name-first": "Anthony",
 		"name-nickname": false,
@@ -1159,6 +1312,17 @@
 			"link": "https://artistryinwood.com"
 			}
 		}
+	},
+	{
+		"name-last": "Sharp",
+		"name-first": "Lena",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Colorado",
+		"country": "United States",
+		"image": "sharp-lena.heic",
+		"links": false
 	},
 	{
 		"name-last": "Skal",
@@ -1326,6 +1490,38 @@
 			"Website": {
 			"icon": "fa-solid fa-globe",
 			"link": "https://www.sawptician.com"
+			}
+		}
+	},
+	{
+		"name-last": "Uzdravis",
+		"name-first": "Raimondas",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Kaunas",
+		"country": "Lithuania",
+		"image": "uzdravis-raimondas.jpg",
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/medkircio.darbai"
+			}
+		}
+	},
+	{
+		"name-last": "Waclo",
+		"name-first": "Paul",
+		"name-nickname": false,
+		"business": "Chainsaw Carving by Paul",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "waclo-paul.jpg",
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.chainsawcarvingbypaul.com"
 			}
 		}
 	},
@@ -1509,6 +1705,22 @@
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
 			"link": "https://www.facebook.com/Woodschainsawcarving/"
+			}
+		}
+	},
+	{
+		"name-last": "Zamierowski",
+		"name-first": "Joseph",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": "zamierowski-joseph.jpeg",
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://fb.com/JosephZamierowski"
 			}
 		}
 	}
