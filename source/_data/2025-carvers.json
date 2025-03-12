@@ -22,6 +22,22 @@
 		"links": false
 	},
 	{
+		"name-last": "Alger",
+		"name-first": "Jason",
+		"name-nickname": false,
+		"business": "Artistic Timber",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/jason.nicholas.5815"
+			}
+		}
+	},
+	{
 		"name-last": "Backus",
 		"name-first": "Steve",
 		"name-nickname": false,
@@ -30,6 +46,17 @@
 		"state": "Washington",
 		"country": "United States",
 		"image": "backus-steve.JPG",
+		"links": false
+	},
+	{
+		"name-last": "Baldwin",
+		"name-first": "Darrell",
+		"name-nickname": false,
+		"business": "Wood You Believe It",
+		"city": false,
+		"state": "Connecticut",
+		"country": "United States",
+		"image": false,
 		"links": false
 	},
 	{
@@ -214,6 +241,17 @@
 		}
 	},
 	{
+		"name-last": "Burroughs",
+		"name-first": "Tony",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Michigan",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
 		"name-last": "Burrows",
 		"name-first": "Travis",
 		"name-nickname": false,
@@ -271,6 +309,32 @@
 		"country": "United States",
 		"image": false,
 		"links": false
+	},
+	{
+		"name-last": "Chubbuck",
+		"name-first": "Carole",
+		"name-nickname": false,
+		"business": "CC Carving",
+		"city": false,
+		"state": "Tennessee",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Facebook": {
+			"icon": "fa-brands fa-facebook-f",
+			"link": "https://www.facebook.com/cccarving"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.Instagram.com/carolechubbuck"
+			}
+			,
+			"Store": {
+			"icon": "fa-solid fa-tags",
+			"link": "https://www.etsy.com/shop/cccarving"
+			}
+		}
 	},
 	{
 		"name-last": "Churchill",
@@ -467,6 +531,27 @@
 		}
 	},
 	{
+		"name-last": "Dubinsky",
+		"name-first": "Kristy",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.kristydubinskyart.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/kristydubinskyart"
+			}
+		}
+	},
+	{
 		"name-last": "Dussia",
 		"name-first": "Joe",
 		"name-nickname": false,
@@ -643,6 +728,22 @@
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
 			"link": "https://facebook.com/HartleyHartwoods"
+			}
+		}
+	},
+	{
+		"name-last": "Hartwell",
+		"name-first": "Enoch",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Vermont",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://hart.jr"
 			}
 		}
 	},
@@ -1415,6 +1516,17 @@
 		}
 	},
 	{
+		"name-last": "Suchan",
+		"name-first": "Raymond",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": false,
+		"links": false
+	},
+	{
 		"name-last": "Swanson",
 		"name-first": "Jake",
 		"name-nickname": false,
@@ -1478,6 +1590,22 @@
 		}
 	},
 	{
+		"name-last": "Tompkins",
+		"name-first": "Howard G",
+		"name-nickname": false,
+		"business": "",
+		"city": false,
+		"state": "Pennsylvania",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/dookiegcarver"
+			}
+		}
+	},
+	{
 		"name-last": "Treat",
 		"name-first": "Kevin",
 		"name-nickname": false,
@@ -1506,6 +1634,27 @@
 			"Facebook": {
 			"icon": "fa-brands fa-facebook-f",
 			"link": "https://www.facebook.com/medkircio.darbai"
+			}
+		}
+	},
+	{
+		"name-last": "Vale",
+		"name-first": "Colin",
+		"name-nickname": false,
+		"business": "Carving Colin",
+		"city": false,
+		"state": "Maryland",
+		"country": "United States",
+		"image": false,
+		"links": {
+			"Website": {
+			"icon": "fa-solid fa-globe",
+			"link": "https://www.carvingcolin.com"
+			}
+			,
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/carvingcolin/"
 			}
 		}
 	},
