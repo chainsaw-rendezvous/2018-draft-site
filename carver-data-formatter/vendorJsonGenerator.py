@@ -22,12 +22,12 @@ class color:
    END = '\033[1;37;0m'
 
 remove_previous_files = True
-filename = "_2024VendorRegistration.csv"
+filename = "_2025VendorRegistration.csv"
 image_url_prefix = 'https://register.chainsawrendezvous.org/wp-content/uploads/formidable/2/'
 image_folder = './vendor-photos-2024'
 renamed_images = './vendor-photos-2024-processed'
 
-output_file = '2024-vendors.json'
+output_file = '2025-vendors.json'
 line = 0
 
 regId = 0

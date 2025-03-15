@@ -5,8 +5,8 @@ subheader:
 date: 2018-01-14 17:21:35
 widgets:
   - content
-  # - vendor-cards-new:
-  #     year: 2025
+  - vendor-cards-new:
+      year: 2025
 
 ---
 

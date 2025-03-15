@@ -1,0 +1,470 @@
+[
+    {
+        "organization": "Anytime, Lunchtime!",
+        "type": "Food",
+        "description": "Sandwiches, loaded fries",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.anytimelunchtime.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/anytimelunchtime"
+            }
+        },
+        "logo": "logo2 (1).png"
+    },
+    {
+        "organization": "Back Alley BBQ",
+        "type": "Food",
+        "description": "Pulled Pork, Chicken, Mac & Cheese, Appleslaw, Hot dogs, Loaded Nachos",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/backalleybbqq"
+            }
+        },
+        "logo": "Business Card sample.png"
+    },
+    {
+        "organization": "Benezette Bait Company",
+        "type": "Retail",
+        "description": "Maker of soft plastic fishing lures in the Pa Wilds. Over 20 stock colors and 20 different molded plastic lures. We can do custom colors as well and are constantly adding items.",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://Benezettebait.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://Facebook.com/benezettebaitcompany"
+            }
+        },
+        "logo": "EC42A755-8329-4DF3-8396-1CB438B0BA50.png"
+    },
+    {
+        "organization": "Big Rail Brewing",
+        "type": "Alcohol",
+        "description": "Craft Beer",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://bigrailbrewing.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/bigrailbrewing"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/bigrailbrewing"
+            }
+        },
+        "logo": "1713288131304110002_attach_139325809313730100_240421_082429_page-0001.jpg"
+    },
+    {
+        "organization": "Bling It On",
+        "type": "Retail",
+        "description": "Handmade swarovski crystal jewelry. I have cash and carry or my custmers can design a piece or 2 on site and take it home with them. All jewelry is guaranteed by me with affordable prices.  \nNecklaces, bracelets, earrings, pendants and rings.",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100034170836442"
+            }
+        },
+        "logo": "FB_IMG_1733854220399.jpg"
+    },
+    {
+        "organization": "Carriage House Creations",
+        "type": "Retail",
+        "description": "Jams, Jellies, Sauces, Mustards, salsa\u2019s",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.carriagehousecreations.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "http://www.facebook.com/carriagehousecreationspa"
+            }
+        }
+    },
+    {
+        "organization": "Country Pine Cone Art",
+        "type": "Retail",
+        "description": "We make beautiful wall art out of  pine cones."
+    },
+    {
+        "organization": "Crumbelievable Creations",
+        "type": "Retail",
+        "description": "Variety of sweets and snacks including marshmallows and cake cups.",
+        "logo": "FB_IMG_1741551990085.jpg"
+    },
+    {
+        "organization": "David Nixdorf",
+        "type": "Retail",
+        "description": "Hand turned wooden bowls, pots and live edge vessels finished with food safe finishes. Variety of shapes and sizes \u2026.price point $25-$250",
+        "links": {
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/woodenpeace76/"
+            }
+        },
+        "logo": "IMG_1306.jpeg"
+    },
+    {
+        "organization": "DeLullo Designs",
+        "type": "Retail",
+        "description": "Embroidered items such as pocket reading pillows, kitchen towels and cards"
+    },
+    {
+        "organization": "Dirt Road Rustics",
+        "type": "Retail",
+        "description": "Fractal Burnt Rustic Furniture & Unique Wood Decor",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100005148195629"
+            }
+        }
+    },
+    {
+        "organization": "Down River Concessions",
+        "type": "Food",
+        "description": "Sweet Italian Sausage,Cheese Steaks, Pulled Pork made with Jack Daniels BBQ sauce, Cathie\u2019s homemade Ham and Bean Soup,Cheese Burgers, Nachos with Cheese, hot dogs, Pierogies",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/groups/390873689279291"
+            }
+        },
+        "logo": "1979C8CC-AEA1-4521-B5A6-DDDCA3273A3B.jpeg"
+    },
+    {
+        "organization": "Elk County Gifts",
+        "type": "Retail",
+        "description": "Handmade Damascus Steel knives, Axes, swords, (made with bone, antler, wood) self defense products, novelty knives, Jewelry & more!",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/elkcountygiftsandmore"
+            }
+        },
+        "logo": "IMG_8941.jpeg"
+    },
+    {
+        "organization": "Elk County Wilds",
+        "type": "Retail",
+        "description": "Adult Smoothies paired with Triple Nickle Distillery.\nNOTE PLEASE HAVE ME SET UP NEXT TO THE TRIPLE NICKEL TRAILER THANKS",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.elkcowilds.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/ElkCoWilds/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/elkcountywilds/"
+            }
+        }
+    },
+    {
+        "organization": "Fair Weather Trading Company",
+        "type": "Retail",
+        "description": "Tallow based prodcuts from chapsticks, balms, candles, lotions, soaps and more.",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.fairweathertradingcompany.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/FairWeatherTradingCompany"
+            }
+        },
+        "logo": "IMG_9379 (1).jpeg"
+    },
+    {
+        "organization": "Feral Fairy",
+        "type": "Retail",
+        "description": "The Good For You Magical Candy, \u201cICE CHIPS\u201d Strengthens teeth, reduces tooth decay. No impact on Insulin levels, great for Vegans and Diabetics, zero net carbs. No sugar, soy, wheat, gluten or dairy.",
+        "logo": "Banner.jpeg"
+    },
+    {
+        "organization": "Flora Fauna & Fire Design",
+        "type": "Retail",
+        "description": "Custom designed hats and accessories using pyrography technique.",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://flora-fauna-fauna-design.square.site/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=61556259629011"
+            }
+        },
+        "logo": "IMG_5112.jpeg"
+    },
+    {
+        "organization": "HBBQ Co",
+        "type": "Food",
+        "description": "Pulled Pork & Brisket Sandwiches\nPulled Pork Nachos\nHBBQ Platter\nHot Dogs/chips\nSides: Baked Beans / Coleslaw\nPop / Water",
+        "logo": "HBBQ 2 Flag.JPG"
+    },
+    {
+        "organization": "Handcrafted by Kim",
+        "type": "Retail",
+        "description": "Handcrafted leather & embroidered bags and goods.",
+        "links": {
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/handcraftedbykim01"
+            }
+        }
+    },
+    {
+        "organization": "J&C Brick Oven",
+        "type": "Food",
+        "description": "Wood fired pizza, dessert pizzas, hoagies, nachos",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://jcsbrickoven.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php/?id=100092012644850"
+            }
+        },
+        "logo": "Screenshot_20241206_091132_Gmail.jpg"
+    },
+    {
+        "organization": "JAMA Concessions",
+        "type": "Food",
+        "description": "Panzerotti\nFruit Smasher Lemonade",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://jamaconcessions.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/jamaconcessions"
+            }
+        },
+        "logo": "IMG_4668.jpeg"
+    },
+    {
+        "organization": "Jim Baumgratz - True Crime Author",
+        "type": "Retail",
+        "description": "Local True Crime books",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://elkcountymurder.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100041629275563"
+            }
+        }
+    },
+    {
+        "organization": "Jordan\u2019s Kitchen",
+        "type": "Food",
+        "description": "Specialty Poutine: Brisket Burnt Ends, BBQ pulled pork w/ Alabama White sauce, Crab Fries, Chorizo w/ White cheese, Sweet heat pork,",
+        "logo": "C5E3D7EB-1DC3-4F89-BF3E-82540C7716EC.jpeg"
+    },
+    {
+        "organization": "Knot Your Average Cut",
+        "type": "Retail",
+        "description": "Patriotic and Wildlife themed wood, slate, and aluminum items handcrafted, CNC routers and laser engraved",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100083732240392"
+            }
+        },
+        "logo": "299159590_117267544401089_6789126684051276068_n.jpg"
+    },
+    {
+        "organization": "Kracklin Kountry Kettle Korn",
+        "type": "Food",
+        "description": "on-site freshly popped kettle korn; same location as the 2024 event is preferred unless we can move to the end of the row next to the pavilion",
+        "logo": "IMG_3878.jpeg"
+    },
+    {
+        "organization": "Lost In The Wilds Brewing",
+        "type": "Alcohol",
+        "description": "PA Craft Beer",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://lostinthewildsbrewing.com/"
+            }
+        },
+        "logo": "Lost In The Wilds Brewing.jpg"
+    },
+    {
+        "organization": "Military Veterans Outdoors",
+        "type": "Retail",
+        "description": "Military Veterans Outdoors sells apparel and gun raffle tickets",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://militaryveteransoutdoors.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/MilitaryVeteransOutdoors/"
+            }
+        },
+        "logo": "final_logo_lg.png"
+    },
+    {
+        "organization": "Nittany Laser Creations",
+        "type": "Retail",
+        "description": "Custom laser etched tumblers, water bottles, signs, plaques, awards, and coasters.",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/nittanylasercreations"
+            }
+        },
+        "logo": "NLC LOGO.jpg"
+    },
+    {
+        "organization": "Nonny\u2019s Freeze Dried Treats",
+        "type": "Retail",
+        "description": "Freeze dried candy, possibly epoxied tumblers"
+    },
+    {
+        "organization": "PA Great Outdoors Visitors Bureau",
+        "type": "Retail",
+        "description": "We are dedicated to promoting the attributes of the region as an ideal destination for outdoor recreation. Our Great Outdoors region is a big, beautiful part of Pennsylvania and the perfect destination for family fun and outdoor adventure.",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://visitpago.com"
+            }
+        },
+        "logo": "PAGO_Logo_Color_2023.jpg"
+    },
+    {
+        "organization": "Pheasants Forever #630",
+        "type": "Retail",
+        "description": "Selling raffle tickets to support our local outreach programs, misc Pheasants Forever merchandise for sale",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://northcentralpapf.org/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/PheasantsForeverNorthCentralPA"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/pf_chapter_630/"
+            }
+        }
+    },
+    {
+        "organization": "Rivertown Woodgrain",
+        "type": "Retail",
+        "description": "Handmade wooden carvings of rivers and lakes (wall decor art), wooden cutting boards, etc.",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://rivertownwoodgrain.com/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://instagram.com/rivertownwoodgrain"
+            }
+        }
+    },
+    {
+        "organization": "Silverado",
+        "type": "Food",
+        "description": "Hamburgers, hot dogs, soups, meatball subs, and sausage sandwiches."
+    },
+    {
+        "organization": "Slice of Cake",
+        "type": "Retail",
+        "description": "Baked goods"
+    },
+    {
+        "organization": "The 814 Distillery",
+        "type": "Alcohol",
+        "description": "Distillery Products; Whiskey, Vodka, Rum, Ready to Drink Cocktails",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://the814distillery.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100082962287822"
+            }
+        },
+        "logo": "814-Distillery-Logo-2023.jpg"
+    },
+    {
+        "organization": "Tickle Belly Treats",
+        "type": "Retail",
+        "description": "My own blended seasonings in snack pretzels and pre packaged",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=61567473100325"
+            }
+        },
+        "logo": "IMG_20250128_132951753.jpg"
+    },
+    {
+        "organization": "Triple Nickel Distillery",
+        "type": "Alcohol",
+        "description": "Specialty Spirits / We will be working out of our service trailer once again like last year it is \n10x20 in size...",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://triplenickeldistillery.com"
+            }
+        },
+        "logo": "FINALS-Triple Nickel-blue bkg.jpg"
+    },
+    {
+        "organization": "Uniquely Created",
+        "type": "Retail",
+        "description": "Handmade crafts and decor",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/groups/1248962716895606/"
+            }
+        },
+        "logo": "Uniquely created.png"
+    },
+    {
+        "organization": "Wreaths by Lauri",
+        "type": "Retail",
+        "description": "Epoxy tumblers, car decals, wooden wall decor",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://linktr.ee/wbl102016"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/wreathsbylauri"
+            }
+        },
+        "logo": "inbound9148804538784404855.jpg"
+    }
+]
