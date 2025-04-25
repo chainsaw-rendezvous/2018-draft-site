@@ -18,7 +18,7 @@ Ridgway, PA 15853
 Admission: $5 /adult. Kids free!
 <!-- [Pre-purchase your tickets](https://chainsawrendezvous.simpletix.com/) -->
 
-
+<!--
 ### Wednesday, April 23 from 10 AM - 7 PM
 Carver registration opens at 9 AM
 Live carving
@@ -34,6 +34,7 @@ Live carving
 Artists & Crafters
 Food Vendors
 Wineries & Breweries
+-->
 
 ### Friday, April 25 from 10 AM - 7 PM
 Live carving
