@@ -87,6 +87,9 @@
                         <% if(sortedVendorData[i]['description']) { %>
                             <p><%- sortedVendorData[i]['description'] %></p>
                         <% } %>
+                        <% if(sortedVendorData[i]['payment']) { %>
+                            <p><strong>Payment types accepted:</strong> <%- sortedVendorData[i]['payment'] %></p>
+                        <% } %>
                         <% if(sortedVendorData[i].links) { %>
                             <ul class="uk-navbar-nav">
                         <%

@@ -1,0 +1,672 @@
+[
+    {
+        "organization": "AJ's Wood Works",
+        "type": "Retail",
+        "description": "Wood lawn figures and characters, wood garden figures  and planters, cornhole boards",
+        "payment": "Cash and Cards",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/Wood.painting.lady/"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/36jd5el833szd7ne5qp60/AJs-Wood-Works.jpg?rlkey=guu87ihgcfkwcmrt6k447791j&dl=0"
+    },
+    {
+        "organization": "Allegheny Mountain Knives",
+        "type": "Retail",
+        "description": "I make custom handmade knives and leather sheaths",
+        "payment": "Cash and Cards",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/AlleghenyMountainKnives"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://instagram.com/Allegheny_Mountain_Knives"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/5fg813sdrr1lmvz4q48jp/Allegheny-Mountain-Knives.jpeg?rlkey=xbj6phfqnbs2o07tqlnd4in0a&dl=0"
+    },
+    {
+        "organization": "American Gobbler",
+        "type": "Retail",
+        "description": "Handmade turkey calls  and rolling pins and other wood products",
+        "payment": "Cash and Cards",
+        "logo": "https://www.dropbox.com/scl/fi/i6ypvty017afky9l94vf5/American-Gobbler.mp4?rlkey=qad69rtlio3fbqiwd6pvvf37x&dl=0"
+    },
+    {
+        "organization": "Bear Creek Wines",
+        "type": "Alcohol",
+        "description": "Locally made wine.",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.bearcreekwinespa.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/BearCreekWines"
+            }
+        },
+        "logo": "FAILED(Temporaryfilecouldnotbemoved.)"
+    },
+    {
+        "organization": "Big Rail Brewing",
+        "type": "Alcohol",
+        "description": "Beer \u2013 Alcohol",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.bigrailbrewing.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/bigrailbrewing"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/q7zvyo31cswf81xxfr7e2/Big-Rail-Brewing.jpg?rlkey=aq1q893emwwit9iubecnlwamq&dl=0"
+    },
+    {
+        "organization": "Billy Pretzel Wraps",
+        "type": "Food",
+        "description": "Soft pretzels stuffed pretzel wraps. Buffalo chicken, chicken bacon ranch, pulled pork, cheese steak, ham cheese, etc. Homemade lemonade and ice tea.",
+        "payment": "Cash and Cards"
+    },
+    {
+        "organization": "Bling It On",
+        "type": "Retail",
+        "description": "Swarovski crystal jewelry \nNecklaces, bracelets,  earrings,  rings and pendants \nCash and carry or custom design on site.",
+        "payment": "Cash and Cards",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100034170836442"
+            }
+        }
+    },
+    {
+        "organization": "Blue Mountain Metalworks LLC",
+        "type": "Retail",
+        "description": "Hand drawn, hand cut, custom firepits and accessories. All made with repurposed steel.",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://bluemountainmetalworksllc.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/Bluemountainmetalworksllc/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/bluemountainmetalworksllc/"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/8iabumjp7wiipegedwxxv/Blue-Mountain-Metalworks-LLC.pdf?rlkey=ec72ti6mdvm505uefmsw4m7vb&dl=0"
+    },
+    {
+        "organization": "Brew Bank",
+        "type": "Alcohol",
+        "description": "Retail shop, restaurant, brewery, and lodging",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://thebrewbankco.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/brewbankco"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/thebrewbankbrewingco/"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/ochmje9dr178dh92k2ceh/Brew-Bank.avif?rlkey=ig64eq7a5085yc1m6yqxt35t8&dl=0"
+    },
+    {
+        "organization": "Clover Moon Designs",
+        "type": "Retail",
+        "description": "Art",
+        "payment": "Cash only",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://clovermoondesigns.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/CloverMoonDesigns/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/clovermoondesigns"
+            }
+        }
+    },
+    {
+        "organization": "Country Pine Cone Art",
+        "type": "Retail",
+        "description": "We take your average every day pine cone and turn it into beautiful flowers which we arrange into wall art, wreaths, and any thing else we can think of. It's our way of coloring the world!!!",
+        "payment": "Cards only"
+    },
+    {
+        "organization": "Creative Cup",
+        "type": "Food",
+        "description": "Small-batch coffee roasters serving coffee, lattes, refreshers, homemade bagels, baked goods, and more.",
+        "payment": "Cash and Cards",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/TheCreativeCupCoffee/"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/6t3fphm2fbkl9wqawrhbr/Creative-Cup.jpg?rlkey=9ke45svgzmurx0tjfm1xvgjp0&dl=0"
+    },
+    {
+        "organization": "D&G Woodwork LLC",
+        "type": "Retail",
+        "description": "Handcrafted cedar and walnut wall crosses B2B wholesale bulk to meet carvers with a high quality item for resale and a display for retail customers. Small display of rock bracelets and horseshoe nail necklaces.",
+        "payment": "Cash and Cards",
+        "logo": "https://www.dropbox.com/scl/fi/7cl1mwc7lsjxr3y6e4dy0/DG-Woodwork-LLC.png?rlkey=htl83vcreh51t1x0zk3i0wgwy&dl=0"
+    },
+    {
+        "organization": "Dainty Lane LLC",
+        "type": "Retail",
+        "description": "Permanent Jewelry",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://daintylanebyjenna.square.site/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/daintylanepermanentjewelry"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/7t70cep5odrsw1iwalfzn/Dainty-Lane-LLC.pdf?rlkey=hcscyttjfe749rl2tqsxqfgy9&dl=0"
+    },
+    {
+        "organization": "Dave Giovanini",
+        "type": "Retail",
+        "description": "Unknown",
+        "payment": "Cash only"
+    },
+    {
+        "organization": "Detweiler\u2018s kitchen",
+        "type": "Food",
+        "description": "Burgers, loaded fries, chicken basket w/ fries, mac & cheese, homemade ice cream. These are our best sellers, but we are open to other stuff if we need to.. Thanks Lovina",
+        "payment": "Cash and Cards",
+        "logo": "https://www.dropbox.com/scl/fi/tzi1jh4oct9dh26uphzwz/Detweiler-s-kitchen.png?rlkey=uc3l1tx2sww41mv18gat4oenk&dl=0"
+    },
+    {
+        "organization": "Dirt Road Rustics",
+        "type": "Retail",
+        "description": "Handmade fractal burnt rustic furniture and unique wood decor",
+        "payment": "Cash and Cards",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100005148195629"
+            }
+        }
+    },
+    {
+        "organization": "Down River Concessions",
+        "type": "Food",
+        "description": "Jumbo sweet Italian sausage, cheese steaks, pulled pork, burgers and hotdogs, nachos and cheese, homemade mac and cheese, homemade ham and bean soup",
+        "payment": "Cards only",
+        "logo": "https://www.dropbox.com/scl/fi/xis2xilnj1qmmw1y0bket/Down-River-Concessions.jpeg?rlkey=k1ozl4qf36xm71eb6c6fz9meh&dl=0 , https://www.dropbox.com/scl/fi/n8rx7jrebn96mqdzwv09r/Down-River-Concessions-1.jpeg?rlkey=ei9bl9icay9gnbkpzxbkc4p5q&dl=0"
+    },
+    {
+        "organization": "Elk County Council on the Arts",
+        "type": "Retail",
+        "description": "Local non-profit offering regional artisan items, DIY art kits, information about grant funding and education, and free and low-cost youth programming.",
+        "payment": "Cards only",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.ECCOTA.com"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/hijwd5eudntr3q626wc2n/Elk-County-Council-on-the-Arts.gif?rlkey=frlu0yjqstl02berwvhmivoa0&dl=0"
+    },
+    {
+        "organization": "Elk County Gifts",
+        "type": "Retail",
+        "description": "Handmade Damascus Steel knives, axes, sheaths, novelty knives, rings, and self defense products.",
+        "payment": "Cash and Cards",
+        "logo": "https://www.dropbox.com/scl/fi/lcfz6cwi02d33ygyt7x3i/Elk-County-Gifts.jpeg?rlkey=b1lncz4x62h9avlflh576nedr&dl=0 , https://www.dropbox.com/scl/fi/p2nav271b0bo7goiow28k/Elk-County-Gifts-1.jpeg?rlkey=3kilea1r049nkhzmj8ys84mwt&dl=0"
+    },
+    {
+        "organization": "Elk County Wilds",
+        "type": "Retail",
+        "description": "Adult smoothies paired with Triple Nickel Distillery, gourmet nuts",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.elkcowilds.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/ElkCoWilds/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/elkcountywilds/"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/y1fyfg69d6voc19kzpxb3/Elk-County-Wilds.jpg?rlkey=tixnkkbfhpdxc7dfghpvdgtru&dl=0"
+    },
+    {
+        "organization": "Flora Fauna & Fire Design",
+        "type": "Retail",
+        "description": "I design hats and accessories using pyrography techniques",
+        "payment": "Cash and Cards",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=61556259629011"
+            }
+        }
+    },
+    {
+        "organization": "Forestcore Decor and More LLC",
+        "type": "Retail",
+        "description": "Hand-crafted wood burnt artwork, paintings, stickers, and other products with original nature-themed designs",
+        "payment": "Cash and Cards",
+        "logo": "https://www.dropbox.com/scl/fi/p73owqrq5j5nvzgnaxip0/Forestcore-Decor-and-More-LLC.png?rlkey=65lhhzq80xp7xbzcvdihfu4t8&dl=0"
+    },
+    {
+        "organization": "HBBQ Co",
+        "type": "Food",
+        "description": "BBQ: Brisket and pulled pork sandwiches, pulled pork nachos, butter-braised chicken legs\nSides: Coleslaw, baked beans\nDrinks: Pop, water, coffee",
+        "payment": "Cash and Cards",
+        "logo": "https://www.dropbox.com/scl/fi/j8o1mip4f5dc6wyc6pkfc/HBBQ-Co.jpg?rlkey=mriuy1yjdxi8nylptrc90tnb7&dl=0"
+    },
+    {
+        "organization": "Handcrafted by Kim",
+        "type": "Retail",
+        "description": "Handcrafted leather & embroidered purses, bags, and other goods.",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.hbkleather.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=61573138513635"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/handcraftedbykim01"
+            }
+        }
+    },
+    {
+        "organization": "Harold\u2019s Wood Creations",
+        "type": "Retail",
+        "description": "All handmade wood projects great for gifts, organization, and decor.  Items include solid wood multi and single hook wall racks\u2026great for entryway/coats/bathrooms/keys\u2026several include mounted antique saw blades and horseshoe hooks.  Additionally, there are heavy duty wall racks with horseshoe hooks\u2026ideal for tackle, decor, and/or barn/storage organization. Several decorative wood decor items with antlers, bottle openers, and welcome signs available as well!",
+        "payment": "Cash only"
+    },
+    {
+        "organization": "Hazard's Distillery",
+        "type": "Alcohol",
+        "description": "A line of 40 proof flavored moonshines and a line of 70 proof flavored whiskeys",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.hazardsdistillery.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=100033535311977"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://hazardsdistillery.com"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/yb366wqzggxu6ket6vdsk/Hazards-Distillery-Inc.png?rlkey=o9wpn9nvwpxwxbcbiuq3zx90b&dl=0"
+    },
+    {
+        "organization": "Heath Run Maple Products",
+        "type": "Retail",
+        "description": "We make and sell pure PA maple products, including maple syrup, sugar, cream, candy, cinnamon infused maple syrup, vanilla infused maple syrup, maple caramel popcorn, and sweet and spicy maple bbq rub.",
+        "payment": "Cash and Cards",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/HeathRunMaple"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/i70y5v6xwfv0aojfrkwsj/Heath-Run-Maple-Products.png?rlkey=723yixayvv8vk2tuxb9bjnkir&dl=0"
+    },
+    {
+        "organization": "Hull Electric",
+        "type": "Retail",
+        "description": "Milwaukee branded power tools, hand tools, and accessories. We will have a variety of battery powered chainsaws, pole saws, and other battery power tools.",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.hullelectric.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/HullElectric/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/hull.electric"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/aytael5ixovt00pbpqk36/Hull-Electric.png?rlkey=xkkeeewvjrgkxu3xgbhigoxp6&dl=0"
+    },
+    {
+        "organization": "Inked Garden",
+        "type": "Retail",
+        "description": "We offer custom flash tattoos, temporary tattoos, Inked Garden Tattoo Parlor merchandise, tattoo gift certificates & more!",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://inkedgarden.glossgenius.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=61577705486359"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/inked_bythegarden"
+            }
+        },
+        "logo": "FAILED(Temporaryfilecouldnotbemoved.)"
+    },
+    {
+        "organization": "J&C Brick Oven LLC",
+        "type": "Food",
+        "description": "Wood fired pizza, nachos, steak hoagie, dessert pizzas",
+        "payment": "Cash and Cards",
+        "logo": "FAILED(Temporaryfilecouldnotbemoved.)"
+    },
+    {
+        "organization": "Jim's Trinket Store",
+        "type": "Retail",
+        "description": "Assortment of 3D printed decor, fidgets, animals, and functional items.",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.jimstrinketstore.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/profile.php?id=100089510380067"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/oeity242a8v25juja2p4i/Jims-Trinket-Store.png?rlkey=3lt82adg9t30d5exrzbdm4h2x&dl=0"
+    },
+    {
+        "organization": "Jordans Kitchen",
+        "type": "Food",
+        "description": "Poutine\nBrisket,cheese curds and demi glac\u00e9 \nPulled pork, cheese curds, bbq, Alabama white sauce\nPulled pork bbq, sweet spicy pickles",
+        "payment": "Cash and Cards",
+        "logo": "https://www.dropbox.com/scl/fi/bskuo09oym53sgg92d7mb/Jordans-Kitchen.jpeg?rlkey=z1uggddhpsuaur147bnplkb6y&dl=0"
+    },
+    {
+        "organization": "Kid's Corner",
+        "type": "Retail",
+        "description": "Kid's activities",
+        "payment": "Cash only"
+    },
+    {
+        "organization": "Kracklin Kountry Kettle Korn",
+        "type": "Food",
+        "description": "Freshly popped kettle korn & water",
+        "payment": "Cash and Cards",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/profile.php?id=61556694505424"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/kracklin_kountry_kettle_korn"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/g528bp4dcpkkrm7g1o5bs/Kracklin-Kountry-Kettle-Korn.jpeg?rlkey=v6ux2rh262lzv2p4mvn8cjbxj&dl=0"
+    },
+    {
+        "organization": "Leid Antlerworks",
+        "type": "Retail",
+        "description": "Handmade unique metal antlers, euro skulls , fish , birds , feathers etc , for decoration, barns , cabins , man caves , inside or outside",
+        "payment": "Cash and Cards",
+        "links": {
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/LeidAntlerworks"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/m2ncoeggt5cx9orfyj8b6/LeidAntlerworks.pdf?rlkey=7kygkdcaeg2p3ru0xolz4bulk&dl=0"
+    },
+    {
+        "organization": "Lost In The Wilds Brewing",
+        "type": "Alcohol",
+        "description": "Pennsylvania Craft Beer",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.wilds.beer"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/LostInTheWildsBrewing"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://instagram.com/lostinthewildsbrewing"
+            }
+        },
+        "logo": "FAILED(Temporaryfilecouldnotbemoved.)"
+    },
+    {
+        "organization": "Mama Juice Mountain Magic",
+        "type": "Retail",
+        "description": "Bag charms & keychains made from secondhand materials. Ridge fringe: wild adornments for everyday magic",
+        "payment": "Cash and Cards",
+        "links": {
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/mamajuicemountainmagic?igsh=MXF2MzNjeG5uOHhiNg%3D%3D&utm_source=qr"
+            }
+        }
+    },
+    {
+        "organization": "Military Veterans Outdoors",
+        "type": "Retail",
+        "description": "Military Veterans Outdoors sells apparel and gun raffle tickets",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://militaryveteransoutdoors.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/MilitaryVeteransOutdoors/"
+            }
+        },
+        "logo": "http://register.chainsawrendezvous.org/wp-content/uploads/gravity_forms/1-4f8887f0e69aaf4abf70f12563e5d80e/2026/02/Military-Veterans-Outdoors-.png"
+    },
+    {
+        "organization": "Nonny\u2019s Freeze Dried Treats",
+        "type": "Retail",
+        "description": "Freeze dried candy. Epoxied stainless steel tumblers",
+        "payment": "Cash and Cards"
+    },
+    {
+        "organization": "PA Game Commission",
+        "type": "Retail",
+        "description": "State Agency handing out free materials",
+        "payment": "Cards only"
+    },
+    {
+        "organization": "PA Great Outdoors Visitors Bureau",
+        "type": "Retail",
+        "description": "Local tourist information.",
+        "payment": "Cash only",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://visitpago.com/"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/visitPAGO"
+            }
+        },
+        "logo": "FAILED(Temporaryfilecouldnotbemoved.)"
+    },
+    {
+        "organization": "PA Hickory Syrup",
+        "type": "Retail",
+        "description": "Pennsylvania Hickory syrup in bottles",
+        "payment": "Cash only",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.pahickorysyrup.net"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/8kar4o1zytu3j6hn0ug16/Pa-hickory-syrup.jpeg?rlkey=2t9s75hytpqj9xkjy1f13n3xn&dl=0 , https://www.dropbox.com/scl/fi/mtwv6x0qwsi2843df32v7/Pa-hickory-syrup-1.jpeg?rlkey=wtibpgqe1t3rgu9h4g07avpca&dl=0"
+    },
+    {
+        "organization": "PaPa J\u2019s Wings",
+        "type": "Food",
+        "description": "Wings",
+        "payment": "Cash only"
+    },
+    {
+        "organization": "Pheasants Forever #630",
+        "type": "Retail",
+        "description": "Raffle ticket sales to support our local outreach programs. Raffle prizes are firearms and will be on display. Also some misc Pheasants Forever merchandise may be offered for sale.",
+        "payment": "Cash only",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.northcentralpapf.org"
+            }
+        }
+    },
+    {
+        "organization": "Rivertown Woodgrain",
+        "type": "Retail",
+        "description": "Handmade wooden carvings of rivers and lakes (wall decor art), wooden cutting boards, etc.",
+        "payment": "Cash only",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://rivertownwoodgrain.com/"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://instagram.com/rivertownwoodgrain"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/v4t3rdduj2fj623vena5n/Rivertown-Woodgrain.png?rlkey=pjbh12elmfyguo8zxwkjlczkr&dl=0"
+    },
+    {
+        "organization": "Scents by Stacey",
+        "type": "Retail",
+        "description": "Handmade candles, melts and carry diffusers",
+        "payment": "Cash and Cards"
+    },
+    {
+        "organization": "Silverado Concessions",
+        "type": "Food",
+        "description": "Hamburgers, sausage, nachos, soups, potpie, gyros, meatball subs, hot dogs, coffee, hot choc, water, sodas, (flexible on weather)  cold \u2013 more hot foods. Warm\u2026sonething more light\u2026",
+        "payment": "Cash only"
+    },
+    {
+        "organization": "Special Olympics",
+        "type": "Retail",
+        "description": "Providing year-round sports training and athletic competition in a variety of Olympic-type sports for children and adults with intellectual disabilities, giving them continuing opportunities to develop physical fitness, demonstrate courage, experience joy and participate in a sharing of gifts, skills and friendship with their families, other Special Olympics athletes and the community.",
+        "payment": "Cash only"
+    },
+    {
+        "organization": "Spolski Maple",
+        "type": "Retail",
+        "description": "Maple syrup products",
+        "payment": "Cash only"
+    },
+    {
+        "organization": "Sue and Don's Jerky",
+        "type": "Retail",
+        "description": "Prepackaged beef and bacon jerky.",
+        "payment": "Cash and Cards"
+    },
+    {
+        "organization": "TK Crafts",
+        "type": "Retail",
+        "description": "Wood flowers, vases, small wood snowman, small wood gnomes created on a wood lathe.",
+        "payment": "Cash only"
+    },
+    {
+        "organization": "The 814 Distillery",
+        "type": "Alcohol",
+        "description": "Distilled Alcoholic Beverages including Whiskey, Flavored Whiskies, Rum, Flavored Rums, Vodka, Flavored Vodkas and Gin",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.the814distillery.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://facebook.com/The814Distillery"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/0kh3sc68npfuv7lflep4u/The-814-Distillery.pdf?rlkey=suuckr0umzd1w4wiz3l7frq3p&dl=0"
+    },
+    {
+        "organization": "Tickle Belly Treats",
+        "type": "Retail",
+        "description": "My own blend of seasonings I put on snack pretzels and pre-package",
+        "payment": "Cards only",
+        "logo": "https://www.dropbox.com/scl/fi/d84pzg1sr5y8fvpgf880u/Tickle-Belly-Treats-LLC.PNG?rlkey=1oz8iskng2qunbgbqhr9mcb8z&dl=0"
+    },
+    {
+        "organization": "Triple Nickel Distillery",
+        "type": "Alcohol",
+        "description": "Specialty Spirits (Alcohol)",
+        "payment": "Cash and Cards",
+        "links": {
+            "url": {
+                "icon": "fa-solid fa-globe",
+                "link": "https://www.triplenickeldistillery.com"
+            },
+            "facebook": {
+                "icon": "fa-brands fa-facebook-f",
+                "link": "https://www.facebook.com/TripleNickelDistillery"
+            },
+            "instagram": {
+                "icon": "fa-brands fa-instagram",
+                "link": "https://www.instagram.com/triplenickeldistillery/"
+            }
+        },
+        "logo": "https://www.dropbox.com/scl/fi/4wdloibcfp1uyqshirbr8/Triple-Nickel-Distillery.jpg?rlkey=uqs1q7hzbbr1a143kygja53v6&dl=0"
+    }
+]

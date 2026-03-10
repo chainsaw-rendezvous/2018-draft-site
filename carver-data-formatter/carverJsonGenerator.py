@@ -19,12 +19,12 @@ class color:
    END = '\033[1;37;0m'
 
 remove_previous_files = True
-filename = "_2025CarverRegistration.csv"
-image_url_prefix = 'https://register.chainsawrendezvous.org/wp-content/uploads/formidable/2/'
-image_folder = './carver-photos-2025'
-renamed_images = './carver-photos-2025-processed'
+filename = "2026-carver-registration-2026-03-09.csv"
+image_url_prefix = ''
+image_folder = './carver-photos-2026'
+renamed_images = './carver-photos-2026-processed'
 
-output_file = '2025-carvers.json'
+output_file = '2026-carvers.json'
 
 try: 
     os.mkdir(image_folder) 
@@ -46,20 +46,21 @@ except OSError as error:
         print("\n")
 
 regId = 0
-fname = 3
-lname = 2
-business = 4
-state = 5
-country = 6
-website = 7
-facebook = 9
-twitter = 11
-instagram = 10
-youtube = 12
-tiktok = 13
-threads = 14
-other = 15
-store = 8
+fname = 2
+lname = 4
+business = 6
+city = 12
+state = 13
+country = 15
+website = 17
+facebook = 19
+twitter = 20
+instagram = 21
+youtube = 24
+tiktok = 23
+threads = 22
+other = 26
+store = 18
 image = 16
 
 data = []
@@ -79,13 +80,13 @@ with open(filename, 'r') as file:
         new_row += "\t\t\"name-first\": \"" + row[fname] + "\",\n"
         new_row += "\t\t\"name-nickname\": false,\n"
         new_row += "\t\t\"business\": \"" + row[business] + "\",\n"
-        new_row += "\t\t\"city\": false,\n"
+        new_row += "\t\t\"city\": \"" + row[city] + "\",\n"
         new_row += "\t\t\"state\": \"" + row[state] + "\",\n"
         new_row += "\t\t\"country\": \"" + row[country] + "\",\n"
         has_image = False
         if row[image]:
-            img_path = image_folder + "/" + row[regId] + "_1_" + row[image].replace(image_url_prefix,'')
-            img_path = image_folder + "/" + row[regId].zfill(2) + "_1_" + row[image]
+            img_path = image_folder + "/" + row[image].replace(image_url_prefix,'')
+            img_path = image_folder + "/" + row[image]
             print(img_path+" file expected")
             if path.exists(img_path):
                 print(img_path+" file exists")

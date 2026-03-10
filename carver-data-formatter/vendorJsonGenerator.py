@@ -22,26 +22,27 @@ class color:
    END = '\033[1;37;0m'
 
 remove_previous_files = True
-filename = "_2025VendorRegistration.csv"
-image_url_prefix = 'https://register.chainsawrendezvous.org/wp-content/uploads/formidable/2/'
-image_folder = './vendor-photos-2024'
-renamed_images = './vendor-photos-2024-processed'
+filename = "2026-vendor-registration-2026-03-09.csv"
+image_url_prefix = ''
+image_folder = './vendor-photos-2026'
+renamed_images = './vendor-photos-2026-processed'
 
-output_file = '2025-vendors.json'
+output_file = '2026-vendors.json'
 line = 0
 
 regId = 0
 paid = 1
-organization = 2
-type = 3
-description = 4
-website = 5
-facebook = 6
-instagram = 7
-twitter = 8
-threads = 9
-youtube = 10
-logo = 11
+organization = 3
+type = 4
+description = 15
+website = 17
+facebook = 18
+instagram = 20
+twitter = 19
+threads = 21
+youtube = 22
+logo = 25
+payment = 16
 
 vendors = []
 
@@ -58,6 +59,7 @@ with open(filename, 'r') as file:
         v["organization"] = row[organization]
         v["type"] = row[type]
         v["description"] = row[description]
+        v["payment"] = row[payment]
         links = {}
         if isNotBlank(row[website]):
             links["url"] = {
