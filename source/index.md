@@ -11,7 +11,7 @@ widgets:
     maxCount: 4
     sort:
     - random
-    year: 2025
+    year: 2026
 - event-highlights
 - donation-button
 
