@@ -1013,17 +1013,6 @@
 		}
 	},
 	{
-		"name-last": "Hood",
-		"name-first": "Gregory",
-		"name-nickname": false,
-		"business": "Hood's Wood Custom Chainsaw Carving",
-		"city": false,
-		"state": false,
-		"country": "United States",
-		"image": "hood-gregory.jpg",
-		"links": false
-	},
-	{
 		"name-last": "Lish",
 		"name-first": "David",
 		"name-nickname": false,
@@ -1868,17 +1857,6 @@
 		"state": "New York",
 		"country": "United States",
 		"image": "king-rebecca.jpg",
-		"links": false
-	},
-	{
-		"name-last": "Montoya",
-		"name-first": "Alonzo",
-		"name-nickname": false,
-		"business": false,
-		"city": false,
-		"state": false,
-		"country": "United States",
-		"image": false,
 		"links": false
 	},
 	{
