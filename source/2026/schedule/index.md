@@ -44,6 +44,8 @@ Food Vendors
 Wineries & Breweries
 Entertainment
 
+11:00am [Family Story time with Ridgway Public Library](https://www.facebook.com/story.php?story_fbid=1253440496890795&id=100066745697345)
+
 __Friday Musical Entertainment__
 10:00 - 11:00 Kallie Williams Music
 11:15 - 12:15 Nick Forsyth  
