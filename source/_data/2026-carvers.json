@@ -55,6 +55,22 @@
 		"links": false
 	},
 	{
+		"name-last": "Macica",
+		"name-first": "Josiah",
+		"name-nickname": false,
+		"business": "Pine Ridge Carvings",
+		"city": false,
+		"state": "New York",
+		"country": "United States",
+		"image": "macica-josiah.jpg",
+		"links": {
+			"Instagram": {
+			"icon": "fa-brands fa-instagram",
+			"link": "https://www.instagram.com/pineridgecarvings/"
+			}
+		}
+	},
+	{
 		"name-last": "Drake",
 		"name-first": "Patrick",
 		"name-nickname": false,

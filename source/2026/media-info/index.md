@@ -13,10 +13,14 @@ Media inquiries should be directed to Isaac McDaniel by email at isaac@zone6.onl
 ## Common Questions
 
 ### How many carvers are participating? Where are they from?
-There are over 150 carvers signed up for 2026 from all over the United States and multiple countries.
+There are over 130 carvers signed up for 2026 from all over the United States and multiple countries including Canada, Germany, and the United Kingdom.
 
 ### Where is the event happening?
 The event takes place in Ridgway, PA. All activities will take place at The Ridgway Mills. Check the [schedule](../schedule "2026 Rendezvous Schedule") for the most up-to-date listing of activities.
+
+### Do you have photos from previous events that I can use?
+Yes, you can use these [high resolution images](https://www.dropbox.com/scl/fo/6lp90md2oz491idoksjx6/AIeMA9TMSHkuLlryn2hI2vk?rlkey=k5fv2dt9b9a8wbc9qhqopjfd1&dl=0) for your media outlet.
+
 
 ### Are carvers selling pieces during the event?
 Yes! Carvers are selling directly to the public at their booth. These are finished pieces that are ready for display in your home. Payment methods vary from carver to carver, so be sure to ask. Most carvers are accepting credit or debit cards these days. Bring a vehicle suitable to take your selections home.
